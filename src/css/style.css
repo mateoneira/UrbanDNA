@@ -1,0 +1,20 @@
+/*import fonts*/
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Roboto+Slab');
+
+
+h1, h2, h3, h4, h5, h6{
+	font-family: "Roboto Slab", serif;
+	font-weight: 700;
+	color: red;
+	font-size: 1.75em;
+	margin-bottom: 0.4em;
+}
+
+body{
+	font-family: "Exo 2", sans-serif;
+	font-weight: 300;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	background: $orange;
+	color: blue;
+}
