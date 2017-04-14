@@ -13,91 +13,147 @@
 		<meta name="author" content = "Mateo Neira">
 
 		<!-- bootstrap CSS-->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="./css/bootstrap.css">
 
 		<!-- load stylesheet -->
-		<link rel="stylesheet" type="text/css" href=".css/style.css">
+		<link rel="stylesheet" href="./css/style.css">
+
+		<!-- mapstyle -->
+
+		<!--social media icons -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 	</head>
 
-	<body id="page-top">
+	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 		<!-- fixed navbar contains title and menu-->
-		<nav class="navbar navbar-default navbar-fixed-top navbar-toggleable-md">
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="container-fluid">
-				<h1 class="text-left">Urban DNA</h1>
-				<p class="text-right">
-					<a href="#" class="btn btn-default">About</a>
-					<a href="#" class="btn btn-default">Data</a>
-					<a href="#" class="btn btn-default">Methodology</a>
-					<a href="#" class="btn btn-default"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>Team</a>
-				</p>
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" aria-expanded="false">
+						<span class="glyphicon glyphicon-menu-hamburger"></span>
+					</button>
+					<a class="navbar-brand page-scroll" href="#page-top">urban<b>DNA</b></a>
+				</div>
+				<!-- group of links for navigation for responsive toggling -->
+				<div class="collapse navbar-collapse navbar-right" id="nav-menu">
+					<ul class="nav navbar-nav">
+						<li>
+							<a class="page-scroll" href="#About">About</a>
+						</li>
+						<li>
+							<a class="page-scroll" href="#Data">Data</a>
+						</li>	
+						<li>
+							<a class="page-scroll" href="#Methodology">Methodology</a>
+						</li>	
+						<li>
+							<a class="page-scroll" href="#Team">Team</a>
+						</li>							
+					</ul>					
+				</div>
 			</div>
 		</nav>
 
 		<!-- main window, cointains map and fixed wrapper for graphs -->
-		<div class="jumbotron">
-			<div class="container-fluid">
-				<h1>Map will be here</h1>
-				<div class="pull-right"> Info here </div>
-			</div>		
-		</div>
+		<div class="mainWrapper">
+				<div id="map-canvas"></div>
+				<div class=" infoWrapper"> 
+					<div id="info-container">
+						<h2>Info here</h2>
+						 <!-- this is the Interactive Vis -->
+						<div id="viz"></div>
+					</div>
+					<div id="sidebar">
+						<a href="#" id="navHome"><span class="glyphicon glyphicon-menu-up"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome"><span class="glyphicon glyphicon-home"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
+						<a href="#" id="navHome"><span class="glyphicon glyphicon-menu-down"  aria-hidden="true"></span></a>
 
+					</div>
+				</div>
+		</div>
 		<!-- About -->
-		<div>
-			<h2>About</h2>
+		<div id="About">		
+			<div class="container">
+				<h2>About</h2>
+			</div>
 		</div>
-
 		<!-- Data -->
-		<div>
-			<h2>Data</h2>
+		<div id="Data">
+			<div class="container">
+				<h2>Data</h2>
+			</div>
 		</div>
-
 		<!-- Methodology -->
-		<div>
-			<h2>Methodology</h2>
+		<div id="Methodology">			
+			<div class="container">
+				<h2>Methodology</h2>
+			</div>
 		</div>
 		<!-- Team - gridded system to contain information on Team -->
-		<div>
-			<h2>
-				<span class="glyphicon glyphicon-user" aria-hidden="true"></span>Team
-			</h2>
-			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="thumbnail">
-						<img src="" alt="Mateo Neira" class="img-rounded">
-						<div class="caption">
-							<h3>Mateo Neira</h3>	
-							<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							<p><a href="#" class="btn btn-default" role="button">Social Media</a> <a href="#" class="btn btn-default" role="button">Social Media</a></p>
+		<div id="Team">
+			<div class="container">
+				<h2>Team</h2>
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="thumbnail">
+							<img src="./img/mateo.jpg" alt="Mateo Neira" class="img-rounded">
+							<div class="caption">
+								<h3>Mateo Neira</h3>	
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+								<p id="social-links">
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+								</p>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="thumbnail">
-						<img src="" alt="Eleftherios Sergios" class="img-rounded">
-						<div class="caption">
-							<h3>Eleftherios Sergios</h2>	
-							<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							<p><a href="#" class="btn btn-default" role="button">Social Media</a> <a href="#" class="btn btn-default" role="button">Social Media</a></p>
+					<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="thumbnail">
+							<img src="./img/Eleftherios.jpg" alt="Eleftherios Sergios" class="img-rounded">
+							<div class="caption">
+								<h3>Eleftherios Sergios</h3>	
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+								<p id="social-links">
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+								</p>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="thumbnail">
-						<img src="" alt="June He" class="img-rounded">
-						<div class="caption">
-							<h3>June He</h2>	
-							<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							<p><a href="#" class="btn btn-default" role="button">Social Media</a> <a href="#" class="btn btn-default" role="button">Social Media</a></p>
+					<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="thumbnail">
+							<img src="./img/June.jpg" alt="June He" class="img-rounded">
+							<div class="caption">
+								<h3>June He</h3>	
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+								<p id="social-links">
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+								</p>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="thumbnail">
-						<img src="" alt="Mercedes Landa" class="img-rounded">
-						<div class="caption">
-							<h3>Mercedes Landa</h2>	
-							<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							<p><a href="#" class="btn btn-default" role="button">Social Media</a> <a href="#" class="btn btn-default" role="button">Social Media</a></p>
+					<div class="col-xs-12 col-sm-6 col-md-3">
+						<div class="thumbnail">
+							<img src="./img/Mercedes.jpg" alt="Mercedes Landa" class="img-rounded">
+							<div class="caption">
+								<h3>Mercedes Landa</h3>	
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+								<p id="social-links">
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
+									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+								</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -105,16 +161,28 @@
 		</div>
 
 		<!-- footer, made with love -->
-		<footer class="text-center">Made With <span class="glyphicon glyphicon-heart"  aria-hidden="true"></span> by 3A1M</footer>
+		<footer class="text-center">Made With <span class="glyphicon glyphicon-heart"  aria-hidden="true" style="color:red"></span> by 3A1M</footer>
 
 		<!-- Jquery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<!-- Theme JS -->
-
-		<!--  -->
-
 		<!-- loading bootstrap JS -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+		<!-- load D3js -->
+		<script src="./js/d3.js"></script>
+		<!-- load D3plus after D3js -->
+		<script src="./js/d3plus.js"></script>
+		<!-- load interactive vis script -->
+		<script src="./js/interactive_vis.js"></script>
+
+		<!-- googlemaps JS -->
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhptWhUFauu7NLnh6COcJYJgS70Q_GVOc&libraries=visualization"></script>
+		<script type='text/javascript' src='./js/interaction.js'></script>
+		<script type='text/javascript' src='./js/mapStyle.js'></script>
+		<script src="./js/jquery.easing.min.js"></script>
+	    <script src="./js/scrolling-nav.js"></script>
+
+
 	</body>
 </html>
 
