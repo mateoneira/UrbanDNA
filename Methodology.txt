@@ -1,0 +1,40 @@
+DATABASE:
+
+
+
+
+DATA ANALYSIS:
+
+- Clustering Methods
+
+
+
+- Clustering Boundaries
+
+
+
+- Spearman’s Rank Correlation
+
+
+
+- Hierarchical Clustering
+
+
+
+- Interpolation
+
+
+
+- Shannon’s Diversity Index
+
+
+
+
+
+WEBSITE:
+
+
+
+
+API:
+
