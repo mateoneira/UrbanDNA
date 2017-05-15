@@ -5,27 +5,32 @@ DATABASE:
 
 DATA ANALYSIS:
 
-- Clustering Methods
+The programming language used is Python and libraries like pandas, numpy, scipy, scikit, shapely, matplotlib etc.
+
+- Clustering Methods (THIS IS COPIED FROM MY REPORT, PLEASE PARAPHRASE)
+
+we are testing three different density based clustering methods to identify neighborhood scale agglomerations of amenities. We start by using the Density Based Spatial Clustering Algorithm with Noise (DBSCAN) and then we tested Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN), which is based on DBSCAN but you don’t need to specify the epsilon distance around each point and also it allows for varying density clusters. At the end, we examined the Agglomerative Clustering method where each point begins in its own cluster and then merge with others ones based on different criteria. The method that meets our needs for this study is HDBSCAN as it creates attractive neighbourhoods that correspond successfully to most of the amenities concentrations in London.
 
 
+- Clustering Boundaries (THIS IS COPIED FROM MY REPORT, PLEASE PARAPHRASE)
 
-- Clustering Boundaries
-
-
-
-- Spearman�s Rank Correlation
+Now that we have our amenities in clusters we need to define the spatial boundaries of those neighbourhoods, ie. the area occupied by a set of points within a cluster in order to check local variables of that specific area. The first attempt was made by determining the convex hull of our points which does not always represent the actual outline of the cluster because it does not take into account concave polygons. Therefore, we studied the concept of alpha shape which is based on Delaunay triangulation and is capable of constructing non-convex enclosure on a group of points.
 
 
+- Spearman’s Rank Correlation Coefficient (THIS IS COPIED FROM MY REPORT, PLEASE PARAPHRASE)
 
-- Hierarchical Clustering
+Having the identified clusters in London we examine the probability for the amenities to be co-located in the same cluster by investigating the spearman’s rank correlation coefficient which calculates the strength and direction of association between two ranked variables.
 
 
+- Hierarchical Clustering (THIS IS COPIED FROM MY REPORT, PLEASE PARAPHRASE)
+
+Our aim is to group the different clusters together based on their most popular amenities in order to create fewer sets of clusters that share similar types and populations of amenities. To do so, we focus on the different clusters and we deal with them as if they were points with multi-dimensional coordinates which in our case would be the populations of the different amenities. The main purpose of using Hierarchical clustering is that it enables us to determine manually the number of clusters by choosing a distance cut-off, plotted on the dendrogram, and then name those clusters based on the amenities that they share.
 
 - Interpolation
 
 
 
-- Shannon�s Diversity Index
+- Shannon’s Diversity Index
 
 
 
