@@ -1,6 +1,16 @@
 DATABASE:
 
+Python libraries: pandas, numpy, requests, os, json, overpy
 
+The data was extracted from OpenStreetMap via Overpass API and Overpass-Turbo. The programming language used by Overpass-Turbo is parallel to XML with some differences. In this website the user can construct a query and extract the raw file as a JSON, GEOJSON or XML. The data was extracted as a JSON in parts to make smaller queries. In each query the area was predefined as London and the query was done for nodes (direct lat lon coordinates) and for ways (polygons composed of nodes indicating buildings, parks, etc). Amenity, Shop, Tourism and Leisure were extracted as both: nodes and ways. Though the data was fairly clean, it was necessary to iterate every row and extract amenity type from ‘tags’, as well as coordinates for ways. The way query contains coordinates for the centre of the polygon which where extracted in the same iteration. 
+
+Additional cleaning was necessary after joining all tables together to delete amenities that are not pertinent for this study: amenities where no interaction amongst humans exist even if these provide a service such as: atm, vending_machine, post_box, waste_bin, picnic_table. Initially it was decided to label these as urban furniture but discarded later on. 
+
+After the cleaning a new column was created to further categorise groups of amenities for example: college, school, kindergarten, as education. health_clinic, hospital, as health. town_hall, parliament as government, etc. 
+
+Additional data was also downloaded from the london store site. Data containing population at ward level, jobs in the area (indicating day population), income, house prices and public transport accessibility score.
+
+The data was uploaded to MySQL in two separate tables (amenities and london_info) for the rest of the study. 
 
 
 DATA ANALYSIS:
