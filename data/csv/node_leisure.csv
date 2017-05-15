@@ -1,0 +1,1061 @@
+,id,lat,lon,amenity,classification,tags
+0,283885,51.4949874,0.0155375,park,,"{u'name': u'Ecology Park', u'leisure': u'park'}"
+1,16365720,51.4579357,-0.3097274,slipway,,{u'leisure': u'slipway'}
+2,20851184,51.4044344,-0.3362247,pitch,,"{u'website': u'http://www.royaltenniscourt.com/', u'name': u'The Royal Tennis Court', u'wikipedia': u'en:Royal Tennis Court, Hampton Court', u'leisure': u'pitch', u'name:ru': u'\u0420\u0435\u0430\u043b-\u0442\u0435\u043d\u043d\u0438\u0441', u'sport': u'real_tennis'}"
+3,26508073,51.5291368,-0.1058229,park,,"{u'leisure': u'park', u'created_by': u'YahooApplet 1.0'}"
+4,26508076,51.5287597,-0.1067992,garden,,"{u'access': u'private', u'leisure': u'garden'}"
+5,26545058,51.4003707,-0.1628676,sports_centre,,"{u'name': u'Canons Leisure Centre', u'leisure': u'sports_centre'}"
+6,29144685,51.6491438,-0.08668,park,,"{u'name': u'Enfield Town Park', u'leisure': u'park'}"
+7,29714490,51.462614,-0.0791826,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.4b'}"
+8,29714491,51.4630978,-0.0787634,playground,,{u'leisure': u'playground'}
+9,30430986,51.4486414,-0.3059051,slipway,,"{u'leisure': u'slipway', u'created_by': u'JOSM'}"
+10,30442275,51.4784188,-0.3007569,garden,,"{u'name': u'Bamboo Garden', u'leisure': u'garden'}"
+11,30692909,51.483015,-0.2796052,nature_reserve,,"{u'name': u'Snail Reserve', u'leisure': u'nature_reserve'}"
+12,32450930,51.4415513,0.1075507,park,,{u'leisure': u'park'}
+13,32456943,51.6340047,-0.1139625,park,,"{u'wikipedia': u'en:Grovelands Park', u'leisure': u'park', u'created_by': u'JOSM', u'name': u'Grovelands Park'}"
+14,35179905,51.5369346,-0.2109189,bandstand,,"{u'leisure': u'bandstand', u'created_by': u'Potlatch 0.4a'}"
+15,52755497,51.5416942,-0.0732509,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+16,52787118,51.5422368,-0.071346,sports_centre,,"{u'leisure': u'sports_centre', u'created_by': u'JOSM', u'name': u'Queensbridge Sports & Community Centre'}"
+17,55549089,51.6004543,-0.086952,park,,{u'leisure': u'park'}
+18,89125613,51.574126,-0.2484198,park,,{u'leisure': u'park'}
+19,89484781,51.362973,-0.0869613,sports_centre,,"{u'name': u'South Croydon Sports Club', u'leisure': u'sports_centre'}"
+20,114308122,51.5647154,-0.1240496,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+21,130159100,51.4179782,-0.1741587,garden,,"{u'name': u'memorial garden', u'leisure': u'garden'}"
+22,130223626,51.4141736,-0.1802204,sports_centre,,"{u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+23,130224287,51.4224474,-0.1843554,sports_centre,,"{u'sport': u'multi', u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+24,132565484,51.4155623,-0.1730821,nature_reserve,,"{u'leisure': u'nature_reserve', u'created_by': u'Potlatch 0.5d', u'name': u'Myrna Close Nature Reserve'}"
+25,206144536,51.4147861,-0.363824,stadium,,"{u'name': u'Hampton and Richmond Borough Football Club', u'addr:postcode': u'TW12 2BX', u'leisure': u'stadium', u'fhrs:id': u'352939', u'old_name': u'Hampton Football Club', u'sport': u'soccer', u'addr:street': u'Station Road'}"
+26,207110707,51.4825004,-0.2892762,garden,,"{u'website': u'http://www.kew.org/visit-kew-gardens/explore/attractions/grass-garden', u'name': u'Grass Garden', u'leisure': u'garden'}"
+27,207110829,51.4826165,-0.2910387,garden,,"{u'name': u'Secluded Garden', u'leisure': u'garden'}"
+28,207111044,51.4811186,-0.2893721,garden,,"{u'name': u'Order Beds', u'leisure': u'garden'}"
+29,207111138,51.4828628,-0.2890616,garden,,"{u'name': u""The Duke's Garden"", u'leisure': u'garden'}"
+30,207113336,51.4841235,-0.2953009,garden,,"{u'name': u""The Queen's Garden"", u'leisure': u'garden'}"
+31,207126970,51.4831029,-0.2898185,garden,,"{u'access': u'private', u'name': u""The Director's Garden"", u'leisure': u'garden'}"
+32,207137399,51.4815485,-0.2898856,garden,,"{u'name': u'Rock Garden', u'leisure': u'garden'}"
+33,207138240,51.4803829,-0.2898038,garden,,"{u'name': u'Woodland Garden', u'leisure': u'garden'}"
+34,207139285,51.4790025,-0.2975504,garden,,"{u'name': u'Azalea Garden', u'leisure': u'garden'}"
+35,207141757,51.4768294,-0.2952823,garden,,"{u'name': u'Mediterranean Garden', u'leisure': u'garden'}"
+36,207141983,51.4788768,-0.2935425,garden,,"{u'name': u'Rose Garden', u'leisure': u'garden'}"
+37,207264486,51.4807692,-0.2940522,garden,,"{u'name': u'Seven Sisters', u'leisure': u'garden'}"
+38,207272295,51.4732329,-0.3046692,garden,,"{u'loc_name': u'Conservation Area', u'name': u""Queen's Cottage Grounds"", u'leisure': u'garden'}"
+39,207337355,51.4821434,-0.2959614,playground,,"{u'name': u'Treehouse Towers', u'leisure': u'playground'}"
+40,207513563,51.5066413,-0.1688741,garden,,"{u'name': u'The Cockpit', u'leisure': u'garden'}"
+41,207583301,51.5057481,-0.1633307,boating,,"{u'amenity': u'boat_hire', u'leisure': u'boating'}"
+42,242708506,51.568332,-0.2567443,slipway,,{u'leisure': u'slipway'}
+43,243750675,51.4721024,0.038376,park,,"{u'leisure': u'park', u'created_by': u'JOSM', u'name': u'London Marathon Playing Fields'}"
+44,243755849,51.4663421,-0.0032006,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+45,244064876,51.4370199,0.0257616,sports_centre,,"{u'name': u""Bannatyne's Health Club"", u'leisure': u'sports_centre'}"
+46,247074808,51.461619,0.0202936,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+47,247328086,51.5831971,-0.1303205,sports_centre,,"{u'website': u'http://www.haringey.gov.uk/park_road', u'fax': u'+44 20 8340 3588', u'name': u'Park Road Leisure Centre', u'addr:postcode': u'N8 8JN', u'leisure': u'sports_centre', u'phone': u'+44 20 8341 3567', u'email': u'active@haringey.gov.uk'}"
+48,248042427,51.353216,-0.1328794,sports_centre,,"{u'name': u'The Phoenix Centre', u'leisure': u'sports_centre'}"
+49,248229987,51.5648389,-0.1373963,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+50,249132791,51.515487,-0.0536665,playground,,"{u'name': u'Jubilee Gardens', u'leisure': u'playground'}"
+51,249309944,51.5063236,-0.0592148,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.7b'}"
+52,249608237,51.4004085,-0.2524916,sports_centre,,"{u'leisure': u'sports_centre', u'created_by': u'Potlatch 0.7b'}"
+53,250891865,51.6106042,0.014328,park,,"{u'leisure': u'park', u'created_by': u'JOSM'}"
+54,255469576,51.5025132,-0.2063339,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.8a'}"
+55,255469577,51.5022888,-0.2061709,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.8a'}"
+56,255469609,51.5015075,-0.2035468,nature_reserve,,"{u'name': u'Ecology Centre', u'leisure': u'nature_reserve'}"
+57,255470133,51.510863,-0.1873521,sports_centre,,"{u'addr:housenumber': u'17', u'website': u'http://www.queensiceandbowl.co.uk/', u'amenity': u'restaurant;bar', u'addr:city': u'London', u'level': u'-1', u'addr:postcode': u'W2 4QP', u'leisure': u'sports_centre', u'name': u'Queens Ice and Bowl', u'phone': u'020 7229 0172', u'opening_hours': u'Su-Th 10:00-23:00; Fr-Sa 10:00-00:00', u'sport': u'10pin;skating', u'email': u'info@queensiceandbowl.co.uk', u'addr:street': u'Queensway'}"
+58,255470189,51.5138225,-0.1888073,bowling_alley,,"{u'addr:housenumber': u'6', u'sport': u'10pin', u'name': u'All Star Lanes', u'addr:postcode': u'W2 4DB', u'leisure': u'bowling_alley', u'addr:street': u'Porchester Gardens', u'addr:city': u'London'}"
+59,255590052,51.5263489,-0.2164143,slipway,,"{u'leisure': u'slipway', u'created_by': u'Potlatch 0.8a'}"
+60,257345299,51.4588133,-0.3080454,slipway,,{u'leisure': u'slipway'}
+61,257464776,51.4949862,-0.2391886,playground,,{u'leisure': u'playground'}
+62,260274742,51.564276,-0.1427752,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+63,261325952,51.4809021,-0.1259443,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+64,261348565,51.4778364,-0.127761,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+65,262311251,51.526442,-0.013745,playground,,"{u'description': u'play area of under fives', u'leisure': u'playground'}"
+66,262362384,51.5104206,-0.0230468,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+67,262362411,51.5097015,-0.0185808,playground,,{u'leisure': u'playground'}
+68,262990341,51.5606323,-0.0727144,playground,,{u'leisure': u'playground'}
+69,264797771,51.4898879,-0.1065496,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+70,266748268,51.3683047,-0.2244665,sports_centre,,"{u'source': u'photo', u'name': u'Cheam Leisure Centre', u'leisure': u'sports_centre'}"
+71,267177617,51.5585858,-0.0873343,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.9b'}"
+72,269253597,51.5459996,0.0019832,playground,,{u'leisure': u'playground'}
+73,270420464,51.5039196,-0.0346199,playground,,{u'leisure': u'playground'}
+74,270420485,51.5042527,-0.046808,playground,,{u'leisure': u'playground'}
+75,271142085,51.4940057,-0.0263151,slipway,,{u'leisure': u'slipway'}
+76,272499286,51.488754,-0.0232237,playground,,{u'leisure': u'playground'}
+77,273542321,51.4556955,-0.1105868,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+78,276487683,51.5026055,-0.2368937,playground,,{u'leisure': u'playground'}
+79,278010474,51.5334657,-0.1395458,sports_centre,,"{u'name': u'Kieser Training', u'addr:postcode': u'NW1 7DF', u'leisure': u'sports_centre', u'postal_code': u'NW1 7DF', u'operator': u'Kieser Training', u'addr:street': u'Hampstead Road', u'addr:city': u'London'}"
+80,278312095,51.5045745,-0.0654417,playground,,"{u'leisure': u'playground', u'created_by': u'JOSM'}"
+81,278317169,51.507782,-0.0671797,sports_centre,,"{u'opening_hours': u'Mo-Fr 06:30-22:00; Sa-Su 08:00-18:00', u'layer': u'0', u'name': u'Fitness First', u'leisure': u'sports_centre', u'level': u'0'}"
+82,280792051,51.4852409,-0.2257475,marina,,"{u'leisure': u'marina', u'created_by': u'JOSM'}"
+83,286486950,51.4333468,-0.1442025,fishing,,"{u'leisure': u'fishing', u'created_by': u'Potlatch 0.10b'}"
+84,286487545,51.4559488,-0.1450608,fishing,,"{u'leisure': u'fishing', u'created_by': u'Potlatch 0.10b'}"
+85,287912592,51.5089998,-0.2779878,sports_centre,,"{u'leisure': u'sports_centre', u'created_by': u'Potlatch 0.10b', u'name': u'Twyford Sports Centre'}"
+86,291658736,51.3762969,-0.1030082,bingo_hall,,"{u'source': u'TMJ-Mobile_0.6.1', u'leisure': u'bingo_hall', u'created_by': u'Potlatch 0.10b', u'name': u'Mecca Bingo'}"
+87,291676984,51.3787036,-0.1076779,playground,,{u'leisure': u'playground'}
+88,292534618,51.5346276,-0.4130823,park,,{u'leisure': u'park'}
+89,293553553,51.492058,-0.1215979,slipway,,{u'leisure': u'slipway'}
+90,296213015,51.4788594,-0.1102106,playground,,{u'leisure': u'playground'}
+91,302164074,51.5048199,-0.27959,garden,,"{u'name': u'Heathfield Nature Garden', u'leisure': u'garden'}"
+92,306241407,51.4868008,-0.1364708,sports_centre,,"{u'leisure': u'sports_centre', u'created_by': u'Potlatch 0.10e', u'name': u'Dolphin Square Leisure Centre'}"
+93,306297337,51.4878819,-0.1244281,slipway,,{u'leisure': u'slipway'}
+94,312536709,51.4052224,-0.1704513,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.10f', u'name': u'Miles Road Recreation Ground'}"
+95,313181119,51.5243645,-0.1278575,sports_centre,,"{u'sport': u'swimming', u'name': u""Bannatyne's health club"", u'leisure': u'sports_centre'}"
+96,330128417,51.6343965,-0.1244283,sports_centre,,"{u'addr:postcode': u'N14 6AD', u'sport': u'multi', u'name': u'Southgate Leisure Centre', u'leisure': u'sports_centre', u'addr:street': u'Winchmore Hill Road'}"
+97,332323277,51.4212291,-0.0301035,sports_centre,,"{u'name': u'FitnessFirst', u'leisure': u'sports_centre'}"
+98,335902691,51.4824526,-0.0856553,sports_centre,,"{u'sport': u'boxing', u'name': u'Lynn Athletic Boxing Club', u'leisure': u'sports_centre'}"
+99,336356831,51.5797894,-0.4090365,sports_centre,,"{u'wheelchair': u'yes', u'leisure': u'sports_centre', u'created_by': u'Potlatch 0.10f', u'name': u'Highgrove Swimming Pool'}"
+100,339856707,51.5618011,-0.0167577,playground,,{u'leisure': u'playground'}
+101,340137535,51.5356878,0.0658865,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.10f'}"
+102,340138228,51.5360028,0.0654574,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.10f'}"
+103,343528685,51.5863524,-0.0967937,playground,,{u'leisure': u'playground'}
+104,348511129,51.5531329,0.0701116,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.10f'}"
+105,348599036,51.5524978,0.0624727,playground,,"{u'leisure': u'playground', u'created_by': u'Potlatch 0.10f'}"
+106,353282064,51.5046983,-0.1030428,playground,,"{u'leisure': u'playground', u'created_by': u'Merkaartor 0.13'}"
+107,358941774,51.5002649,-0.102912,playground,,{u'leisure': u'playground'}
+108,362490476,51.5263945,-0.1423313,playground,,{u'leisure': u'playground'}
+109,363996564,51.3980165,-0.0705394,playground,,{u'leisure': u'playground'}
+110,364121975,51.4762447,0.1049733,garden,,"{u'leisure': u'garden', u'created_by': u'Potlatch 0.10f', u'name': u'William Barefoot Gardens'}"
+111,364852605,51.4250421,-0.0858643,playground,,"{u'max_age': u'16', u'leisure': u'playground'}"
+112,364852649,51.4236394,-0.0851052,playground,,{u'leisure': u'playground'}
+113,366753512,51.4077075,-0.1020129,fitness_centre,,"{u'name': u'Beauty and the Beast Gym', u'leisure': u'fitness_centre'}"
+114,368410455,51.3919678,0.0977528,playground,,{u'leisure': u'playground'}
+115,370092808,51.5877337,-0.1141502,playground,,{u'leisure': u'playground'}
+116,370135948,51.5918963,-0.1193227,playground,,{u'leisure': u'playground'}
+117,370136049,51.5903757,-0.1193384,playground,,{u'leisure': u'playground'}
+118,370195229,51.5857885,-0.1260882,playground,,{u'leisure': u'playground'}
+119,371400554,51.5158866,-0.1225676,sports_centre,,{u'leisure': u'sports_centre'}
+120,371528879,51.5230119,-0.0895188,sports_centre,,"{u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+121,374237876,51.5623993,-0.0736332,gymnasium,,{u'leisure': u'gymnasium'}
+122,375914246,51.5253937,-0.0794766,sports_centre,,"{u'leisure': u'sports_centre', u'created_by': u'Potlatch 0.10f'}"
+123,381010768,51.4909785,-0.1200156,playground,,{u'leisure': u'playground'}
+124,381106489,51.4951951,-0.1248275,playground,,"{u'wheelchair': u'yes', u'leisure': u'playground'}"
+125,384889365,51.4734245,0.1130989,playground,,"{u'name': u'Lodge Hill Playground', u'leisure': u'playground'}"
+126,390066365,51.5202506,0.0067538,playground,,{u'leisure': u'playground'}
+127,390323634,51.5232277,0.0082988,playground,,{u'leisure': u'playground'}
+128,391041064,51.4904519,-0.0902233,playground,,{u'leisure': u'playground'}
+129,392106661,51.5221825,-0.0935655,playground,,{u'leisure': u'playground'}
+130,392107162,51.5263265,-0.0930162,playground,,{u'leisure': u'playground'}
+131,392364780,51.5074265,-0.2166679,playground,,{u'leisure': u'playground'}
+132,392364787,51.507138,-0.2164533,playground,,{u'leisure': u'playground'}
+133,408121748,51.5360684,-0.1910047,sports_centre,,"{u'addr:housenumber': u'4', u'name': u""Bannatyne's Gym Maida Vale"", u'addr:postcode': u'NW6 5HZ', u'contact:website': u'http://www.bannatyne.co.uk/fitness/maida-vale.htm', u'leisure': u'sports_centre', u'opening_hours': u'Mo-Fr 06:30-22:00; Sa-Su 09:00-21:00', u'operator': u""Bannatyne's"", u'addr:street': u'Greville Road'}"
+134,410715464,51.6246089,-0.2629539,playground,,{u'leisure': u'playground'}
+135,412410543,51.4982797,-0.0883493,playground,,{u'leisure': u'playground'}
+136,412948698,51.4447879,0.0994053,park,,{u'leisure': u'park'}
+137,414016054,51.456577,0.1377632,sports_centre,,"{u'amenity': u'bowling alley', u'sport': u'10pin', u'name': u'Bowling Alley', u'leisure': u'sports_centre'}"
+138,415560646,51.5009766,-0.0846372,playground,,{u'leisure': u'playground'}
+139,415805067,51.4816824,-0.0630562,playground,,{u'leisure': u'playground'}
+140,416622315,51.5568962,-0.3902173,sports_centre,,{u'leisure': u'sports_centre'}
+141,418493182,51.5024654,-0.0782831,playground,,{u'leisure': u'playground'}
+142,420897857,51.3861463,0.0544929,playground,,{u'leisure': u'playground'}
+143,420906660,51.4202514,0.0210536,pitch,,{u'leisure': u'pitch'}
+144,426087692,51.4759384,-0.0757249,playground,,{u'leisure': u'playground'}
+145,426087703,51.4762281,-0.0766173,playground,,{u'leisure': u'playground'}
+146,426087706,51.4764328,-0.073832,playground,,{u'leisure': u'playground'}
+147,430418268,51.5724565,-0.3833851,miniature_golf,,{u'leisure': u'miniature_golf'}
+148,434446769,51.417164,-0.2130936,sports_centre,,"{u'addr:housenumber': u'13', u'website': u'http://www.wimbledonclub.co.uk', u'name': u'Wimbledon Racquets & Fitness Club', u'addr:postcode': u'SW19 4HD', u'leisure': u'sports_centre', u'fhrs:id': u'375786', u'opening_hours': u'Mo-Fr 07:00-23:00; Sa-Su 09:00-22:30; PH ""varies""', u'addr:street': u'Cranbrook Road'}"
+149,442130445,51.5486581,-0.0528016,playground,,{u'leisure': u'playground'}
+150,443948963,51.5379708,-0.0601606,pitch,,"{u'sport': u'table_tennis', u'leisure': u'pitch'}"
+151,443948965,51.5422901,-0.0582698,pitch,,"{u'sport': u'boules', u'type': u'petanque', u'leisure': u'pitch'}"
+152,455178032,51.6260509,0.0046305,dovecote,,"{u'building': u'yes', u'name': u'Dovecott', u'leisure': u'dovecote'}"
+153,467140905,51.3492047,-0.0180243,playground,,{u'leisure': u'playground'}
+154,469789265,51.5884592,-0.1028088,playground,,"{u'local_ref': u'U', u'naptan:CommonName': u'Turnpike Lane Station U Y', u'name': u'Ducketts Common playground', u'naptan:AtcoCode': u'490015475U', u'naptan:Bearing': u'N', u'leisure': u'playground', u'naptan:Indicator': u'Stop U', u'naptan:Street': u'GREEN LANES', u'naptan:verified': u'no'}"
+155,475251875,51.4684223,-0.1029348,playground,,"{u'name': u'Grove Adventure Playground', u'leisure': u'playground'}"
+156,481644055,51.4763792,-0.0943103,bingo,,"{u'name': u'gala', u'leisure': u'bingo'}"
+157,485257338,51.5229818,-0.1294057,playground,,{u'leisure': u'playground'}
+158,485351956,51.5293317,-0.1429465,playground,,{u'leisure': u'playground'}
+159,486544924,51.5912955,-0.432334,playground,,{u'leisure': u'playground'}
+160,497394455,51.5167576,-0.2016509,music_venue,,"{u'amenity': u'music_venue', u'wikipedia': u'en:Tabernacle, Notting Hill', u'name': u'The Tabernacle', u'leisure': u'music_venue'}"
+161,501766798,51.5147846,-0.1285782,playground,,{u'leisure': u'playground'}
+162,505801347,51.537093,-0.101675,sports_centre,,"{u'name:en': u'Esporta', u'leisure': u'sports_centre', u'created_by': u'Mapzen POI Collector 1.0 Beta'}"
+163,511711403,51.5177751,-0.1867172,playground,,{u'leisure': u'playground'}
+164,519175243,51.5171527,-0.1657302,adult_gaming_centre,,"{u'name': u'Quicksilver', u'leisure': u'adult_gaming_centre', u'addr:street': u'Edgware Road'}"
+165,521689965,51.5192107,-0.1798733,sports_centre,,"{u'website': u'http://www.nuffieldhealth.com/gyms/paddington', u'name': u'Nuffield Health', u'opening_hours': u'Mo-Th 06:30-22:00; Fr 06:30-21:00; Sa,Su 09:00-19:00', u'wheelchair': u'yes', u'leisure': u'sports_centre', u'note': u'Opening hours Monday 06:30 - 22:00 Tuesday 06:30 - 22:00 Wednesday 06:30 - 22:00 Thursday 06:30 - 22:00 Friday 06:30 - 21:00 Saturday 09:00-19:00 Sunday 09:00-19:00', u'phone': u'0845 004 0530'}"
+166,528226142,51.4510917,-0.3427919,sports_centre,,"{u'building': u'yes', u'operator': u'Nuffield Health', u'name': u'Nuffield Health', u'leisure': u'sports_centre'}"
+167,528226318,51.4530084,-0.3315122,playground,,"{u'name': u'Grimwood Road recreation ground', u'leisure': u'playground'}"
+168,529096635,51.595712,-0.068428,fitness_centre,,"{u'name': u'EasyGym', u'leisure': u'fitness_centre'}"
+169,534672948,51.5171887,-0.1883767,spa,,"{u'name': u'Porchester Spa', u'leisure': u'spa'}"
+170,534971563,51.5174382,-0.118879,fitness_centre,,"{u'name': u'FitnessFirst', u'leisure': u'fitness_centre'}"
+171,537643933,51.5336158,-0.1528024,playground,,{u'leisure': u'playground'}
+172,540309656,51.4559213,-0.1649267,fitness_centre,,"{u'addr:housenumber': u'137', u'addr:postcode': u'SW11 6PX', u'name': u'Hydro Fit', u'leisure': u'fitness_centre'}"
+173,561521297,51.366718,-0.1615228,playground,,"{u'note': u'swing for disabled children', u'leisure': u'playground'}"
+174,564744861,51.4649455,-0.1973045,slipway,,{u'leisure': u'slipway'}
+175,583329974,51.4618113,-0.2167722,adult_gaming_centre,,"{u'amenity': u'gambling', u'name': u'Agora Amusements', u'leisure': u'adult_gaming_centre'}"
+176,595687523,51.5399313,-0.2304887,playground,,{u'leisure': u'playground'}
+177,596826425,51.5156987,-0.1257682,sports_centre,,"{u'sport': u'multi', u'name': u'Oasis Sports Centre', u'leisure': u'sports_centre'}"
+178,597406957,51.5877185,-0.0047155,playground,,{u'leisure': u'playground'}
+179,597408902,51.5879441,-0.0114605,court,,{u'leisure': u'court'}
+180,597408914,51.5876337,-0.0127144,playground,,{u'leisure': u'playground'}
+181,597410867,51.5896952,-0.0119042,sports_centre,,"{u'operator': u'YMCA', u'tourism': u'hostel', u'name': u'Forest YMCA', u'leisure': u'sports_centre'}"
+182,603109728,51.5105664,-0.126758,sports_centre,,"{u'name': u'Gymbox', u'leisure': u'sports_centre'}"
+183,610465198,51.503337,-0.219174,sports_centre,,"{u'name': u'Fitness First', u'leisure': u'sports_centre'}"
+184,611967792,51.3405759,-0.0157817,sports_centre,,"{u'sport': u'swimming', u'name': u'New Addington Pools', u'leisure': u'sports_centre'}"
+185,612024074,51.4261399,0.0121102,sports_centre,,"{u'name': u'Downham Leisure Centre', u'leisure': u'sports_centre'}"
+186,613090366,51.531151,-0.104843,sports_centre,,"{u'wheelchair': u'yes', u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+187,647872838,51.5207604,-0.1180955,sports_centre,,"{u'sport': u'gym', u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+188,652802018,51.5805991,-0.0400944,playground,,{u'leisure': u'playground'}
+189,653950088,51.606883,-0.1707032,stadium,,"{u'sport': u'football/rugby', u'name': u'Wingate & Finchley R.F.C.', u'leisure': u'stadium'}"
+190,658951706,51.5525762,-0.0752125,pitch,,"{u'sport': u'baseball', u'leisure': u'pitch'}"
+191,660760083,51.5028252,0.0446957,playground,,"{u'name': u'Camel Road Play Area', u'leisure': u'playground'}"
+192,662219731,51.5167086,0.017334,playground,,{u'leisure': u'playground'}
+193,662244945,51.5151329,0.0181172,playground,,{u'leisure': u'playground'}
+194,662244966,51.5137776,0.0207887,playground,,{u'leisure': u'playground'}
+195,663673334,51.5187379,-0.0771869,spa,,"{u'addr:housenumber': u'50', u'name': u'Wayang Centre', u'leisure': u'spa'}"
+196,664535002,51.5117771,0.0468534,playground,,{u'leisure': u'playground'}
+197,667055910,51.5135834,0.0618574,playground,,{u'leisure': u'playground'}
+198,667976636,51.4990009,0.0702895,slipway,,"{u'description': u'Access point to the foreshore, parking available for future clean-ups.', u'leisure': u'slipway'}"
+199,671705266,51.5714159,-0.0308892,playground,,{u'leisure': u'playground'}
+200,676754460,51.3947533,0.0404177,playground,,{u'leisure': u'playground'}
+201,684332321,51.4706273,-0.0209607,playground,,{u'leisure': u'playground'}
+202,685605293,51.4631987,-0.0145058,playground,,{u'leisure': u'playground'}
+203,692129385,51.5187343,-0.140279,gymnasium,,"{u'note': u'Power Plate workout centre. NFI how to tag this!', u'name': u'Good Vibes', u'leisure': u'gymnasium', u'uri': u'http://www.goodvibesfitness.co.uk/studios'}"
+204,695809641,51.4939202,-0.0655701,playground,,{u'leisure': u'playground'}
+205,695875143,51.4744513,-0.130171,playground,,{u'leisure': u'playground'}
+206,701747031,51.544237,-0.0512312,court,,{u'leisure': u'court'}
+207,702318525,51.482217,-0.2886585,garden,,"{u'name': u'Aquatic Garden', u'leisure': u'garden'}"
+208,703359261,51.5178353,-0.1189539,sports_centre,,"{u'name': u'GymBox', u'leisure': u'sports_centre'}"
+209,704606171,51.5633002,0.1587433,sports_centre,,"{u'source': u'yahoo,OS_OpenData_StreetView', u'name': u'West Ham United Training Ground', u'leisure': u'sports_centre', u'addr:street': u'Rush Green Road'}"
+210,705158007,51.4639756,-0.1170298,playground,,"{u'amenity': u'cafe', u'leisure': u'playground'}"
+211,705618113,51.4437933,0.0743962,sports_centre,,"{u'source': u'OS OpenData StreetView', u'leisure': u'sports_centre'}"
+212,706611724,51.4552475,-0.2299499,playground,,{u'leisure': u'playground'}
+213,706611725,51.4540307,-0.2316558,playground,,{u'leisure': u'playground'}
+214,706670412,51.4856666,-0.0943986,sports_centre,,"{u'addr:housenumber': u'332-344', u'building': u'yes', u'name': u'New Fitness Exchange', u'addr:postcode': u'SE17 2NA', u'leisure': u'sports_centre', u'sport': u'gymnastics', u'addr:street': u'Walworth Road'}"
+215,722982901,51.5420895,-0.1768036,playground,,{u'leisure': u'playground'}
+216,724364694,51.51046,-0.2020648,playground,,"{u'access': u'private', u'leisure': u'playground'}"
+217,724365075,51.5102084,-0.2029966,playground,,"{u'access': u'private', u'leisure': u'playground'}"
+218,727367251,51.549529,-0.1968053,playground,,"{u'name': u'Sumatra Road Play Area', u'leisure': u'playground'}"
+219,729651804,51.5432977,-0.143616,playground,,{u'leisure': u'playground'}
+220,737848904,51.5486403,-0.1980724,exercise_area,,{u'leisure': u'exercise_area'}
+221,737848959,51.5487146,-0.1993875,playground,,{u'leisure': u'playground'}
+222,743009740,51.5191078,-0.123392,playground,,{u'leisure': u'playground'}
+223,750925788,51.5608219,0.0032569,playground,,{u'leisure': u'playground'}
+224,759818357,51.5724741,-0.0866673,playground,,{u'leisure': u'playground'}
+225,759843340,51.5676784,-0.0778274,playground,,{u'leisure': u'playground'}
+226,759843357,51.5682437,-0.0781733,playground,,{u'leisure': u'playground'}
+227,763634762,51.422636,-0.0068505,playground,,{u'leisure': u'playground'}
+228,766975655,51.4892273,0.0976572,park,,"{u'source': u'Yahoo', u'name': u'Plumstead Gardens', u'leisure': u'park'}"
+229,776563995,51.5330721,-0.1991667,club,,"{u'addr:housenumber': u'15', u'name': u'Royal British Legion', u'club': u'charity', u'addr:postcode': u'NW6 5DT', u'contact:website': u'http://counties.britishlegion.org.uk/counties/greater-london/london-membership/london-branches/west-kilburn', u'leisure': u'club', u'addr:street': u'Peel Precinct'}"
+230,777450461,51.5455804,-0.0344791,playground,,{u'leisure': u'playground'}
+231,811251509,51.6023,-0.156829,playground,,{u'leisure': u'playground'}
+232,831309513,51.5706467,-0.1261731,fitness_station,,{u'leisure': u'fitness_station'}
+233,831456429,51.5484364,-0.155711,playground,,{u'leisure': u'playground'}
+234,833378493,51.5008338,-0.09079,sports_centre,,"{u'name': u'Soho Gyms', u'leisure': u'sports_centre'}"
+235,835904193,51.3577715,-0.2170339,dance,,"{u'dance:teaching': u'yes', u'name': u'Dance Options Cheam', u'leisure': u'dance'}"
+236,841253788,51.3763783,0.1020997,sports_centre,,"{u'name': u'Walnuts Leisure Centre', u'leisure': u'sports_centre'}"
+237,857223009,51.5592647,0.0045852,playground,,{u'leisure': u'playground'}
+238,857275960,51.556532,0.0041355,fitness_station,,"{u'comment': u'Adidas Fitness machines', u'sport': u'exercise', u'leisure': u'fitness_station'}"
+239,857275962,51.5556545,0.004501,playground,,{u'leisure': u'playground'}
+240,869409075,51.5300076,-0.4083257,playground,,{u'leisure': u'playground'}
+241,869409658,51.530161,-0.4085557,pitch,,"{u'sport': u'basketball', u'leisure': u'pitch'}"
+242,885680338,51.5283338,-0.0975354,playground,,{u'leisure': u'playground'}
+243,895874397,51.5554074,-0.2301471,playground,,{u'leisure': u'playground'}
+244,895874399,51.5559331,-0.2302823,pitch,,"{u'sport': u'rugby', u'name': u'Kilburn Cosmos RFC', u'leisure': u'pitch'}"
+245,899436835,51.5212589,-0.1887888,playground,,{u'leisure': u'playground'}
+246,904063920,51.5754945,0.0365577,sports_centre,,"{u'Gym': u'Wanstead Leisure Centre', u'leisure': u'sports_centre'}"
+247,907187654,51.5357319,-0.1887193,court,,{u'leisure': u'court'}
+248,907778096,51.523972,-0.1181935,sports_centre,,{u'leisure': u'sports_centre'}
+249,907949487,51.5437569,-0.1666531,playground,,{u'leisure': u'playground'}
+250,907961661,51.5443812,-0.1777964,court,,{u'leisure': u'court'}
+251,907961663,51.544324,-0.1777483,playground,,{u'leisure': u'playground'}
+252,909389039,51.5530546,-0.2065931,nature_reserve,,{u'leisure': u'nature_reserve'}
+253,915410138,51.5055035,-0.1114232,sports_centre,,"{u'sport': u'multi', u'name': u'Kinetic', u'leisure': u'sports_centre'}"
+254,931615210,51.543758,-0.1517968,sports_centre,,"{u'sport': u'fitness', u'name': u'Mosaic', u'leisure': u'sports_centre'}"
+255,931620909,51.5563267,-0.1386115,sports_centre,,"{u'addr:housenumber': u'144', u'name': u'Maximum Fitness', u'addr:city': u'London', u'leisure': u'sports_centre', u'addr:street': u'Fortess Road'}"
+256,931622092,51.5437313,-0.1496081,sports_centre,,"{u'name': u'Pilates Clinic', u'leisure': u'sports_centre'}"
+257,977469702,51.6529648,-0.0889117,sports_centre,,"{u'historic': u'monument', u'sport': u'badminton', u'name': u'Drill Hall', u'leisure': u'sports_centre'}"
+258,977489975,51.6553753,-0.1385106,sports_centre,,"{u'name': u'Southgate Hockey Club', u'leisure': u'sports_centre'}"
+259,977489982,51.6564793,-0.1390321,sports_centre,,"{u'name': u'Trent Park Running Club', u'leisure': u'sports_centre'}"
+260,988600809,51.5483161,-0.1577783,playground,,{u'leisure': u'playground'}
+261,988600916,51.5477536,-0.1558953,playground,,{u'leisure': u'playground'}
+262,988677291,51.5449378,-0.1428386,playground,,{u'leisure': u'playground'}
+263,989173353,51.542786,-0.1362208,playground,,{u'leisure': u'playground'}
+264,989173396,51.543028,-0.1365128,playground,,{u'leisure': u'playground'}
+265,990522057,51.5524868,-0.1311093,playground,,{u'leisure': u'playground'}
+266,995065771,51.5527374,-0.1605872,playground,,{u'leisure': u'playground'}
+267,1000042929,51.3584512,-0.2924714,nature_reserve,,"{u'name': u'Castle Hill', u'leisure': u'nature_reserve'}"
+268,1011595862,51.5160004,-0.1850272,playground,,{u'leisure': u'playground'}
+269,1081749712,51.5221052,-0.2153909,playground,,{u'leisure': u'playground'}
+270,1100643951,51.5620277,-0.4122069,playground,,{u'leisure': u'playground'}
+271,1100643993,51.5620935,-0.4058999,playground,,{u'leisure': u'playground'}
+272,1103268829,51.5146991,-0.1285278,pitch,,"{u'sport': u'basketball', u'leisure': u'pitch'}"
+273,1112205147,51.4663533,-0.1515399,sports_centre,,"{u'addr:housenumber': u'18', u'sport': u'yoga', u'name': u'Union Station Yoga', u'leisure': u'sports_centre', u'addr:street': u'Lavender Hill'}"
+274,1116225051,51.5264269,-0.2275964,picnic_table,,"{u'capacity': u'8', u'backrest': u'no', u'movable': u'no', u'leisure': u'picnic_table', u'permanent': u'yes', u'seats': u'8', u'covered': u'no'}"
+275,1116225144,51.5263842,-0.229217,picnic_table,,"{u'capacity': u'8', u'backrest': u'no', u'movable': u'no', u'leisure': u'picnic_table', u'permanent': u'yes', u'seats': u'8', u'covered': u'no'}"
+276,1120009215,51.5582304,-0.3164302,playground,,"{u'description': u'Playcentre with large indoor area', u'leisure': u'playground', u'name': u'Partyman World of Play, Wembley'}"
+277,1126026179,51.4926306,-0.113467,court,,{u'leisure': u'court'}
+278,1126026199,51.492437,-0.1135055,playground,,"{u'source': u'Bing;survey', u'leisure': u'playground'}"
+279,1126114881,51.494102,-0.112217,playground,,"{u'wheelchair': u'yes', u'leisure': u'playground'}"
+280,1129448150,51.522906,-0.1025734,playground,,{u'leisure': u'playground'}
+281,1145233938,51.5261214,-0.1028763,playground,,"{u'name': u'Brunswick Estate Play Area', u'leisure': u'playground'}"
+282,1153505407,51.4634134,-0.1695235,sports_centre,,"{u'sport': u'fitness', u'name': u'Fitness First Clapham Junction Station', u'leisure': u'sports_centre'}"
+283,1163863417,51.5097075,-0.1216567,sports_centre,,"{u'website': u'http://www.virginactive.co.uk/clubs/strand', u'phone': u'020 7395 9595', u'sport': u'fitness', u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+284,1165199681,51.4935452,-0.0395831,sports_centre,,"{u'wheelchair': u'limited', u'name': u'Surrey Docks Watersports Centre', u'leisure': u'sports_centre'}"
+285,1177955033,51.4967808,-0.0716894,playground,,{u'leisure': u'playground'}
+286,1180273833,51.5638223,-0.1347258,playground,,{u'leisure': u'playground'}
+287,1184391096,51.4728913,-0.0133773,playground,,"{u'name': u'Dabin Crescent Play Area', u'leisure': u'playground'}"
+288,1191744256,51.447048,-0.3157235,playground,,{u'leisure': u'playground'}
+289,1233761894,51.5215148,-0.3808094,marina,,"{u'name': u'Willowtree Marina', u'leisure': u'marina'}"
+290,1233761897,51.5296115,-0.3769173,marina,,"{u'name': u""Engineer's Wharf Moorings"", u'leisure': u'marina', u'addr:street': u'Taywood Road'}"
+291,1237044496,51.4973652,-0.1132308,playground,,"{u'source': u'survey; Bing', u'leisure': u'playground'}"
+292,1238390852,51.5495538,-0.1319955,playground,,{u'leisure': u'playground'}
+293,1243349679,51.5527261,-0.1347863,playground,,{u'leisure': u'playground'}
+294,1243354969,51.5538824,-0.1338683,playground,,{u'leisure': u'playground'}
+295,1272466316,51.4907591,-0.1573303,social_club,,"{u'note': u'Approximate location.', u'name': u'The Sloane Club', u'leisure': u'social_club'}"
+296,1277999027,51.5170442,-0.1955304,social_club,,"{u'name': u""Paddington railway working men's club"", u'leisure': u'social_club'}"
+297,1304102855,51.5676806,-0.2023333,playground,,"{u'source': u'survey;Bing', u'name': u'Childs Hill Park Play Area', u'leisure': u'playground'}"
+298,1304652368,51.46031,-0.214224,sports_centre,,"{u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+299,1304809948,51.5195465,-0.1226543,bowling_alley,,"{u'website': u'http://www.allstarlanes.co.uk/', u'name': u'All Star Lanes (Holborn)', u'food': u'yes', u'leisure': u'bowling_alley', u'phone': u'02070252676', u'beer': u'yes', u'email': u'holborn@allstarlanes.co.uk'}"
+300,1305571445,51.4984329,-0.2161181,playground,,{u'leisure': u'playground'}
+301,1306199271,51.4987892,-0.1279128,sports_centre,,"{u'name': u'Fives Courts', u'leisure': u'sports_centre'}"
+302,1312678754,51.5954229,-0.3850661,fitness_centre,,"{u'name': u'Fitness First', u'leisure': u'fitness_centre'}"
+303,1312974190,51.5673544,-0.1445201,playground,,{u'leisure': u'playground'}
+304,1313193709,51.4192441,-0.0507832,playground,,"{u'name': u'Alexandra Recreation Ground', u'leisure': u'playground'}"
+305,1319428303,51.5823697,-0.4042729,playground,,"{u'access': u'private', u'name': u'Enigma Square', u'leisure': u'playground'}"
+306,1320961192,51.5972678,-0.3031229,playground,,"{u'fixme': u'Should this be CentEnary?', u'name': u'Centanary Play Park', u'leisure': u'playground'}"
+307,1320961228,51.5986594,-0.3032571,sports_centre,,"{u'fixme': u'Should this be centEnary?', u'name': u'Centanary Sports', u'leisure': u'sports_centre'}"
+308,1332679783,51.5993923,-0.3038687,sports_centre,,"{u'name': u'Park High School Sports Hall', u'leisure': u'sports_centre'}"
+309,1335567728,51.5951045,-0.097305,playground,,{u'leisure': u'playground'}
+310,1335567734,51.5949995,-0.0977502,playground,,{u'leisure': u'playground'}
+311,1348978158,51.4815315,-0.2917295,garden,,"{u'name': u'Winter Garden', u'leisure': u'garden'}"
+312,1348978159,51.4735563,-0.3070311,garden,,"{u'name': u'Conservation Area', u'leisure': u'garden'}"
+313,1348978160,51.4763693,-0.2926569,garden,,"{u'name': u'Berberis Dell', u'leisure': u'garden'}"
+314,1348978161,51.4742169,-0.2990379,garden,,"{u'name': u'Woodland Glade', u'leisure': u'garden'}"
+315,1348978162,51.4734762,-0.3006819,garden,,"{u'name': u'Redwood Grove', u'leisure': u'garden'}"
+316,1348978163,51.4795538,-0.3003275,garden,,"{u'name': u'Rhododendron Dell', u'leisure': u'garden'}"
+317,1348978164,51.4817004,-0.2883234,garden,,"{u'name': u'Student Vegetable Plots', u'leisure': u'garden'}"
+318,1351417902,51.4823825,-0.0873115,playground,,{u'leisure': u'playground'}
+319,1360475630,51.5362111,-0.1179104,playground,,{u'leisure': u'playground'}
+320,1374901741,51.5710344,0.2712049,playground,,{u'leisure': u'playground'}
+321,1376804057,51.6071178,0.2491087,sports_centre,,"{u'source': u'Local knowledge', u'name': u'Maylands Golf Club', u'leisure': u'sports_centre'}"
+322,1387329578,51.5142183,-0.0592578,sports_centre,,"{u'building': u'no', u'addr:postcode': u'E1 2JP', u'url': u'http://www.leisurecentre.com/centres/35/home/Mulberry-Sports-and-Leisure-Centre.aspx', u'name': u'Mulberry Leisure Centre', u'leisure': u'sports_centre'}"
+323,1397699607,51.5735657,0.1308621,playground,,{u'leisure': u'playground'}
+324,1430375855,51.630775,-0.3121112,sports_centre,,"{u'website': u'http://www.aspire.org.uk', u'name': u'Aspire National Training Centre', u'addr:postcode': u'HA7 4AP', u'wheelchair': u'yes', u'leisure': u'sports_centre', u'phone': u'020 8420 6501', u'addr:street': u'Wood Lane', u'addr:city': u'STANMORE'}"
+325,1442134652,51.4693813,-0.1479211,playground,,"{u'name': u'Montefiore Gardens', u'leisure': u'playground'}"
+326,1453545888,51.448882,-0.1094725,playground,,{u'leisure': u'playground'}
+327,1467996265,51.4928471,-0.220027,sports_centre,,"{u'name': u'Virgin Active Hammersmith', u'leisure': u'sports_centre'}"
+328,1483529279,51.4733842,-0.180668,marina,,"{u'name': u'Imperial Wharf Marina', u'leisure': u'marina'}"
+329,1489891514,51.4627199,-0.009746,sports_centre,,"{u'name': u'Soho Gyms', u'leisure': u'sports_centre'}"
+330,1499049189,51.5875633,-0.1430589,playground,,"{u'name': u'Tree Swing', u'leisure': u'playground'}"
+331,1505673782,51.5322754,-0.0936958,playground,,{u'leisure': u'playground'}
+332,1514530064,51.5884315,-0.074246,sports_centre,,"{u'operator': u'Haringey Council', u'website': u'http://www.haringey.gov.uk/leisure/leisure_centres/tottenham_green.htm', u'sport': u'multi', u'name': u'Tottenham Green Leisure Centre', u'leisure': u'sports_centre'}"
+333,1531141111,51.5128272,-0.4008404,sports_centre,,"{u'sport': u'cycling', u'name': u'Hillingdon Cycle Circuit', u'leisure': u'sports_centre'}"
+334,1531146000,51.5069911,-0.4010775,park,,"{u'name': u'Minet Country Park', u'leisure': u'park'}"
+335,1545262757,51.4881369,-0.0109983,sports_centre,,"{u'sport': u'rugby_union', u'name': u'Millwall Rugby Club', u'leisure': u'sports_centre'}"
+336,1563453710,51.393459,-0.06757,swimming_pool,,"{u'covered': u'yes', u'name': u'South Norwood Leisure Centre', u'leisure': u'swimming_pool'}"
+337,1584900215,51.5609904,-0.0073657,playground,,{u'leisure': u'playground'}
+338,1631430623,51.4730736,-0.0374306,sports_centre,,"{u'wheelchair': u'yes', u'toilets:wheelchair': u'yes', u'name': u'Goldsmiths Gym', u'leisure': u'sports_centre'}"
+339,1638242145,51.6411562,-0.0692305,sports_centre,,"{u'name': u'The Fitness Station', u'leisure': u'sports_centre'}"
+340,1639696408,51.588605,-0.058931,sports_centre,,"{u'operator': u'The Gym Group', u'opening_hours': u'24/7', u'website': u'http://www.thegymgroup.com/find-a-gym/gym/the-gym-tottenham/', u'name': u'The Gym', u'leisure': u'sports_centre'}"
+341,1648342162,51.5031219,-0.20702,playground,,"{u'name': u'nature play garden', u'leisure': u'playground'}"
+342,1663372741,51.3547622,-0.1616762,sports_centre,,"{u'name': u'Del Toro Dance School', u'leisure': u'sports_centre'}"
+343,1668643152,51.4867195,0.1103232,playground,,"{u'name': u'bostal gardens', u'leisure': u'playground'}"
+344,1668876224,51.5192255,-0.14259,social_club,,"{u'access': u'private', u'name': u'BBC Club', u'leisure': u'social_club'}"
+345,1673416207,51.591793,0.2099264,sports_centre,,"{u'name': u'Romford Hockey Club', u'leisure': u'sports_centre'}"
+346,1681568012,51.5101573,-0.206587,playground,,{u'leisure': u'playground'}
+347,1687141609,51.4771997,-0.0373545,playground,,"{u'name': u'Children playground', u'leisure': u'playground'}"
+348,1708956904,51.4512618,0.0574627,swimming_pool,,"{u'name': u'Eltham Centre', u'wheelchair': u'yes', u'leisure': u'swimming_pool', u'operator': u'GLL', u'covered': u'yes', u'sport': u'swimming'}"
+349,1735696650,51.4887093,-0.0298121,playground,,"{u'source': u'local_knowledge', u'name': u'Upper Pepys Park Playground', u'leisure': u'playground'}"
+350,1743597640,51.5843816,-0.0245406,playground,,{u'leisure': u'playground'}
+351,1756091756,51.5041254,-0.0346503,playground,,{u'leisure': u'playground'}
+352,1778396303,51.6353949,-0.1285905,playground,,{u'leisure': u'playground'}
+353,1778418515,51.6188996,-0.1338141,playground,,{u'leisure': u'playground'}
+354,1779248047,51.5891032,-0.1029906,sports_centre,,"{u'sport': u'basketball', u'name': u'Football and basketball courts ', u'leisure': u'sports_centre'}"
+355,1782988233,51.5062445,0.016906,slipway,,{u'leisure': u'slipway'}
+356,1798811866,51.5825995,-0.2265016,sports_centre,,"{u'sport': u'gymnastics', u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+357,1802628015,51.4487096,0.0754116,playground,,"{u'name': u'Avery Hill Park Playground', u'leisure': u'playground'}"
+358,1804973485,51.464146,-0.1347851,sports_centre,,"{u'addr:housenumber': u'141', u'building': u'public', u'name': u'Clapham Leisure Centre', u'addr:postcode': u'SW4 6DB', u'leisure': u'sports_centre', u'addr:street': u'Clapham Manor Street'}"
+359,1804973491,51.4642463,-0.1342272,swimming_pool,,"{u'covered': u'yes', u'sport': u'swimming', u'name': u'Clapham Leisure Centre', u'leisure': u'swimming_pool'}"
+360,1804976913,51.4622531,-0.1409412,paddling_pool,,"{u'name': u'Paddling Pool, Cock Pond', u'designation': u'Kids pool', u'leisure': u'paddling_pool', u'access': u'yes', u'motor_vehicle': u'no', u'operator': u'Wandsworth Council', u'covered': u'no', u'sport': u'swimming'}"
+361,1813026668,51.3729405,-0.1010837,sports_centre,,"{u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+362,1815278863,51.4809901,-0.0996708,playground,,{u'leisure': u'playground'}
+363,1825849217,51.4689492,0.0575755,park,,"{u'source': u'OS_OpenData_StreetView', u'name': u'Eltham Common', u'leisure': u'park'}"
+364,1834187282,51.6150748,-0.083717,playground,,"{u'wheelchair': u'limited', u'leisure': u'playground'}"
+365,1874493759,51.4451692,-0.3285153,playground,,"{u'name': u'Diamond Jubilee', u'leisure': u'playground'}"
+366,1890313956,51.4224103,-0.3220569,playground,,{u'leisure': u'playground'}
+367,1893960879,51.5401225,-0.0040796,sports_centre,,"{u'addr:housenumber': u'98', u'website': u'http://www.docklandsettlements.org.uk', u'entrance': u'main', u'addr:city': u'London', u'addr:postcode': u'E15 2HU', u'leisure': u'sports_centre', u'name': u'Carpenters & Dockland Centre', u'phone': u'020 8534 4121', u'addr:street': u'Gibbins Road'}"
+368,1894537271,51.4281363,-0.3108332,playground,,{u'leisure': u'playground'}
+369,1894537343,51.4270345,-0.3096673,playground,,{u'leisure': u'playground'}
+370,1923579522,51.4641864,-0.2131732,sports_centre,,"{u'addr:housenumber': u'287', u'name': u'Maloca', u'designation': u'Gym and Fitness', u'addr:postcode': u'SW15 2PT', u'addr:housename': u'Maloca', u'leisure': u'sports_centre', u'sport': u'gymnastics', u'addr:street': u'Putney Bridge Road'}"
+371,1924343284,51.5146722,0.1987845,playground,,{u'leisure': u'playground'}
+372,1924350822,51.5204572,0.2177423,playground,,{u'leisure': u'playground'}
+373,1957000095,51.5912268,-0.1527861,swimming_pool,,"{u'covered': u'yes', u'sport': u'swimming', u'name': u'The Manor Gym', u'leisure': u'swimming_pool'}"
+374,1964415237,51.5270323,-0.0926865,playground,,{u'leisure': u'playground'}
+375,1968366424,51.4533559,-0.1018406,sports_centre,,"{u'sport': u'fitness', u'leisure': u'sports_centre'}"
+376,1970112367,51.4942553,-0.0623943,sports_centre,,"{u'sport': u'climbing', u'name': u'The Arch Climbing Wall (Biscuit Factory)', u'leisure': u'sports_centre'}"
+377,1971691996,51.5235775,-0.0839076,sports_centre,,"{u'contact:website': u'http://www.thevaultgym.com/contact-us.html', u'name': u'The Vault Gym', u'leisure': u'sports_centre'}"
+378,1972267492,51.4046031,-0.2839023,sports_centre,,"{u'name': u'Kingsmeadow', u'leisure': u'sports_centre'}"
+379,1972267494,51.4048574,-0.2807265,sports_centre,,{u'leisure': u'sports_centre'}
+380,1973260534,51.5286593,-0.0882054,sports_centre,,"{u'contact:website': u'http://hotbikramyoga.co.uk/', u'sport': u'yoga', u'name': u'Bikram Yoga', u'leisure': u'sports_centre'}"
+381,1973260728,51.5294215,-0.0878637,picnic_table,,{u'leisure': u'picnic_table'}
+382,1982055860,51.5045297,-0.1580207,garden,,"{u'name': u""Nannies' Lawn"", u'leisure': u'garden'}"
+383,1982085230,51.5107745,-0.1662814,garden,,"{u'name': u'The Meadow', u'leisure': u'garden'}"
+384,1982085234,51.5082101,-0.1589965,garden,,"{u'name': u'The Parade Ground', u'leisure': u'garden'}"
+385,1993188847,51.5852333,-0.2799092,sports_centre,,"{u'name': u'FitnessFirst', u'leisure': u'sports_centre'}"
+386,1998966632,51.5052067,-0.009519,slipway,,{u'leisure': u'slipway'}
+387,2000137905,51.494771,0.0183358,sports_centre,,"{u'building': u'public', u'name': u'Greenwich Yacht Club', u'addr:postcode': u'SE10 0BW', u'addr:housename': u'Peartree Wharf', u'leisure': u'sports_centre', u'addr:street': u'Peartree Way'}"
+388,2007317587,51.340413,-0.0616961,sports_centre,,"{u'name': u'Croydon High Sports Club', u'leisure': u'sports_centre'}"
+389,2019715629,51.559753,0.0026393,fitness_station,,"{u'sport': u'exercise', u'leisure': u'fitness_station'}"
+390,2026304995,51.425099,-0.1517037,playground,,"{u'name': u'Furzedown Recreation Ground', u'leisure': u'playground'}"
+391,2026305365,51.4175121,-0.1541392,playground,,"{u'name': u""North Mitcham Children's playground"", u'leisure': u'playground'}"
+392,2026306053,51.433688,-0.1454864,playground,,"{u'name': u""Tooting Bec Common Chldren's Playground"", u'leisure': u'playground'}"
+393,2048127670,51.4197623,-0.2045963,sports_centre,,"{u'addr:housenumber': u'35', u'website': u'https://www.nuffieldhealth.com/gyms/wimbledon', u'name': u'Nuffield Health Wimbledon Fitness & Wellbeing Centre', u'addr:postcode': u'SW19 1QB', u'leisure': u'sports_centre', u'source': u'Local Knowledge', u'opening_hours': u'Mo-Th 06:30-22:30; Fr 06:30-21:30; Sa-Su 08:00-21:00', u'addr:street': u'The Broadway'}"
+394,2048669657,51.5643565,0.0455634,horse_riding,,"{u'website': u'aldersbrookriding.co.uk', u'name': u'Aldersbrook Riding School & Livery Stables', u'leisure': u'horse_riding'}"
+395,2052584475,51.4939965,-0.0241762,slipway,,{u'leisure': u'slipway'}
+396,2056088626,51.4469256,-0.3297737,playground,,{u'leisure': u'playground'}
+397,2056524751,51.4955299,-0.0063313,slipway,,{u'leisure': u'slipway'}
+398,2065712009,51.5725947,-0.1308586,playground,,{u'leisure': u'playground'}
+399,2065712038,51.5729869,-0.1313363,playground,,{u'leisure': u'playground'}
+400,2112412005,51.4704524,-0.2857605,playground,,{u'leisure': u'playground'}
+401,2112412007,51.4702384,-0.2844623,playground,,{u'leisure': u'playground'}
+402,2112680901,51.4683041,-0.2901032,playground,,{u'leisure': u'playground'}
+403,2112692243,51.4862198,-0.2869751,playground,,{u'leisure': u'playground'}
+404,2124626804,51.374216,-0.1037563,sports_centre,,"{u'sport': u'fitness', u'name': u'FX Power Gym', u'leisure': u'sports_centre'}"
+405,2124626806,51.3741024,-0.1035074,sports_centre,,"{u'sport': u'fitness', u'name': u""Lion's Pride MMA"", u'leisure': u'sports_centre'}"
+406,2129466673,51.5991157,0.0678834,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+407,2129466695,51.5990708,0.0679558,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+408,2136193534,51.3625476,0.077115,playground,,"{u'name': u'Skate Park', u'leisure': u'playground'}"
+409,2153857943,51.6012936,-0.4096619,sports_centre,,{u'leisure': u'sports_centre'}
+410,2158614763,51.5876692,-0.0041927,playground,,{u'leisure': u'playground'}
+411,2160094694,51.574017,-0.1019298,playground,,{u'leisure': u'playground'}
+412,2165691435,51.4456845,-0.3183354,slipway,,{u'leisure': u'slipway'}
+413,2166009440,51.511809,-0.1217587,sports_centre,,"{u'addr:housenumber': u'1-7', u'name': u'Jubilee Hall Trust', u'leisure': u'sports_centre', u'addr:street': u'Covent Garden Piazza'}"
+414,2168835629,51.4560608,-0.1182606,playground,,{u'leisure': u'playground'}
+415,2175185019,51.4563514,-0.1947233,sports_centre,,"{u'name': u'Virgin Active Wandsworth', u'leisure': u'sports_centre'}"
+416,2190841358,51.5392428,-0.1202953,playground,,"{u'name': u'Crumbles Castle', u'leisure': u'playground'}"
+417,2196145368,51.3904851,0.0150742,sports_centre,,"{u'addr:housenumber': u'28-30', u'name': u'Calso Health and Fitness Centre', u'addr:city': u'Bromley', u'leisure': u'sports_centre', u'addr:street': u'Letchworth Drive'}"
+418,2196152747,51.3905622,0.0146315,sports_centre,,"{u'addr:housenumber': u'18', u'addr:postcode': u'BR2 9BE', u'name': u'Julian Hitch Martial Arts', u'leisure': u'sports_centre', u'addr:street': u'Letchworth Drive'}"
+419,2218654057,51.5321142,-0.0608219,hackerspace,,"{u'addr:housenumber': u'447-453', u'payment:bitcoin': u'yes', u'name': u'London Hackspace', u'addr:postcode': u'E2 9DY', u'wifi': u'yes', u'drink:club-mate': u'yes', u'leisure': u'hackerspace', u'website': u'http://london.hackspace.org.uk/', u'opening_date': u'2013-04-20', u'irc': u'irc://irc.freenode.net #london-hack-space', u'addr:street': u'Hackney Road'}"
+420,2231424441,51.3933738,-0.035529,sports_centre,,"{u'building': u'yes', u'name': u'David Lloyd Beckenham', u'addr:postcode': u'BR3 3HL', u'addr:housename': u'David Lloyd Beckenham', u'leisure': u'sports_centre', u'source': u'http://www.davidlloyd.co.uk/', u'operator': u'David Lloyd', u'covered': u'yes', u'sport': u'swimming', u'addr:street': u'Stanhope Grove'}"
+421,2239847818,51.4921038,-0.2213839,sports_centre,,"{u'opening_hours': u'Mo-Fr 06:30-22:00; Sa 08:00-17:00; Su 09:00-17:00', u'sport': u'racquet', u'name': u'Hammersmith fitness and squash centre', u'leisure': u'sports_centre'}"
+422,2252594200,51.5688674,-0.3601344,playground,,"{u'source': u'Bing', u'leisure': u'playground'}"
+423,2257593092,51.5964953,-0.0375915,playground,,{u'leisure': u'playground'}
+424,2267388561,51.5975904,-0.0865978,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+425,2267388648,51.5975404,-0.0866835,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+426,2267424427,51.5818143,-0.0901919,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+427,2267424457,51.5818726,-0.0902187,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+428,2267424472,51.5818294,-0.0902751,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+429,2267424494,51.5818444,-0.0902053,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+430,2267424564,51.5818177,-0.0903366,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+431,2285457303,51.415467,-0.3032694,sports_centre,,"{u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+432,2294941855,51.5972343,-0.1080958,sports_centre,,"{u'building': u'apartments', u'name': u'The Gym', u'leisure': u'sports_centre'}"
+433,2300710373,51.5764632,-0.0976523,fitness_centre,,"{u'name': u'Fitness First', u'leisure': u'fitness_centre'}"
+434,2308444310,51.523444,-0.0193429,playground,,{u'leisure': u'playground'}
+435,2314750952,51.531407,-0.3695815,sports_centre,,"{u'name': u'Greenford Sports Centre', u'leisure': u'sports_centre'}"
+436,2318307572,51.4872771,-0.1678234,sports_centre,,"{u'building': u'public', u'name': u'Chelsea Sports Centre', u'addr:postcode': u'SW3 5PL', u'addr:housename': u'Chelsea Sports Centre', u'leisure': u'sports_centre', u'sport': u'swimming', u'addr:street': u'Chelsea Manor Street'}"
+437,2324723753,51.5095279,-0.0324082,playground,,{u'leisure': u'playground'}
+438,2324723784,51.5097683,-0.0323974,playground,,{u'leisure': u'playground'}
+439,2328387728,51.5481395,0.0806879,pitch,,"{u'sport': u'fitness_trail', u'leisure': u'pitch'}"
+440,2328387729,51.5473356,0.0800818,pitch,,"{u'sport': u'fitness_trail', u'leisure': u'pitch'}"
+441,2333166636,51.5891985,-0.0579682,playground,,{u'leisure': u'playground'}
+442,2333320764,51.5846627,-0.09978,social_club,,"{u'addr:housenumber': u'600', u'wikipedia': u""en:Langham Working Men's Club"", u'name': u'Langham Working Mens Club', u'leisure': u'social_club', u'addr:street': u'Green Lanes'}"
+443,2333408426,51.5829559,-0.0996235,sports_centre,,"{u'sport': u'snooker', u'name': u'Harringey Snooker Club', u'leisure': u'sports_centre'}"
+444,2333408434,51.5829372,-0.0996208,sports_centre,,"{u'name': u'Legends Gym', u'leisure': u'sports_centre'}"
+445,2341495566,51.5766398,-0.1019012,playground,,{u'leisure': u'playground'}
+446,2344481654,51.5763073,-0.4246608,playground,,"{u'name': u'Churchfield Gardens', u'leisure': u'playground'}"
+447,2348565615,51.6252808,-0.0103876,fitness_park,,{u'leisure': u'fitness_park'}
+448,2348565617,51.6256961,-0.0109787,playground,,{u'leisure': u'playground'}
+449,2370540210,51.4311111,-0.0685755,playground,,{u'leisure': u'playground'}
+450,2371177434,51.5702187,0.0168054,playground,,{u'leisure': u'playground'}
+451,2377941693,51.5560548,0.0046099,common,,"{u'note': u'Community Compost heap', u'leisure': u'common'}"
+452,2378981839,51.5522784,-0.3111089,social_club,,"{u'name': u'Barham Park Veterans Club', u'leisure': u'social_club'}"
+453,2388400884,51.5278102,-0.1537431,garden,,"{u'name': u""Queen Mary's gardens"", u'leisure': u'garden'}"
+454,2395501201,51.5372856,0.2700634,slipway,,{u'leisure': u'slipway'}
+455,2398312000,51.5190817,-0.1347546,playground,,{u'leisure': u'playground'}
+456,2399254290,51.472304,-0.3987603,playground,,{u'leisure': u'playground'}
+457,2411576362,51.5027243,0.092567,playground,,{u'leisure': u'playground'}
+458,2413988257,51.4945437,0.0640936,slipway,,{u'leisure': u'slipway'}
+459,2417176100,51.458498,-0.3077658,slipway,,{u'leisure': u'slipway'}
+460,2417949821,51.4404062,-0.0631736,playground,,"{u'sport': u'climbing', u'name': u'Outdoor climbing wall', u'leisure': u'playground'}"
+461,2418330328,51.4559149,-0.3061512,playground,,{u'leisure': u'playground'}
+462,2418330331,51.4569936,-0.3074789,slipway,,"{u'noexit': u'yes', u'leisure': u'slipway'}"
+463,2418380274,51.4464401,-0.325091,slipway,,{u'leisure': u'slipway'}
+464,2418380275,51.4464832,-0.3249767,playground,,{u'leisure': u'playground'}
+465,2418380283,51.446685,-0.320739,slipway,,{u'leisure': u'slipway'}
+466,2424696242,51.5702971,-0.3025652,picnic_table,,"{u'note': u'Wooden trestle table.', u'source': u'survey;Bing 2012', u'survey:date': u'2013-08-19', u'leisure': u'picnic_table'}"
+467,2424696253,51.570586,-0.3022396,picnic_table,,"{u'note': u'Wooden trestle table.', u'source': u'survey;Bing 2012', u'survey:date': u'2013-08-23', u'leisure': u'picnic_table'}"
+468,2434595818,51.5770856,-0.124922,fitness_centre,,"{u'male': u'no', u'leisure': u'fitness_centre', u'female': u'yes', u'name': u'truGym'}"
+469,2440890658,51.6520379,-0.1263055,horse_riding,,"{u'url': u'http://www.trentpark.com/', u'phone': u'+44 20 8363 8630', u'name': u'Trent Park Equestrian Centre', u'leisure': u'horse_riding', u'source': u'signboard'}"
+470,2443788233,51.5478763,-0.0076833,playground,,"{u'name': u'Prize Walk Playground', u'leisure': u'playground'}"
+471,2450024738,51.498517,-0.0480244,playground,,{u'leisure': u'playground'}
+472,2451260030,51.6241422,-0.0604115,sports_centre,,"{u'url': u'http://www.fusion-lifestyle.com/centres/Edmonton_Leisure_Centre', u'wheelchair': u'yes', u'name': u'Edmonton Leisure Centre', u'leisure': u'sports_centre', u'addr:street': u'Edmonton Green'}"
+473,2451299694,51.6332222,-0.0535961,playground,,{u'leisure': u'playground'}
+474,2453164020,51.3513573,0.0750522,pitch,,"{u'sport': u'eton_fives', u'leisure': u'pitch'}"
+475,2455704328,51.6174314,-0.0694719,picnic_table,,{u'leisure': u'picnic_table'}
+476,2455711097,51.6180839,-0.0697511,fitness_station,,{u'leisure': u'fitness_station'}
+477,2458261088,51.5594681,-0.1136026,playground,,{u'leisure': u'playground'}
+478,2497144540,51.4084247,0.1242021,sports_centre,,"{u'website': u'lafitness.co.uk/orpington', u'name': u'L.A. Fitness Orpington', u'addr:postcode': u'BR5 3HY', u'leisure': u'sports_centre', u'phone': u'+448431701036', u'source:postcode': u'leaflet', u'addr:street': u'Sandy Lane'}"
+479,2500891116,51.5852644,-0.3185404,pitch,,"{u'sport': u'basketball', u'leisure': u'pitch'}"
+480,2501842125,51.4614942,-0.173496,sports_centre,,"{u'sport': u'yoga', u'name': u'Kula Hot Yoga & Wellbeing', u'leisure': u'sports_centre'}"
+481,2512646368,51.5223795,-0.1348101,sports_centre,,"{u'name': u'Fitness First TCR Gym', u'leisure': u'sports_centre'}"
+482,2528652090,51.3805698,-0.1053581,sports_centre,,"{u'addr:housenumber': u'99-101', u'name': u'easyGym', u'leisure': u'sports_centre', u'addr:street': u'London Road'}"
+483,2536654186,51.509958,-0.123826,sports_centre,,"{u'name': u'Fitness First', u'leisure': u'sports_centre'}"
+484,2543183237,51.4315101,0.0757236,miniature_golf,,"{u'name': u'World of Golf', u'leisure': u'miniature_golf'}"
+485,2551302855,51.4761963,-0.1759493,slipway,,{u'leisure': u'slipway'}
+486,2619667222,51.5200805,-0.066148,dance,,"{u'website': u'http://www.startthedance.co.uk', u'phone': u'+44 (0)20 7183 0717', u'name': u'Start The Dance', u'leisure': u'dance'}"
+487,2620429797,51.364687,-0.0785485,fitness_station,,"{u'sport': u'exercise', u'leisure': u'fitness_station'}"
+488,2659475642,51.5110647,-0.1358825,sports_centre,,"{u'name': u'The Third Space', u'leisure': u'sports_centre'}"
+489,2667700510,51.519931,-0.105449,fitness_centre,,"{u'name': u'Gymbox', u'leisure': u'fitness_centre'}"
+490,2675377426,51.485212,-0.126699,sports_centre,,"{u'name': u'The Gym', u'leisure': u'sports_centre'}"
+491,2677429698,51.49757,-0.141797,fitness_centre,,"{u'name': u'LA Fitness', u'leisure': u'fitness_centre'}"
+492,2686817210,51.487563,-0.122773,fitness_centre,,"{u'addr:housenumber': u'Arch 73', u'name': u'Paris Gym', u'fhrs:inspectiondate': u'2007-10-31', u'addr:postcode': u'SE11 5AW', u'leisure': u'fitness_centre', u'fhrs:id': u'484118', u'fhrs:rating': u'5', u'fhrs:authority': u'Lambeth', u'addr:street': u'Goding Street'}"
+493,2696918582,51.5161936,0.0096661,sports_centre,,"{u'name': u'Fitness4Less', u'leisure': u'sports_centre'}"
+494,2696972013,51.5729759,-0.1236125,playground,,{u'leisure': u'playground'}
+495,2707274390,51.4508672,0.0356876,yes,,"{u'name': u'Badgers Sports Club', u'leisure': u'yes'}"
+496,2714851823,51.4314103,0.1118293,playground,,{u'leisure': u'playground'}
+497,2714851827,51.4316574,0.1117727,pitch,,"{u'sport': u'tennis', u'leisure': u'pitch'}"
+498,2715355205,51.455203,-0.037099,dance,,"{u'name': u'Rivoli Ballroom', u'leisure': u'dance'}"
+499,2735327665,51.3192599,-0.0640576,sports_centre,,"{u'sport': u'multi', u'name': u'Total', u'leisure': u'sports_centre'}"
+500,2740703344,51.572967,-0.0945873,playground,,{u'leisure': u'playground'}
+501,2810046327,51.4634673,-0.3017525,sports_centre,,"{u'website': u'http://www.richmondfitnessclub.co.uk/', u'sport': u'martial_arts', u'name': u'Richmond Fitness Club', u'addr:postcode': u'TW9 2NA', u'leisure': u'sports_centre', u'phone': u'0203 3021800', u'addr:street': u'Kew Road', u'addr:city': u'Richmond'}"
+502,2836097097,51.4442162,-0.3798749,picnic_table,,{u'leisure': u'picnic_table'}
+503,2841318003,51.4184679,-0.0654181,slipway,,"{u'leisure': u'slipway', u'vehicle': u'no'}"
+504,2846510400,51.4598122,-0.0267704,playground,,{u'leisure': u'playground'}
+505,2872682830,51.5220352,-0.0814367,sports_centre,,"{u'name': u'Moss Pilates', u'leisure': u'sports_centre'}"
+506,2882744805,51.4742571,-0.0693037,playground,,"{u'sport': u'table_tennis', u'leisure': u'playground'}"
+507,2894421194,51.6733444,-0.0459518,playground,,{u'leisure': u'playground'}
+508,2904988369,51.4936951,0.0168493,park,,"{u'name': u'Southern Park', u'leisure': u'park'}"
+509,2910015285,51.532175,-0.0417923,sports_centre,,"{u'website': u'http://www.sohogyms.com/index.php?page=bow-wharf', u'name': u'Soho Gyms', u'leisure': u'sports_centre'}"
+510,2911951649,51.5583114,-0.1022917,sports_centre,,"{u'name': u'Fitness First Highbury', u'leisure': u'sports_centre'}"
+511,2916606549,51.5153732,-0.1231194,comedy,,"{u'addr:housenumber': u'170', u'website': u'http://www.thetopsecretcomedyclub.co.uk/', u'layer': u'-1', u'name': u'Top Secret Comedy Club', u'addr:postcode': u'WC2B 5PD', u'leisure': u'comedy', u'comedy': u'yes', u'addr:street': u'Drury Lane'}"
+512,2916660680,51.4764214,-0.065417,playground,,{u'leisure': u'playground'}
+513,2916660699,51.4769558,-0.0652324,playground,,{u'leisure': u'playground'}
+514,2932682278,51.5177118,-0.0771325,sports_centre,,"{u'name': u'Fitness First Shoreditch Tower', u'leisure': u'sports_centre'}"
+515,2941603203,51.5078231,-0.1314729,hackerspace,,"{u'name': u'Impact hub Westminster', u'leisure': u'hackerspace'}"
+516,2960079342,51.5250769,-0.2654367,amusement_arcade,,"{u'name': u'The Heart of Gaming', u'leisure': u'amusement_arcade'}"
+517,2964129090,51.4696761,-0.2199831,slipway,,"{u'name': u'Putney Embankment', u'leisure': u'slipway'}"
+518,2976035697,51.4534551,0.0294586,sports_centre,,{u'leisure': u'sports_centre'}
+519,2986114648,51.3517647,0.0760671,picnic_table,,{u'leisure': u'picnic_table'}
+520,2986114649,51.3517647,0.0760166,picnic_table,,{u'leisure': u'picnic_table'}
+521,2986884645,51.4658427,-0.092433,picnic_table,,{u'leisure': u'picnic_table'}
+522,2986884646,51.4660761,-0.0925109,picnic_table,,{u'leisure': u'picnic_table'}
+523,2986884647,51.4662068,-0.0927866,picnic_table,,{u'leisure': u'picnic_table'}
+524,2986884648,51.4659361,-0.0932451,picnic_table,,{u'leisure': u'picnic_table'}
+525,2986884649,51.4656747,-0.0929574,picnic_table,,{u'leisure': u'picnic_table'}
+526,3005606033,51.561627,-0.315258,pitch,,"{u'name': u'Stallions Training field', u'leisure': u'pitch', u'phone': u'07957 424218', u'operator': u'Wembley Stallions AFC', u'addr:street': u'East Lane', u'addr:city': u'Wembley'}"
+527,3046689436,51.51148,0.0604959,playground,,{u'leisure': u'playground'}
+528,3055847250,51.5360178,-0.0685634,pitch,,"{u'sport': u'table_tennis', u'leisure': u'pitch'}"
+529,3055907731,51.4549318,-0.1415387,sports_centre,,"{u'addr:housenumber': u'60', u'building': u'house', u'addr:city': u'London', u'payment:bitcoin': u'yes', u'addr:postcode': u'SW4 9EH', u'addr:housename': u'The Contact Centre', u'leisure': u'sports_centre', u'name': u'Semokwan Hapkido Academy', u'website': u'http://semokwan-hapkido.co.uk/', u'phone': u'07932 667 336', u'sport': u'hapkido', u'addr:street': u'Hambalt Road'}"
+530,3063724430,51.5314141,-0.1031605,sports_centre,,"{u'wheelchair': u'yes', u'sport': u'fitness', u'name': u'FitnessFirst', u'leisure': u'sports_centre'}"
+531,3065516762,51.5296035,-0.0553296,sports_centre,,"{u'addr:housenumber': u'5', u'website': u'http://better.org.uk/leisure/york-hall-leisure-centre', u'name': u'York Hall Leisure Centre', u'addr:postcode': u'E2 9PJ', u'leisure': u'sports_centre', u'addr:street': u'Old Ford Road'}"
+532,3065534052,51.4627203,-0.1674976,adult_gaming_centre,,"{u'name': u'Admiral Amusements', u'leisure': u'adult_gaming_centre'}"
+533,3065850612,51.5244647,-0.0370609,picnic_table,,"{u'amenity': u'bench', u'leisure': u'picnic_table'}"
+534,3065850613,51.5244806,-0.0370783,picnic_table,,"{u'amenity': u'bench', u'leisure': u'picnic_table'}"
+535,3067504433,51.4616328,-0.1512635,sports_centre,,"{u'addr:housenumber': u'58', u'payment:bitcoin': u'yes', u'addr:city': u'London', u'addr:postcode': u'SW4 9SA', u'addr:housename': u'Eaton House', u'leisure': u'sports_centre', u'name': u'Semokwan Hapkido Academy', u'website': u'http://semokwan-hapkido.co.uk/', u'phone': u'07932 667 336', u'sport': u'hapkido', u'addr:street': u'Clapham Common North Side'}"
+536,3067516496,51.4553829,-0.1577104,sports_centre,,"{u'addr:housenumber': u'155D', u'payment:bitcoin': u'yes', u'addr:city': u'London', u'addr:postcode': u'SW11 6JX', u'addr:housename': u'Broomwood Methodist Church', u'leisure': u'sports_centre', u'name': u'Semokwan Hapkido Academy', u'website': u'http://semokwan-hapkido.co.uk/', u'phone': u'07932 667 336', u'sport': u'hapkido', u'addr:street': u'Broomwood Road'}"
+537,3080553856,51.5276022,-0.1246488,sauna,,"{u'addr:housenumber': u'90', u'source': u'survey', u'leisure': u'sauna', u'addr:street': u'Judd Street'}"
+538,3092189700,51.6152753,0.1246442,high_ropes_course,,"{u'name': u'Go Ape', u'leisure': u'high_ropes_course'}"
+539,3096129974,51.4850472,-0.1227612,sports_centre,,"{u'addr:housenumber': u'24', u'addr:unit': u'Arches 47-47A', u'name': u'VauxWall Climbing Centre', u'fhrs:inspectiondate': u'2014-07-15', u'addr:postcode': u'SW8 1SU', u'leisure': u'sports_centre', u'fhrs:id': u'690939', u'fhrs:rating': u'5', u'fhrs:authority': u'Lambeth', u'sport': u'climbing', u'addr:street': u'South Lambeth Road'}"
+540,3097749231,51.6368515,-0.0578713,picnic_table,,{u'leisure': u'picnic_table'}
+541,3097749232,51.6371312,-0.057807,picnic_table,,{u'leisure': u'picnic_table'}
+542,3097749234,51.6370779,-0.0577211,picnic_table,,{u'leisure': u'picnic_table'}
+543,3098754099,51.4980362,-0.0888867,fitness_station,,"{u'sport': u'fitness', u'name': u'Outdoor gym', u'leisure': u'fitness_station'}"
+544,3099087374,51.6497689,-0.085635,playground,,"{u'max_age': u'7', u'name': u'Junior Playground', u'leisure': u'playground', u'min_age': u'2'}"
+545,3101859696,51.473724,-0.2535465,slipway,,{u'leisure': u'slipway'}
+546,3107557331,51.6495846,-0.0466704,community_centre,,"{u'name': u'Ponders End Community Centre', u'leisure': u'community_centre'}"
+547,3118263525,51.5169362,-0.0763984,sports_centre,,"{u'website': u'http://www.ignitept.co.uk/', u'sport': u'fitness', u'name': u'Ignite PT', u'leisure': u'sports_centre'}"
+548,3124057820,51.5625696,-0.1277011,fitness_station,,{u'leisure': u'fitness_station'}
+549,3146267532,51.5974072,-0.0514139,picnic_table,,{u'leisure': u'picnic_table'}
+550,3146267535,51.5974688,-0.0512986,picnic_table,,{u'leisure': u'picnic_table'}
+551,3146267539,51.5974788,-0.0514676,picnic_table,,{u'leisure': u'picnic_table'}
+552,3146267540,51.597632,-0.0517653,picnic_table,,{u'leisure': u'picnic_table'}
+553,3146267542,51.5976888,-0.0517814,picnic_table,,{u'leisure': u'picnic_table'}
+554,3146267547,51.5976937,-0.0518754,picnic_table,,{u'leisure': u'picnic_table'}
+555,3152321586,51.6559033,-0.1491082,picnic_table,,{u'leisure': u'picnic_table'}
+556,3152321599,51.65589,-0.1490626,picnic_table,,{u'leisure': u'picnic_table'}
+557,3157633625,51.4519138,-0.100888,Makerspace,,"{u'addr:housenumber': u'41', u'website': u'http://southlondonmakerspace.org/', u'addr:city': u'Herne Hill', u'addr:postcode': u'SE24 9AJ', u'addr:housename': u'Arch 1129', u'leisure': u'Makerspace', u'name': u'South London Makerspace', u'addr:street': u'Norwood Road'}"
+558,3160126955,51.6439367,-0.044059,social_club,,"{u'source': u'gps+mapnoter', u'name': u'Ponders End Working Mens Club', u'leisure': u'social_club'}"
+559,3160210317,51.6489271,-0.0568155,fitness_centre,,"{u'source': u'gps+mapnoter', u'name': u'Pure Gym', u'leisure': u'fitness_centre'}"
+560,3161605897,51.6804589,-0.0802517,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+561,3161605899,51.6805387,-0.0799942,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+562,3161605900,51.680444,-0.0802758,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+563,3161624505,51.6805169,-0.0801055,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+564,3191226557,51.4738136,-0.2249977,slipway,,{u'leisure': u'slipway'}
+565,3191230457,51.4720521,-0.2175524,sports_centre,,"{u'website': u'http://www.winningtonbowlsclub.co.uk/', u'sport': u'bowls', u'name': u'Winnington Bowls Club', u'leisure': u'sports_centre'}"
+566,3193156903,51.4891918,-0.2357604,slipway,,{u'leisure': u'slipway'}
+567,3197254712,51.5182621,-0.2086181,sports_centre,,"{u'addr:housenumber': u'3-5', u'sport': u'weightlifting', u'name': u'Westway Sports & Fitness', u'addr:postcode': u'W10 5XL', u'leisure': u'sports_centre', u'opening_hours': u'Mo,We,Th,Fr 06:30-21:45;Sa 08:00-17:00;Su 09:00-17:00', u'addr:street': u'Thorpe Close', u'addr:city': u'London'}"
+568,3201102293,51.5480259,-0.181497,sports_centre,,"{u'website': u'http://www.virginactive.co.uk/clubs/swiss-cottage', u'opening_hours': u'Mo-Fr 06:00-22:30;Sa 07:30-19:30;Su,PH 08:00-20:30', u'sport': u'fitness', u'name': u'Virgin Active Swiss Cottage', u'leisure': u'sports_centre'}"
+569,3217508171,51.5514013,-0.3823286,sports_centre,,"{u'sport': u'soccer', u'name': u'Larkspur Rovers FC', u'leisure': u'sports_centre'}"
+570,3230591744,51.4641728,-0.1677678,sports_centre,,"{u'name': u'Fitness First Clapham Hill', u'leisure': u'sports_centre'}"
+571,3243817892,51.6358087,-0.1032182,playground,,{u'leisure': u'playground'}
+572,3246373071,51.5970325,-0.1921571,garden,,"{u'name': u'The Bothy', u'leisure': u'garden'}"
+573,3246373072,51.5975724,-0.1923152,playground,,{u'leisure': u'playground'}
+574,3247465667,51.4379488,-0.2042339,picnic_table,,{u'leisure': u'picnic_table'}
+575,3247465668,51.4379538,-0.2041642,picnic_table,,{u'leisure': u'picnic_table'}
+576,3247465669,51.4379237,-0.2041937,picnic_table,,{u'leisure': u'picnic_table'}
+577,3248887452,51.486822,-0.1229942,sauna,,"{u'addr:housenumber': u'63-64', u'name:en': u'Chariots Roman Spa', u'name': u'Chariots Roman Spa', u'addr:postcode': u'SE1 7TP', u'leisure': u'sauna', u'phone': u'020 7735 6709', u'opening_hours': u'Mo-We 12:00-08:00; Th 12:00-00:00; Fr 12:00-00:00; Sa-Su 00:00-00:00', u'addr:street': u'Albert Embankment'}"
+578,3251204027,51.648676,-0.0515145,sports_centre,,"{u'source': u'gps+mapnoter', u'sport': u'fitness', u'name': u'Anytime Fitness', u'leisure': u'sports_centre'}"
+579,3260045878,51.5120604,-0.3029906,sports_centre,,"{u'name': u'Virgin Active', u'leisure': u'sports_centre'}"
+580,3264838561,51.4850603,0.0143988,playground,,{u'leisure': u'playground'}
+581,3270614684,51.450645,-0.1706315,fitness_station,,{u'leisure': u'fitness_station'}
+582,3278527461,51.5369788,-0.2061844,sports_centre,,"{u'name': u'Fitness First', u'leisure': u'sports_centre'}"
+583,3294148133,51.5286627,-0.1220601,fitness_station,,"{u'source': u'survey;Geograph', u'fixme': u'location approx, type to be specified', u'sport': u'exercise', u'leisure': u'fitness_station'}"
+584,3294148134,51.528683,-0.1220818,fitness_station,,"{u'source': u'survey;Geograph', u'fixme': u'location approx, type to be specified', u'sport': u'exercise', u'leisure': u'fitness_station'}"
+585,3294148136,51.528696,-0.122036,fitness_station,,"{u'source': u'survey;Geograph', u'fixme': u'location approx, type to be specified', u'sport': u'exercise', u'leisure': u'fitness_station'}"
+586,3294148143,51.5286677,-0.1220118,fitness_station,,"{u'source': u'survey;Geograph', u'fixme': u'location approx, type to be specified', u'sport': u'exercise', u'leisure': u'fitness_station'}"
+587,3299666971,51.5299354,-0.0617822,fitness_station,,"{u'sport': u'fitness', u'name': u'Outdoor gym', u'leisure': u'fitness_station'}"
+588,3306271861,51.4386479,-0.313697,fitness_station,,{u'leisure': u'fitness_station'}
+589,3307141938,51.5678103,-0.3563384,fitness_station,,"{u'addr:postcode': u'HA2 8AU', u'name': u'ama fitness', u'leisure': u'fitness_station', u'opening_hours': u'Mo-Fr 06:00-23:00; Sa-Su 08:00-20:00'}"
+590,3325569156,51.4717736,-0.0001023,picnic_table,,{u'leisure': u'picnic_table'}
+591,3337978527,51.5504002,-0.1105849,sports_centre,,"{u'addr:housenumber': u'555', u'website': u'http://www.f4l.com/', u'name': u'Fit4less Highbury & Islington', u'addr:postcode': u'N7 8NP', u'leisure': u'sports_centre', u'phone': u'+44 20 3137 2274', u'opening_hours': u'09:00-18:00', u'addr:street': u'Liverpool Road', u'addr:city': u'London'}"
+592,3358156632,51.425199,0.0947724,playground,,"{u'name': u'Carlton Rd Playground', u'leisure': u'playground'}"
+593,3359114893,51.375161,-0.1023385,sports_centre,,"{u'addr:housenumber': u'41-42', u'website': u'www.totstarsuk.com', u'name': u'Totstars Academy', u'addr:postcode': u'CR0 1TF', u'leisure': u'sports_centre', u'source': u'survey', u'addr:street': u'Keeley Road'}"
+594,3366870429,51.3898212,0.1146617,sports_centre,,{u'leisure': u'sports_centre'}
+595,3371561551,51.4437442,-0.0234637,sports_centre,,"{u'addr:postcode': u'SE6 4SW', u'name': u'St Dunstans Jubilee Ground', u'addr:city': u'Catford', u'leisure': u'sports_centre', u'addr:street': u'Canadian Avenue'}"
+596,3378512021,51.6431103,-0.0611676,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+597,3382070594,51.3741299,-0.0958811,sports_centre,,"{u'addr:unit': u'6', u'name': u'The Gym', u'addr:housename': u'Suffolk House', u'leisure': u'sports_centre', u'source': u'survey', u'sport': u'fitness', u'addr:street': u'George Street'}"
+598,3385132613,51.6333608,-0.0757844,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+599,3385132616,51.6330592,-0.0759655,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+600,3385132619,51.6333855,-0.0757402,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+601,3385132624,51.6331078,-0.0759641,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+602,3386760686,51.6189814,-0.1335713,playground,,{u'leisure': u'playground'}
+603,3386762598,51.6187867,-0.1336357,playground,,{u'leisure': u'playground'}
+604,3386762603,51.6190963,-0.1334399,playground,,{u'leisure': u'playground'}
+605,3387400187,51.4626065,-0.1973779,sports_centre,,"{u'name': u'Riverside Quarter Leisure Centre', u'leisure': u'sports_centre'}"
+606,3390903172,51.4948367,-0.275695,sports_centre,,"{u'name': u'Virgin Active, Chiswick Park', u'leisure': u'sports_centre'}"
+607,3393287098,51.5369737,-0.1578392,fitness_station,,"{u'sport': u'fitness', u'leisure': u'fitness_station'}"
+608,3397886782,51.5197601,-0.1165252,amusement_arcade,,"{u'addr:housenumber': u'1a', u'website': u'http://www.novelty-automation.com/', u'name': u'Novelty Automation', u'addr:postcode': u'WC1R 4AX', u'leisure': u'amusement_arcade', u'tourism': u'attraction', u'addr:street': u'Princeton Street'}"
+609,3407162025,51.654339,-0.0465996,picnic_table,,{u'leisure': u'picnic_table'}
+610,3407162031,51.6543722,-0.0466183,picnic_table,,{u'leisure': u'picnic_table'}
+611,3412460193,51.52807,-0.216575,fitness_centre,,"{u'description': u'Women only health club', u'leisure': u'fitness_centre', u'name': u""Her's Gym and Spa""}"
+612,3418527626,51.6314309,-0.1134682,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+613,3448151354,51.4682739,-0.2179764,slipway,,{u'leisure': u'slipway'}
+614,3455988456,51.4980338,-0.1404543,sports_centre,,"{u'name': u'Fitness First', u'leisure': u'sports_centre'}"
+615,3456391971,51.4662818,-0.2142937,slipway,,"{u'name': u'Putney Public Slipway', u'leisure': u'slipway'}"
+616,3456416080,51.4656195,-0.2126761,slipway,,{u'leisure': u'slipway'}
+617,3457375384,51.6705923,-0.0658,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+618,3457375385,51.6701665,-0.06558,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+619,3457375386,51.6703128,-0.0656551,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+620,3457375387,51.6704892,-0.0658,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+621,3457375388,51.6702297,-0.0655639,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+622,3457375389,51.6703827,-0.0661808,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+623,3457375390,51.6704792,-0.0663257,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+624,3468345300,51.509091,-0.1434431,social_club,,"{u'addr:housenumber': u'15a', u'name': u'Rififi Club', u'addr:city': u'London', u'leisure': u'social_club', u'addr:street': u'Hay Hill'}"
+625,3472098518,51.4929452,-0.1391658,park,,{u'leisure': u'park'}
+626,3495091093,51.59313,-0.088631,playground,,"{u'name': u'Lordship Rec Model Traffic Area', u'leisure': u'playground'}"
+627,3514932241,51.5118049,0.0145761,fitness_station,,{u'leisure': u'fitness_station'}
+628,3514932242,51.5119451,0.016502,fitness_station,,{u'leisure': u'fitness_station'}
+629,3514932243,51.5123023,0.0149248,fitness_station,,{u'leisure': u'fitness_station'}
+630,3514932244,51.5121587,0.0159655,fitness_station,,{u'leisure': u'fitness_station'}
+631,3532664301,51.5236373,0.1762646,sports_centre,,"{u'opening_hours': u'04:00 - 22:00', u'sport': u'fitness', u'name': u'Origin', u'leisure': u'sports_centre'}"
+632,3553319192,51.5246215,-0.0903465,sports_centre,,"{u'addr:housenumber': u'60', u'website': u'http://www.fitnessfirst.co.uk/clubs/london---old-street/', u'name': u'Fitness First', u'addr:postcode': u'EC1Y 8NQ', u'leisure': u'sports_centre', u'phone': u'0844 5712913', u'opening_hours': u'Mo-Fr 06:30-21:00; Sa-Su 09:00-18:00', u'addr:street': u'Featherstone Street', u'addr:city': u'London'}"
+633,3560950600,51.5180666,-0.1505286,fitness_centre,,"{u'website': u'http://www.thethirdspace.com', u'name': u'thethirdspace', u'addr:postcode': u'W1U 2HU', u'leisure': u'fitness_centre', u'sport': u'fitness', u'addr:street': u'Bulstrode Place'}"
+634,3561441335,51.5055005,-0.1393439,picnic_table,,{u'leisure': u'picnic_table'}
+635,3561441336,51.505481,-0.1393836,picnic_table,,{u'leisure': u'picnic_table'}
+636,3566761792,51.5611039,-0.3513652,pitch,,"{u'sport': u'cricket', u'leisure': u'pitch'}"
+637,3574484193,51.523275,-0.0839792,sports_centre,,"{u'website': u'http://www.boomcycle.co.uk', u'sport': u'fitness', u'description': u'""A high energy, bike-based, music focussed fitness experience. Bike. Beats. BOOM!""', u'leisure': u'sports_centre', u'name': u'BoomCycle'}"
+638,3589355517,51.5988711,0.1557149,playground,,{u'leisure': u'playground'}
+639,3589883727,51.5327273,-0.1952494,playground,,"{u'layer': u'1', u'leisure': u'playground', u'level': u'1'}"
+640,3597265960,51.4616084,-0.2105593,sports_centre,,"{u'addr:housenumber': u'Studios 21-22', u'addr:city': u'London', u'addr:postcode': u'SW15 2LW', u'addr:housename': u'The Arches', u'leisure': u'sports_centre', u'name': u'Physical Culture Gymnasium', u'addr:street': u'Winthorpe Road'}"
+641,3618395223,51.5939936,-0.0217903,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+642,3618395226,51.5939303,-0.0217152,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+643,3619733252,51.5153095,-0.1177459,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+644,3619733253,51.5152807,-0.1178596,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+645,3619733254,51.5153405,-0.1179027,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+646,3619733255,51.515368,-0.1177923,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+647,3619733257,51.5153109,-0.1178784,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+648,3619733258,51.5153384,-0.1177724,picnic_table,,"{u'operator': u'London School of Economics and Political Science (LSE)', u'leisure': u'picnic_table'}"
+649,3623458215,51.5702338,-0.3881609,miniature_railway,,"{u'fixme': u'Really needs mapping as area.', u'name': u'Roxbourne Railway', u'survey:date': u'2015-06-14', u'leisure': u'miniature_railway', u'source': u'survey;BIng 2012', u'operator': u'Harrow and Wembley Society of Model Engineers'}"
+650,3623988945,51.5170443,0.0439477,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+651,3625956647,51.4162903,-0.1797982,indoor_play,,"{u'name': u'Wacky Warehouse', u'leisure': u'indoor_play'}"
+652,3625957567,51.4144369,-0.1881514,playground,,"{u'source': u'Bing', u'leisure': u'playground'}"
+653,3627199249,51.5877497,-0.0525498,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+654,3627199253,51.5876364,-0.0526142,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+655,3627199255,51.587943,-0.0526893,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+656,3627199258,51.5875031,-0.0527322,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+657,3627199266,51.5875431,-0.0525713,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+658,3637396650,51.5239381,-0.1384545,playground,,{u'leisure': u'playground'}
+659,3646823168,51.5422732,-0.0167333,fitness_station,,"{u'sport': u'fitness', u'leisure': u'fitness_station'}"
+660,3654654413,51.5863033,-0.1579518,picnic_table,,{u'leisure': u'picnic_table'}
+661,3654654417,51.5862617,-0.1583864,picnic_table,,{u'leisure': u'picnic_table'}
+662,3654654421,51.5864097,-0.1576425,picnic_table,,{u'leisure': u'picnic_table'}
+663,3654655027,51.5863334,-0.157738,picnic_table,,{u'leisure': u'picnic_table'}
+664,3654837179,51.5390352,0.0184751,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+665,3654837184,51.5389685,0.0187111,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+666,3654837187,51.5388617,0.0189686,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+667,3654850570,51.5383679,0.0191617,bandstand,,"{u'source': u'gps+mapnoter', u'leisure': u'bandstand'}"
+668,3654920629,51.5955482,-0.0214201,playground,,{u'leisure': u'playground'}
+669,3656095948,51.5650398,0.0670028,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+670,3656096002,51.564998,0.0668875,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+671,3656096017,51.5649797,0.0669894,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+672,3657003825,51.589151,-0.056903,park,,"{u'name': u'Linear Park', u'fixme': u""probably isn't a park now"", u'addr:city': u'London', u'leisure': u'park', u'addr:street': u'Millmead Road'}"
+673,3658088045,51.5184582,-0.002684,picnic_table,,{u'leisure': u'picnic_table'}
+674,3658088048,51.5184857,-0.0027243,picnic_table,,{u'leisure': u'picnic_table'}
+675,3658088051,51.5185131,-0.0027645,picnic_table,,{u'leisure': u'picnic_table'}
+676,3662119235,51.5818812,-0.149659,picnic_table,,{u'leisure': u'picnic_table'}
+677,3662119241,51.582052,-0.1497559,picnic_table,,{u'leisure': u'picnic_table'}
+678,3662119242,51.5826895,-0.1496522,picnic_table,,{u'leisure': u'picnic_table'}
+679,3662119243,51.5821148,-0.1498481,picnic_table,,{u'leisure': u'picnic_table'}
+680,3663915118,51.5202764,-0.2337896,playground,,{u'leisure': u'playground'}
+681,3663929425,51.5200895,-0.2360694,fitness_station,,"{u'sport': u'fitness', u'leisure': u'fitness_station'}"
+682,3663930454,51.5189061,-0.243842,fitness_station,,"{u'sport': u'fitness', u'leisure': u'fitness_station'}"
+683,3664977909,51.5933276,-0.0616067,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+684,3667607273,51.5005211,-0.1029628,park,,{u'leisure': u'park'}
+685,3678988411,51.5587002,0.11319,fitness_station,,"{u'sport': u'exercise', u'leisure': u'fitness_station'}"
+686,3679021124,51.5595772,0.11687,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+687,3679021229,51.5596239,0.1169719,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+688,3679021240,51.5595438,0.116998,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+689,3679032823,51.5606577,0.1173104,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+690,3688003145,51.5139286,-0.1239162,sports_centre,,"{u'name': u'Nuffield Health', u'leisure': u'sports_centre'}"
+691,3690023595,51.5877364,0.2382874,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+692,3697387657,51.4859773,-0.0130923,slipway,,{u'leisure': u'slipway'}
+693,3697387661,51.4862769,-0.0101378,slipway,,{u'leisure': u'slipway'}
+694,3697387665,51.4885234,-0.0051562,slipway,,{u'leisure': u'slipway'}
+695,3702122909,51.5427454,-0.1733746,sports_centre,,{u'leisure': u'sports_centre'}
+696,3702623392,51.5809437,-0.1524442,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+697,3702634876,51.5821505,-0.1498399,picnic_table,,{u'leisure': u'picnic_table'}
+698,3702634878,51.5821188,-0.1497809,picnic_table,,{u'leisure': u'picnic_table'}
+699,3702634880,51.5821489,-0.1498131,picnic_table,,{u'leisure': u'picnic_table'}
+700,3702634884,51.5821038,-0.1497621,picnic_table,,{u'leisure': u'picnic_table'}
+701,3702634886,51.5820638,-0.1497836,picnic_table,,{u'leisure': u'picnic_table'}
+702,3702693932,51.5816699,-0.14323,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+703,3707840066,51.5784589,-0.3373459,pitch,,"{u'fixme': u'Is there some way of tagging this as practice only?', u'fee': u'no', u'survey:date': u'2015-08-17', u'leisure': u'pitch', u'note': u'This is for practice; there is only one net.', u'source': u'survey', u'sport': u'basketball'}"
+704,3707840067,51.5786985,-0.3364546,fitness_station,,"{u'survey:date': u'2015-08-17', u'source': u'survey', u'fee': u'no', u'description': u'Various adult exercise machines.', u'leisure': u'fitness_station'}"
+705,3707840068,51.5787462,-0.3370584,playground,,"{u'survey:date': u'2015-08-17', u'source': u'survey', u'fee': u'no', u'playground': u'springy', u'leisure': u'playground'}"
+706,3707840069,51.5788115,-0.3369461,table_tennis_table,,"{u'survey:date': u'2015-08-17', u'source': u'survey', u'fee': u'no', u'description': u'Outdoor table tennis table with solid net.', u'leisure': u'table_tennis_table'}"
+707,3709925625,51.5956556,-0.1313289,playground,,{u'leisure': u'playground'}
+708,3711226249,51.3640429,-0.2899028,playground,,{u'leisure': u'playground'}
+709,3711889129,51.6245959,-0.0094569,picnic_table,,{u'leisure': u'picnic_table'}
+710,3711889130,51.6246225,-0.0094972,picnic_table,,{u'leisure': u'picnic_table'}
+711,3717358335,51.5635818,-0.1198801,playground,,{u'leisure': u'playground'}
+712,3720513795,51.5813468,-0.1464929,playground,,{u'leisure': u'playground'}
+713,3722170358,51.5138269,-0.1881465,bowling_alley,,"{u'name': u'All Star Lanes', u'leisure': u'bowling_alley'}"
+714,3722823754,51.4942659,-0.1413063,sports_centre,,"{u'addr:housenumber': u'239', u'website': u'http://ifit-pt.co.uk/', u'addr:city': u'London', u'name': u'iFit Personal Training', u'addr:postcode': u'SW1V 1EQ', u'leisure': u'sports_centre', u'addr:country': u'GB', u'phone': u'+44 7944 765409', u'sport': u'fitness', u'email': u'ify@ifit-pt.co.uk', u'addr:street': u'Vauxhall Bridge Road'}"
+715,3725978141,51.4408751,-0.0629265,garden,,"{u'fixme': u'wildlife garden? Note 20836', u'name': u""Horniman's Wildlife Garden"", u'leisure': u'garden'}"
+716,3729864008,51.5941929,-0.1267113,golf_course,,"{u'website': u'http://www.alexandrapalace.com/pitch-putt/', u'description': u'10 hole Pitch & Putt', u'phone': u'+44 1245 257682', u'golf:course': u'pitch_and_putt', u'leisure': u'golf_course', u'source': u'gps+mapnoter', u'name': u'Alexandra Palace Pitch & Putt'}"
+717,3735134810,51.5265444,-0.084316,sports_centre,,"{u'toilets': u'yes', u'sport': u'table_tennis', u'name': u'Bounce', u'leisure': u'sports_centre'}"
+718,3736633231,51.5357511,-0.1934252,playground,,{u'leisure': u'playground'}
+719,3741565027,51.512723,-0.1187295,sports_centre,,"{u'name': u'LA Fitness Waldorf', u'leisure': u'sports_centre'}"
+720,3749219160,51.5883563,0.1896805,picnic_table,,"{u'name': u""Percy's Park"", u'leisure': u'picnic_table'}"
+721,3749248202,51.5823827,0.1918113,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+722,3749248219,51.5822183,0.1918396,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+723,3749248220,51.5821566,0.1917967,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+724,3750958357,51.4485853,0.0750191,sports_centre,,"{u'name': u'Avery Hill Outdoor Gym', u'leisure': u'sports_centre'}"
+725,3755792140,51.5002933,-0.1026154,park,,{u'leisure': u'park'}
+726,3758158913,51.4832006,-0.0261978,playground,,"{u'name': u'Richard MacVicar Adventure Playground', u'leisure': u'playground'}"
+727,3760703343,51.4710771,-0.0117454,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+728,3760796767,51.4729633,0.0015718,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+729,3760796770,51.4731822,0.00195,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+730,3760796781,51.473254,0.001663,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+731,3760796869,51.4731788,0.0015905,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+732,3761407244,51.4362068,-0.1582775,sports_centre,,"{u'addr:housenumber': u'279-, 289-291', u'name': u'Fitness First Balham', u'addr:postcode': u'SW17 7BA', u'leisure': u'sports_centre', u'addr:street': u'Balham High Road', u'addr:city': u'London'}"
+733,3761699415,51.5598392,-0.1059058,playground,,{u'leisure': u'playground'}
+734,3762435001,51.4846779,-0.3343016,playground,,{u'leisure': u'playground'}
+735,3764538075,51.4419579,-0.0909591,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+736,3764538086,51.4419299,-0.0910335,picnic_table,,"{u'source': u'gps+mapnoter', u'fixme': u'pic', u'leisure': u'picnic_table'}"
+737,3764633844,51.4445358,-0.0796402,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+738,3764633845,51.444509,-0.0795275,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+739,3777957704,51.5308272,-0.1905766,sports_centre,,"{u'sport': u'gym', u'name': u'Better', u'leisure': u'sports_centre'}"
+740,3780189251,51.6002001,-0.2614617,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+741,3780189254,51.6001068,-0.2615047,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+742,3780890469,51.6106316,-0.2948874,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+743,3780963396,51.6122365,-0.2944373,picnic_table,,{u'leisure': u'picnic_table'}
+744,3783186438,51.5892962,-0.4293895,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+745,3783188227,51.5919358,-0.432018,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+746,3783188228,51.5917091,-0.4321682,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+747,3783202351,51.588403,-0.4303336,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+748,3783202352,51.5885896,-0.4295611,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+749,3783204258,51.5886163,-0.4295826,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+750,3783204270,51.588523,-0.4298186,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+751,3783204279,51.5883896,-0.4304409,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+752,3785449138,51.5616386,-0.0869972,pitch,,"{u'source': u'gps+mapnoter', u'sport': u'table_tennis', u'leisure': u'pitch'}"
+753,3796013016,51.5708635,-0.1259289,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+754,3796013024,51.569908,-0.1259887,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+755,3796259735,51.4863897,-0.1015442,playground,,{u'leisure': u'playground'}
+756,3805599539,51.4949078,-0.2260117,sports_centre,,"{u'name': u'Fitness First', u'leisure': u'sports_centre'}"
+757,3811567148,51.5682175,-0.0874025,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+758,3811569428,51.5661134,-0.0924182,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+759,3811670899,51.5675045,-0.1429458,playground,,"{u'max_age': u'6', u'leisure': u'playground'}"
+760,3813667443,51.5256515,-0.0900473,sports_centre,,"{u'name': u'Gym Box', u'leisure': u'sports_centre'}"
+761,3814578486,51.5854638,-0.0377561,playground,,"{u'source': u'survey', u'leisure': u'playground'}"
+762,3816403742,51.538392,-0.1169795,sports_centre,,"{u'sport': u'gym;sauna;swimming', u'name': u'Better', u'leisure': u'sports_centre'}"
+763,3817925518,51.4662341,-0.1497016,dance,,"{u'dance:teaching': u'yes', u'name': u'Acacia School of Dance', u'leisure': u'dance'}"
+764,3837617533,51.5469579,-0.0074219,sports_centre,,"{u'addr:housenumber': u'54', u'addr:city': u'London', u'addr:postcode': u'E20 1BD', u'contact:website': u'http://www.better.org.uk/leisure/eastvillage', u'leisure': u'sports_centre', u'name': u'Better Gym', u'ref:NPLG:UPRN:1': u'010090850894', u'opening_hours': u'Mo-Fr 06:00-22:00;Sa-Su 08:00-17:00', u'operator': u'Better', u'addr:street': u'Celebration Avenue'}"
+765,3839921201,51.5014363,-0.1195416,yes,,"{u'website': u'http://www.namcofunscape.com/location/london-county-hall', u'name': u'Namco Funscape', u'addr:postcode': u'SE1 7PB', u'leisure': u'yes', u'phone': u'0207 967 1066', u'email': u'countyhall@namco.co.uk', u'addr:city': u'London'}"
+766,3840885062,51.5418756,-0.1801059,sports_centre,,"{u'addr:housenumber': u'95b', u'name': u'GTC Studio', u'leisure': u'sports_centre', u'source': u'survey', u'sport': u'boxing', u'addr:street': u'Fairfax Road'}"
+767,3852776978,51.4710143,-0.0279239,playground,,{u'leisure': u'playground'}
+768,3855461321,51.4491207,-0.1054287,picnic_table,,{u'leisure': u'picnic_table'}
+769,3884136914,51.4314423,-0.0245712,playground,,{u'leisure': u'playground'}
+770,3886950573,51.426587,-0.030799,playground,,{u'leisure': u'playground'}
+771,3891536791,51.4217728,0.0089799,playground,,{u'leisure': u'playground'}
+772,3900663908,51.574015,-0.1128829,fitness_centre,,"{u'addr:housenumber': u'19', u'website': u'http://www.n4workout.com/', u'name': u'N4 workout', u'addr:postcode': u'N4 4DS', u'leisure': u'fitness_centre', u'phone': u'+44 208 341 5544', u'opening_hours': u'Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 09:00-18:00', u'addr:street': u'Ferme Park Road', u'addr:city': u'London'}"
+773,3909744770,51.5594021,-0.0736253,sports_centre,,"{u'sport': u'weightlifting', u'name': u'Muslceworks Gym', u'leisure': u'sports_centre'}"
+774,3916570805,51.5156948,-0.039892,playground,,{u'leisure': u'playground'}
+775,3931711561,51.5363337,-0.1225601,sports_centre,,"{u'addr:housenumber': u'1', u'website': u'https://moveyourframe.com', u'addr:city': u'London', u'level': u'0', u'addr:postcode': u'N1C 4AS', u'addr:housename': u'Arthouse', u'leisure': u'sports_centre', u'name': u'Frame Studios', u'phone': u'0203 764 1911', u'opening_hours': u'Mo-Fr 06:30-22:00; Sa-Su 09:00-17:00', u'email': u'kingsx@moveyourframe.com', u'addr:street': u'York Way'}"
+776,3933125451,51.420368,-0.0054871,sports_centre,,"{u'name': u'Ten-Em-Bee Sports Development Centre', u'leisure': u'sports_centre'}"
+777,3945034842,51.4496638,-0.3298671,fitness_centre,,"{u'name': u'Anytime Fitness', u'leisure': u'fitness_centre'}"
+778,3953705945,51.4656068,-0.1932395,sports_centre,,"{u'website': u'http://www.energiefitnessclubs.com/fulham', u'name': u'Energie Fitness Clubs', u'leisure': u'sports_centre'}"
+779,3954111120,51.5969262,-0.0372854,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+780,3966547332,51.4328685,-0.1297903,sports_centre,,"{u'addr:housenumber': u'20', u'addr:city': u'London Borough of Lambeth', u'addr:postcode': u'SW16 1UB', u'addr:housename': u'Virgin Active', u'leisure': u'sports_centre', u'name': u'Virgin Active Gym', u'addr:street': u'Ockley Road'}"
+781,3971756810,51.6195953,-0.1631883,garden,,"{u'source': u'gps+mapnoter', u'leisure': u'garden'}"
+782,3971756815,51.6189708,-0.1623058,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+783,3974508542,51.5511187,-0.099282,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+784,3975318048,51.5382575,-0.1009815,dog_park,,{u'leisure': u'dog_park'}
+785,4007776747,51.6206894,-0.1548305,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+786,4020005639,51.5918308,-0.0968143,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+787,4020005640,51.5921085,-0.0958521,playground,,{u'leisure': u'playground'}
+788,4020043556,51.5920007,-0.0958166,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+789,4020043564,51.5917108,-0.0935474,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+790,4020043567,51.5922574,-0.0963101,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+791,4020050638,51.5915558,-0.0936118,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+792,4020050642,51.5916242,-0.0935823,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+793,4038926257,51.5538939,-0.1230636,dance,,"{u'note': u'dance school', u'leisure': u'dance'}"
+794,4068355635,51.4334289,0.0600196,playground,,{u'leisure': u'playground'}
+795,4068355677,51.4307352,0.0609853,playground,,{u'leisure': u'playground'}
+796,4068378388,51.4312736,0.0467617,playground,,{u'leisure': u'playground'}
+797,4068510492,51.4581235,0.1415133,playground,,{u'leisure': u'playground'}
+798,4085381502,51.4668774,0.0705288,fitness_station,,{u'leisure': u'fitness_station'}
+799,4086076962,51.4677578,-0.0147604,sports_centre,,"{u'sport': u'gym', u'description': u'Running Tapes, dumbbells, cross cable machines e.c.t. ', u'leisure': u'sports_centre', u'name': u'SilkWork Gym'}"
+800,4103115961,51.5383726,-0.2150862,wall,,"{u'sport': u'climbing', u'leisure': u'wall'}"
+801,4104233607,51.5764003,-0.0283771,playground,,"{u'source': u'survey', u'leisure': u'playground'}"
+802,4114348578,51.5513152,-0.0049766,playground,,{u'leisure': u'playground'}
+803,4141293002,51.5209019,-0.0332511,playground,,"{u'playground': u'climbingframe', u'leisure': u'playground'}"
+804,4141293015,51.5204165,-0.0334637,fitness_station,,{u'leisure': u'fitness_station'}
+805,4141293016,51.5202189,-0.0335408,fitness_station,,{u'leisure': u'fitness_station'}
+806,4141293023,51.5207129,-0.0333517,fitness_station,,{u'leisure': u'fitness_station'}
+807,4141293024,51.5201579,-0.0329851,fitness_station,,{u'leisure': u'fitness_station'}
+808,4141293025,51.5201027,-0.0331182,fitness_station,,{u'leisure': u'fitness_station'}
+809,4141293026,51.5200998,-0.0328006,fitness_station,,{u'leisure': u'fitness_station'}
+810,4151710126,51.6048587,-0.0244675,miniature_golf,,"{u'source': u'gps+mapnoter', u'name': u'Jurassic Falls', u'leisure': u'miniature_golf'}"
+811,4161767294,51.4145964,-0.3656264,fitness_centre,,"{u'name': u'Curves', u'leisure': u'fitness_centre'}"
+812,4164539289,51.5743873,-0.0512367,picnic_table,,{u'leisure': u'picnic_table'}
+813,4167188277,51.5318784,-0.0422171,sports_centre,,"{u'addr:housenumber': u'221', u'name': u'Fighting Fit Studio', u'leisure': u'sports_centre', u'addr:street': u'Grove Road'}"
+814,4170117683,51.5316964,0.0757879,sports_centre,,"{u'name': u'Benita Yoga', u'leisure': u'sports_centre'}"
+815,4173168207,51.5348157,0.0788625,sports_centre,,"{u'name': u'Abbey Sports Centre', u'leisure': u'sports_centre'}"
+816,4186002533,51.54734,-0.0198054,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+817,4186002535,51.5461557,-0.0187111,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+818,4186002536,51.5475961,-0.0195587,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+819,4186002542,51.5471399,-0.0194836,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+820,4187125866,51.4441507,-0.1524703,adult_gaming_centre,,"{u'name': u'Cashino', u'leisure': u'adult_gaming_centre'}"
+821,4195825256,51.564106,-0.0362635,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+822,4195825259,51.5641326,-0.0361347,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+823,4195825261,51.5642127,-0.0364351,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+824,4195838925,51.5639459,-0.0368643,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+825,4195838927,51.5641326,-0.0364351,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+826,4196591202,51.4853357,0.0091421,fitness_centre,,"{u'name': u'Greenwich Square Gym', u'leisure': u'fitness_centre'}"
+827,4205128675,51.5459738,-0.4848404,playground,,{u'leisure': u'playground'}
+828,4209480093,51.5070642,-0.1373699,sports_centre,,"{u'addr:housenumber': u'6', u'name': u'Ten', u'leisure': u'sports_centre', u'addr:street': u""Duke Street St James's""}"
+829,4213421892,51.3403577,-0.3211962,playground,,{u'leisure': u'playground'}
+830,4220097955,51.5405508,-0.1488841,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+831,4228866078,51.3197595,-0.0819606,picnic_table,,{u'leisure': u'picnic_table'}
+832,4232000755,51.4276566,-0.3547863,sports_centre,,"{u'sport': u'gymnastics', u'name': u'Little Gym', u'leisure': u'sports_centre'}"
+833,4239989410,51.4764349,-0.1171642,sports_centre,,"{u'name': u'The Gym', u'leisure': u'sports_centre'}"
+834,4242497378,51.4649224,-0.1720427,sports_centre,,"{u'website': u'www.crossfitshapesmiths.co.uk', u'sport': u'fitness', u'name': u'Crossfit Shapesmiths', u'leisure': u'sports_centre'}"
+835,4260190240,51.5000017,-0.100114,park,,{u'leisure': u'park'}
+836,4260695615,51.5492757,-0.3305509,fitness_station,,{u'leisure': u'fitness_station'}
+837,4263046639,51.4092624,-0.2273029,sports_centre,,"{u'addr:housenumber': u'15', u'addr:city': u'London', u'addr:postcode': u'SW20 8BA', u'leisure': u'sports_centre', u'name': u'Revivals', u'phone': u'020 8543 3434', u'addr:country': u'GB', u'addr:street': u'Approach Road'}"
+838,4265487845,51.5700801,0.1048226,playground,,"{u'source': u'bing', u'leisure': u'playground'}"
+839,4265712360,51.4837167,-0.4113506,playground,,{u'leisure': u'playground'}
+840,4265865068,51.5726887,0.1018274,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+841,4265986818,51.5378981,-0.4684672,playground,,{u'leisure': u'playground'}
+842,4274476003,51.4858987,-0.3218898,sports_centre,,"{u'addr:housenumber': u'1-2', u'website': u'https://www.topnotchhealthclubs.com', u'addr:city': u'London', u'addr:postcode': u'TW8 9DZ', u'addr:place': u'Brentford', u'leisure': u'sports_centre', u'name': u'Topnotch health club', u'addr:country': u'GB', u'addr:street': u'Windsor Close,Great West Road'}"
+843,4298440049,51.3958515,-0.0602393,picnic_table,,{u'leisure': u'picnic_table'}
+844,4298440050,51.3958968,-0.0602057,picnic_table,,{u'leisure': u'picnic_table'}
+845,4303520966,51.5137697,-0.3023838,adult_gaming_centre,,"{u'name': u'Cashino', u'leisure': u'adult_gaming_centre'}"
+846,4305980806,51.4615846,-0.0396136,playground,,{u'leisure': u'playground'}
+847,4313286505,51.4308063,-0.0657487,sports_centre,,"{u'sport': u'climbing', u'leisure': u'sports_centre'}"
+848,4313333032,51.4274489,-0.0560917,sports_centre,,{u'leisure': u'sports_centre'}
+849,4313333033,51.4268249,-0.0542746,sports_centre,,{u'leisure': u'sports_centre'}
+850,4314213754,51.5480789,-0.440311,playground,,{u'leisure': u'playground'}
+851,4314539930,51.4709868,-0.3280074,playground,,{u'leisure': u'playground'}
+852,4317609231,51.459483,-0.3058145,sports_centre,,"{u'name': u'Bootcamp Pilates', u'leisure': u'sports_centre'}"
+853,4318155570,51.4606419,-0.3042282,sports_centre,,"{u'website': u'http://www.hotyoga.co.uk', u'name': u'Richmond Yoga', u'addr:district': u'Greater London', u'addr:suburb': u'Richmond', u'leisure': u'sports_centre', u'addr:subdistrict': u'Richmond upon Thames', u'sport': u'yoga'}"
+854,4318405150,51.493608,-0.1026019,sports_centre,,"{u'name': u'The Castle', u'leisure': u'sports_centre', u'level': u'0'}"
+855,4319722237,51.4682356,-0.2287802,picnic_table,,{u'leisure': u'picnic_table'}
+856,4319722241,51.4682616,-0.2287432,picnic_table,,{u'leisure': u'picnic_table'}
+857,4319722242,51.4682698,-0.2287046,picnic_table,,{u'leisure': u'picnic_table'}
+858,4319722243,51.4682711,-0.2286639,picnic_table,,{u'leisure': u'picnic_table'}
+859,4319722244,51.4682724,-0.2286233,picnic_table,,{u'leisure': u'picnic_table'}
+860,4319722245,51.4682749,-0.2285837,picnic_table,,{u'leisure': u'picnic_table'}
+861,4319722246,51.4682736,-0.228544,picnic_table,,{u'leisure': u'picnic_table'}
+862,4319722247,51.4682426,-0.2287412,picnic_table,,{u'leisure': u'picnic_table'}
+863,4319722248,51.4682388,-0.2287016,picnic_table,,{u'leisure': u'picnic_table'}
+864,4319722249,51.4682433,-0.228665,picnic_table,,{u'leisure': u'picnic_table'}
+865,4319722250,51.4682452,-0.2286243,picnic_table,,{u'leisure': u'picnic_table'}
+866,4319722251,51.4682477,-0.228543,picnic_table,,{u'leisure': u'picnic_table'}
+867,4319722252,51.4682186,-0.228541,picnic_table,,{u'leisure': u'picnic_table'}
+868,4319722253,51.4682293,-0.2284881,picnic_table,,{u'leisure': u'picnic_table'}
+869,4319722254,51.4682141,-0.2287005,picnic_table,,{u'leisure': u'picnic_table'}
+870,4319722255,51.4682173,-0.2286629,picnic_table,,{u'leisure': u'picnic_table'}
+871,4319722256,51.4682179,-0.2286223,picnic_table,,{u'leisure': u'picnic_table'}
+872,4319722257,51.4682198,-0.2285796,picnic_table,,{u'leisure': u'picnic_table'}
+873,4319722258,51.4681787,-0.2285837,picnic_table,,{u'leisure': u'picnic_table'}
+874,4319722259,51.4681597,-0.2286599,picnic_table,,{u'leisure': u'picnic_table'}
+875,4319722260,51.4681901,-0.2286589,picnic_table,,{u'leisure': u'picnic_table'}
+876,4319722261,51.4681894,-0.2286934,picnic_table,,{u'leisure': u'picnic_table'}
+877,4319722262,51.4681571,-0.228732,picnic_table,,{u'leisure': u'picnic_table'}
+878,4319722263,51.4681844,-0.2287351,picnic_table,,{u'leisure': u'picnic_table'}
+879,4319722264,51.4681578,-0.2286904,picnic_table,,{u'leisure': u'picnic_table'}
+880,4320128385,51.4567914,0.1426816,adult_gaming_centre,,"{u'source': u'survey', u'name': u'Quicksilver', u'leisure': u'adult_gaming_centre'}"
+881,4324479962,51.5088981,-0.0569642,sports_centre,,"{u'addr:housenumber': u'9', u'website': u'http://www.thesportingclub.co.uk/', u'addr:city': u'London', u'addr:postcode': u'E1W 3HW', u'leisure': u'sports_centre', u'name': u'The Sporting Club', u'phone': u'Tel 0207 018 1454;Mob 07932 365 645', u'email': u'info@thesportingclub.co.uk', u'addr:street': u'Sovereign Close'}"
+882,4325622498,51.4461902,-0.0301294,picnic_table,,{u'leisure': u'picnic_table'}
+883,4327298390,51.4925399,-0.1928047,tanning_salon,,"{u'addr:housenumber': u'2', u'name': u'Tanning Shop', u'leisure': u'tanning_salon', u'addr:city': u'London', u'source': u'Bing', u'addr:country': u'GB', u'addr:street': u'Hogarth Road'}"
+884,4327820622,51.4469437,-0.0269129,picnic_table,,{u'leisure': u'picnic_table'}
+885,4327820623,51.4470474,-0.0268459,picnic_table,,{u'leisure': u'picnic_table'}
+886,4327820624,51.4471,-0.0270068,picnic_table,,{u'leisure': u'picnic_table'}
+887,4344934948,51.583777,-0.1748405,fitness_station,,{u'leisure': u'fitness_station'}
+888,4345112384,51.6486274,-0.0810842,fitness_centre,,"{u'name': u'Nuffield Health Centre', u'leisure': u'fitness_centre'}"
+889,4345162206,51.5635,-0.1112886,playground,,{u'leisure': u'playground'}
+890,4346163717,51.4940378,-0.0614637,sports_centre,,"{u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+891,4346485273,51.64555,-0.0468936,community_centre,,"{u'name': u'The Qube', u'leisure': u'community_centre'}"
+892,4346552099,51.6297527,-0.0492239,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+893,4347939468,51.4636017,-0.1334284,adult_gaming_center,,"{u'name': u'City Slots', u'leisure': u'adult_gaming_center'}"
+894,4349498409,51.4594125,-0.1801929,sports_centre,,"{u'addr:housenumber': u'5', u'sport': u'yoga', u'name': u'Yoga Works', u'leisure': u'sports_centre', u'addr:street': u'East Hill'}"
+895,4351817999,51.5631405,-0.1138544,playground,,{u'leisure': u'playground'}
+896,4358976690,51.5369315,-0.1918665,fitness_centre,,"{u'addr:housenumber': u'34a-36', u'website': u'http://f4l.com', u'name': u'Fit4less', u'addr:postcode': u'NW6 5UA', u'leisure': u'fitness_centre', u'phone': u'+44 20 76248080', u'email': u'kilburn@f4l.com', u'addr:street': u'Kilburn High Road'}"
+897,4359103289,51.523022,-0.0687776,garden,,"{u'opening_hours': u'Tu-Su 09:00-21:00', u'name': u'Nomadic Community Gardens', u'leisure': u'garden'}"
+898,4362046674,51.5565115,-0.0784835,playground,,{u'leisure': u'playground'}
+899,4362047090,51.5564214,-0.0784325,pitch,,"{u'sport': u'table_tennis', u'leisure': u'pitch'}"
+900,4374584613,51.4460696,-0.1500746,social_club,,"{u'name': u'Balham & Tooting Sports & Social Club', u'leisure': u'social_club'}"
+901,4377148022,51.5153802,-0.1645728,sauna,,"{u'addr:housenumber': u'2', u'website': u'http://www.gaysaunabar.com', u'name:en': u'Saunabar Portsea', u'name': u'Saunabar Portsea', u'addr:postcode': u'W2 2BL', u'leisure': u'sauna', u'phone': u'+44 02 7402 3385', u'opening_hours': u'Mo-Su 11:30-22:30', u'email': u'portsea@gaysaunabar.com', u'addr:street': u'Portsea Place'}"
+902,4377148023,51.5467621,0.0065313,sauna,,"{u'addr:housenumber': u'6', u'website': u'http://www.e15club.com', u'name:en': u'E15 Club', u'name': u'E15 Club', u'addr:postcode': u'E15 1SE', u'leisure': u'sauna', u'phone': u'+44 20 8555 5455', u'opening_hours': u'Mo-Su 09:00-21:00', u'email': u'contact@e15club.com', u'addr:street': u'Leytonstone Road'}"
+903,4377636991,51.478512,-0.1293996,sports_centre,,"{u'sport': u'fitness', u'name': u'Southbank Club', u'leisure': u'sports_centre'}"
+904,4377652729,51.4756976,-0.1315226,sports_centre,,"{u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+905,4381314572,51.5339267,-0.0466758,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+906,4381314573,51.5338599,-0.0468206,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+907,4381949296,51.5039803,-0.1104533,sauna,,"{u'addr:housenumber': u'Arch 24', u'website': u'http://www.pleasuredrome.com', u'name:en': u'Pleasuredrome', u'name': u'Pleasuredrome', u'addr:postcode': u'SE1 8XE', u'leisure': u'sauna', u'phone': u'+44 20 7633 9194', u'opening_hours': u'24/7', u'email': u'team@pleasuredrome.com', u'addr:street': u'Cornwall Road'}"
+908,4393353470,51.5606377,0.1630354,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+909,4393385937,51.5576228,0.1625204,fitness_centre,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_centre'}"
+910,4393385958,51.5563536,0.1628073,playground,,{u'leisure': u'playground'}
+911,4393407428,51.55314,0.1765537,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+912,4393407439,51.5531667,0.1766825,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+913,4393407440,51.55314,0.1767683,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+914,4404063174,51.540966,0.0724843,playground,,{u'leisure': u'playground'}
+915,4404156366,51.4839955,-0.2012255,adult_gaming_centre,,"{u'name': u'City Slots', u'leisure': u'adult_gaming_centre'}"
+916,4404170394,51.4842829,-0.2018004,sports_centre,,"{u'name': u'Easygym', u'leisure': u'sports_centre'}"
+917,4411756669,51.5815734,-0.0628591,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+918,4411756670,51.5815192,-0.0630321,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+919,4411756671,51.5815567,-0.0627062,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+920,4411756673,51.5815933,-0.0630079,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+921,4411756675,51.5815126,-0.0628806,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+922,4413395556,51.5720709,-0.014029,playground,,{u'leisure': u'playground'}
+923,4415411426,51.5641129,-0.023949,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+924,4415411430,51.5641466,-0.0238559,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+925,4415630079,51.5652124,-0.0257941,fitness_station,,"{u'source': u'survey', u'leisure': u'fitness_station'}"
+926,4416883913,51.5645019,-0.0239272,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+927,4416883915,51.5645294,-0.0238051,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+928,4422629229,51.5203576,-0.0628783,playground,,{u'leisure': u'playground'}
+929,4425581345,51.5615982,-0.0512409,picnic_table,,"{u'source': u'gps+mapnoter', u'fixme': u'pic', u'leisure': u'picnic_table'}"
+930,4425581353,51.5615982,-0.0514126,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+931,4425581362,51.5623985,-0.0506401,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Sit Ups', u'leisure': u'fitness_station'}"
+932,4425581365,51.5617531,-0.0511325,picnic_table,,"{u'source': u'gps+mapnoter', u'fixme': u'pic', u'leisure': u'picnic_table'}"
+933,4425581367,51.5625053,-0.0500393,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Climbing', u'leisure': u'fitness_station'}"
+934,4425581370,51.5618764,-0.0514086,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+935,4425601805,51.5620784,-0.047121,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Straddle Jump', u'leisure': u'fitness_station'}"
+936,4425601810,51.5623452,-0.0475502,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Balance Beam', u'leisure': u'fitness_station'}"
+937,4425601815,51.5625053,-0.0478077,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Fit Bars', u'leisure': u'fitness_station'}"
+938,4425666534,51.5601041,-0.0464344,picnic_bench,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_bench'}"
+939,4425683512,51.5594104,-0.0454044,picnic_bench,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_bench'}"
+940,4425683525,51.559944,-0.0468636,picnic_bench,,"{u'source': u'gps+mapnoter', u'fixme': u'pic', u'leisure': u'picnic_bench'}"
+941,4426138067,51.5389184,0.0178367,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+942,4426138073,51.5389585,0.018239,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+943,4428765184,51.4657748,-0.0958337,picnic_table,,{u'leisure': u'picnic_table'}
+944,4428789721,51.4659552,-0.0924596,picnic_table,,{u'leisure': u'picnic_table'}
+945,4430828080,51.5594826,-0.04895,park,,{u'leisure': u'park'}
+946,4437670490,51.5697401,-0.0915277,playground,,"{u'name': u'Spring Park', u'leisure': u'playground'}"
+947,4438272569,51.4575067,-0.0615728,garden,,"{u'garden': u'rockery', u'leisure': u'garden'}"
+948,4438283824,51.5629013,-0.1074707,sports_centre,,"{u'opening_hours': u'00:00-24:00', u'sport': u'gym', u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+949,4438288316,51.5539656,-0.1453889,sports_centre,,"{u'sport': u'gym', u'name': u'Pure Gym', u'leisure': u'sports_centre'}"
+950,4438321012,51.4561513,-0.0596228,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+951,4438321013,51.4563167,-0.0605187,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+952,4438321021,51.4563084,-0.0607359,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+953,4438321034,51.4563819,-0.060406,picnic_table,,"{u'source': u'gps+mapnoter', u'fixme': u'p', u'leisure': u'picnic_table'}"
+954,4438321046,51.4563134,-0.0590488,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+955,4438321048,51.4562432,-0.0607735,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+956,4438321067,51.4556599,-0.0605401,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+957,4438321068,51.4557251,-0.060516,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+958,4438342661,51.4654378,-0.0585794,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+959,4438342671,51.4650903,-0.0589657,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+960,4438998639,51.4774274,-0.0998815,garden,,{u'leisure': u'garden'}
+961,4441374317,51.5054167,-0.0564988,playground,,{u'leisure': u'playground'}
+962,4445562657,51.595635,-0.1307577,pitch,,"{u'source': u'gps+mapnoter', u'sport': u'skateboard', u'leisure': u'pitch'}"
+963,4446891805,51.4864655,-0.2963305,playground,,{u'leisure': u'playground'}
+964,4448112096,51.5689752,-0.120455,playground,,{u'leisure': u'playground'}
+965,4449857869,51.5692535,-0.1440006,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+966,4449858292,51.5692402,-0.1440247,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+967,4452500424,51.5889096,-0.1026535,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+968,4452584749,51.6043716,-0.1111507,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+969,4452584773,51.6045849,-0.1111937,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+970,4452584781,51.6045582,-0.1112795,picnic_table,,"{u'source': u'gps+mapnoter', u'leisure': u'picnic_table'}"
+971,4455767286,51.5546483,-0.1346248,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+972,4463292091,51.5263153,-0.1133519,fitness_centre,,"{u'addr:postcode': u'WC1X 9HX', u'name:en': u'Ozone Health and Fitness Club', u'name': u'Ozone Health and Fitness Club', u'leisure': u'fitness_centre', u'opening_hours': u'Mo-Su 06:30-22:00'}"
+973,4464115091,51.5915561,-0.2565785,fitness_centre,,"{u'name:en': u'The Gym', u'name': u'The Gym', u'leisure': u'fitness_centre'}"
+974,4465343604,51.5820662,-0.1267263,fitness_centre,,"{u'name': u'Project Me', u'leisure': u'fitness_centre'}"
+975,4467731972,51.6632131,-0.0621005,playground,,{u'leisure': u'playground'}
+976,4467731973,51.663427,-0.0619664,playground,,{u'leisure': u'playground'}
+977,4471699488,51.467024,-0.1466444,sports_centre,,"{u'name': u'Organic Health & Fitness', u'leisure': u'sports_centre'}"
+978,4478049868,51.526504,-0.0135273,playground,,"{u'description': u'play area of over fives', u'leisure': u'playground'}"
+979,4480934032,51.5709133,-0.0937885,sports_centre,,"{u'website': u'https://www.thegymgroup.com/find-a-gym/gym/the-gym-manor-house/', u'addr:city': u'London', u'name': u'The Gym Group', u'addr:postcode': u'N4 2TG', u'addr:housename': u'Manor House', u'leisure': u'sports_centre', u'ele': u'0', u'opening_hours': u'00:00-24:00', u'sport': u'gym', u'addr:street': u'Woodberry Down'}"
+980,4493013189,51.5575854,-0.2355366,playground,,{u'leisure': u'playground'}
+981,4510987052,51.5739433,-0.0104501,fitness_centre,,"{u'name': u'Leyton Gym', u'leisure': u'fitness_centre'}"
+982,4515109139,51.4643344,-0.2696416,fitness_centre,,"{u'sport': u'gym', u'name': u'Paul May Fitness', u'leisure': u'fitness_centre'}"
+983,4515292534,51.5627385,-0.046844,picnic_table,,{u'leisure': u'picnic_table'}
+984,4515292535,51.5626117,-0.046629,picnic_table,,{u'leisure': u'picnic_table'}
+985,4515292536,51.5625667,-0.0464815,picnic_table,,{u'leisure': u'picnic_table'}
+986,4526674091,51.39532,-0.0783436,playground,,"{u'wheelchair': u'yes', u'toilets:wheelchair': u'no', u'name': u'South Norwood Recreation Ground', u'leisure': u'playground'}"
+987,4532130594,51.5228346,-0.2033653,playground,,{u'leisure': u'playground'}
+988,4538501951,51.5962897,-0.0086943,playground,,"{u'note': u'under construction (almost complete) at survey Dec/2016', u'source': u'survey', u'leisure': u'playground'}"
+989,4540063389,51.420458,-0.206372,tanning_salon,,"{u'name': u'Tanning Shop', u'leisure': u'tanning_salon'}"
+990,4545980437,51.6000887,-0.0269446,playground,,"{u'source': u'survey', u'leisure': u'playground'}"
+991,4557033218,51.5520698,-0.1134454,fitness_centre,,"{u'sport': u'gym', u'name': u'FitSpace Gym', u'leisure': u'fitness_centre'}"
+992,4560491379,51.5336709,-0.218597,fitness_centre,,"{u'addr:housenumber': u'69', u'name': u'Ellis Stockwell', u'addr:postcode': u'NW10 3ND', u'contact:website': u'http://www.ellisstockwell.co.uk/', u'leisure': u'fitness_centre', u'opening_hours': u'Mo-Fr 06:00-22:00; Sa-Su 06:30-13:00', u'addr:street': u'Chamberlayne Road'}"
+993,4560912897,51.5229528,-0.0362385,picnic_table,,{u'leisure': u'picnic_table'}
+994,4560912898,51.5229567,-0.0361907,picnic_table,,{u'leisure': u'picnic_table'}
+995,4560912899,51.5227952,-0.0362207,picnic_table,,{u'leisure': u'picnic_table'}
+996,4560912900,51.5228009,-0.0361791,picnic_table,,{u'leisure': u'picnic_table'}
+997,4561834523,51.5320841,-0.1983597,playground,,{u'leisure': u'playground'}
+998,4561916629,51.5916929,-0.0006216,playground,,{u'leisure': u'playground'}
+999,4566814200,51.4335559,-0.1965173,sports_centre,,"{u'website': u'mybounce.co.uk', u'name': u'Bounce Gym', u'opening_hours': u'06:00-22:00', u'wheelchair': u'no', u'leisure': u'sports_centre', u'phone': u'+02088790094', u'sport': u'Gym, Rehab, Chiro, Osteo, Physio, Massage,'}"
+1000,4566976488,51.4558509,-0.1931084,fitness_centre,,"{u'name': u'Easy Gym', u'addr:city': u'Wandsworth', u'leisure': u'fitness_centre', u'addr:street': u'Southside Shopping Centre'}"
+1001,4567017093,51.4552402,-0.1945971,fitness_centre,,"{u'name': u'Virgin Active', u'addr:city': u'Wandsworth', u'leisure': u'fitness_centre', u'addr:street': u'Southside Shopping Centre'}"
+1002,4567226374,51.6036167,-0.0127881,garden,,"{u'addr:postcode': u'E4 8BJ', u'name': u'Allotment Gardens', u'addr:city': u'London', u'leisure': u'garden', u'addr:street': u'Parade Gardens'}"
+1003,4572940500,51.5933251,-0.0211743,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+1004,4572940501,51.593236,-0.0211717,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+1005,4572940502,51.5934142,-0.021177,picnic_table,,"{u'source': u'survey', u'leisure': u'picnic_table'}"
+1006,4573996620,51.5652959,-0.3390673,picnic_table,,{u'leisure': u'picnic_table'}
+1007,4575506693,51.6034875,-0.0152904,playground,,"{u'source': u'survey', u'leisure': u'playground'}"
+1008,4591741595,51.5406922,0.0020822,amusement_arcade,,"{u'addr:housenumber': u'1', u'name': u'Showman Amusements', u'addr:postcode': u'E15 4PH', u'leisure': u'amusement_arcade', u'source': u'survey', u'ref:NPLG:UPRN:1': u'000046079492', u'addr:street': u'West Ham Lane', u'addr:city': u'London'}"
+1009,4607621643,51.5907524,-0.1034643,dance,,"{u'building': u'yes', u'name': u'Omnida Dance Studio', u'leisure': u'dance'}"
+1010,4607846857,51.5907524,-0.1034643,dance,,"{u'building': u'yes', u'name': u'Omnida Dance Studio', u'leisure': u'dance'}"
+1011,4609843231,51.5397174,-0.1470397,fitness_centre,,"{u'addr:housenumber': u'57', u'sport': u'yoga', u'name': u'Triyoga', u'addr:postcode': u'NW1 7DB', u'leisure': u'fitness_centre', u'addr:street': u'Jamestown Road', u'addr:city': u'London'}"
+1012,4610654275,51.6009757,-0.3938403,pitch,,"{u'sport_1': u'basketball', u'sport': u'tennis', u'surface': u'asphalt', u'leisure': u'pitch'}"
+1013,4610654276,51.6005957,-0.3929436,pitch,,"{u'sport': u'cricket', u'leisure': u'pitch'}"
+1014,4610656018,51.6022516,-0.3920486,pitch,,"{u'sport': u'basketball', u'leisure': u'pitch'}"
+1015,4617048439,51.5258756,-0.2147714,fitness_centre,,"{u'addr:housenumber': u'332', u'addr:unit': u'3', u'addr:city': u'London', u'addr:postcode': u'W10 5AD', u'contact:website': u'http://www.anytimefitness.co.uk/gyms/UK-0129/london-ladbroke-grove-england-w10-5as', u'leisure': u'fitness_centre', u'name': u'Anytime Fitness', u'addr:street': u'Ladbroke Grove'}"
+1016,4631563536,51.5621225,-0.4527177,playground,,{u'leisure': u'playground'}
+1017,4636060186,51.4956709,-0.4263708,park,,"{u'name': u'Tree', u'leisure': u'park'}"
+1018,4636060187,51.4957541,-0.4263269,park,,"{u'name': u'Tree', u'leisure': u'park'}"
+1019,4636060188,51.4956196,-0.4262149,park,,"{u'name': u'Tree', u'leisure': u'park'}"
+1020,4636242146,51.4805378,-0.3094441,playground,,{u'leisure': u'playground'}
+1021,4643137965,51.4554214,-0.3394155,fitness_centre,,"{u'name': u'Virgin Active Twickenham', u'leisure': u'fitness_centre'}"
+1022,4643175317,51.4630262,-0.1342056,fitness_centre,,"{u'addr:housenumber': u'95-97', u'name': u'Soho Gyms', u'leisure': u'fitness_centre', u'addr:street': u'Clapham High Street'}"
+1023,4643470501,51.6076434,-0.0039916,playground,,"{u'source': u'survey', u'leisure': u'playground'}"
+1024,4644873678,51.4489453,-0.3301756,park,,{u'leisure': u'park'}
+1025,4654216340,51.6083183,0.1074754,tanning_salon,,"{u'addr:housenumber': u'209', u'shop': u'beauty', u'entrance': u'yes', u'addr:city': u'Chigwell', u'level': u'0', u'addr:postcode': u'IG7 4DJ', u'leisure': u'tanning_salon', u'name': u'Sun City Tanning', u'source': u'survey;gps', u'addr:street': u'Manford Way'}"
+1026,4670304986,51.3676282,-0.2043416,pitch,,"{u'description': u'football club\n', u'surface': u'artificial_turf', u'lit': u'yes', u'leisure': u'pitch', u'sport': u'soccer', u'name': u'sutton united football club'}"
+1027,4675113055,51.6438065,-0.1914183,fitness_station,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_station'}"
+1028,4677251804,51.5423227,-0.1797374,fitness_centre,,"{u'addr:housenumber': u'79-81', u'contact:phone': u'+44 20 76253420', u'name': u'Performance RX', u'leisure': u'fitness_centre', u'addr:street': u'Fairfax Road'}"
+1029,4678882807,51.589423,-0.1108577,garden,,"{u'name': u'Hornsey Park Community Garden', u'leisure': u'garden'}"
+1030,4683685898,51.4993505,0.0687065,slipway,,"{u'description': u'Slipway access to the foreshore and floating litter hotspot.', u'leisure': u'slipway'}"
+1031,4686063082,51.542513,-0.0168819,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Seated Row', u'leisure': u'fitness_station'}"
+1032,4686063211,51.5425518,-0.0169086,fitness_station,,"{u'source': u'gps+mapnoter', u'name': u'Oblique', u'leisure': u'fitness_station'}"
+1033,4687847188,51.5769092,-0.1457199,fitness_centre,,"{u'addr:housenumber': u'285', u'name': u'Alex Jordan Personal Training', u'leisure': u'fitness_centre', u'addr:street': u'Archway Road'}"
+1034,4690191713,51.5044295,-0.2239606,playground,,{u'leisure': u'playground'}
+1035,4700133528,51.4369729,-0.1731785,park,,"{u'name': u'Fountain', u'leisure': u'park'}"
+1036,4700133532,51.4369729,-0.1731785,park,,{u'leisure': u'park'}
+1037,4700201905,51.6418978,-0.0380778,playground,,"{u'source': u'gps+mapnoter', u'fixme': u'pgtd', u'leisure': u'playground'}"
+1038,4708833489,51.5092527,-0.1235852,fitness_centre,,"{u'addr:housenumber': u'55', u'name:en': u'Bootcamp Pilates', u'name': u'Bootcamp Pilates', u'leisure': u'fitness_centre'}"
+1039,4715766182,51.5023687,0.0386165,fitness_centre,,"{u'source': u'gps+mapnoter', u'name': u""Residents' Gym"", u'leisure': u'fitness_centre'}"
+1040,4721120231,51.6052165,-0.284146,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+1041,4721120244,51.6046715,-0.2845931,playground,,"{u'source': u'gps+mapnoter', u'leisure': u'playground'}"
+1042,4721120257,51.6045935,-0.2846261,pitch,,"{u'sport': u'basketball_practice', u'leisure': u'pitch'}"
+1043,4721120296,51.6042703,-0.2845859,fitness_centre,,"{u'source': u'gps+mapnoter', u'leisure': u'fitness_centre'}"
+1044,4726149684,51.6518218,-0.2028669,picnic_table,,{u'leisure': u'picnic_table'}
+1045,4727255842,51.6518205,-0.202798,picnic_table,,{u'leisure': u'picnic_table'}
+1046,4729601314,51.4068793,-0.1497952,park,,"{u'name': u'backgreen', u'leisure': u'park'}"
+1047,4732393718,51.5004793,-0.458162,park,,{u'leisure': u'park'}
+1048,4735367121,51.5177059,0.1930758,playground,,{u'leisure': u'playground'}
+1049,4735866940,51.5239603,-0.2216298,playground,,"{u'name': u""Children's Playground"", u'leisure': u'playground'}"
+1050,4746119025,51.5534226,-0.0976842,playground,,{u'leisure': u'playground'}
+1051,4756123402,51.5641837,-0.3543601,fitness_centre,,"{u'layer': u'1', u'sport': u'judo', u'name': u'MBA Fitness', u'leisure': u'fitness_centre'}"
+1052,4766674735,51.4229005,-0.2553827,horse_riding,,"{u'addr:housenumber': u'197', u'website': u'www.ridinginlondon.com', u'name': u'Stag Lodge 2', u'addr:postcode': u'SW20 0AA', u'leisure': u'horse_riding', u'operator': u'Stag Lodge Stables', u'addr:street': u'Robin Hood Way'}"
+1053,4802403071,51.4565601,0.112228,fitness_station,,{u'leisure': u'fitness_station'}
+1054,4802496702,51.5028187,0.0922144,playground,,{u'leisure': u'playground'}
+1055,4807423551,51.4943532,0.043058,sports_centre,,"{u'sport': u'climbing', u'addr:housename': u'Unit 6', u'name': u'The Reach', u'leisure': u'sports_centre', u'addr:street': u'Mellish Industrial Estate'}"
+1056,4811892143,51.5500677,-0.0312824,playground,,{u'leisure': u'playground'}
+1057,4836642835,51.6122345,-0.2702901,playground,,"{u'fixme': u'resurvey, rough position', u'leisure': u'playground'}"
+1058,4836980797,51.5916261,-0.2621508,playground,,{u'leisure': u'playground'}
+1059,4848974988,51.5077128,-0.2950758,playground,,{u'leisure': u'playground'}

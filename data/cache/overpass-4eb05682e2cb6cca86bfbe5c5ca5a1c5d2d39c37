@@ -1,0 +1,1 @@
+{"version":0.6,"generator":"Overpass API","osm3s":{"timestamp_osm_base":"2017-05-13T12:35:44Z","timestamp_areas_base":"2017-05-13T12:10:45Z","copyright":"The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."},"elements":[{"type":"count","tags":{"nodes":"80655","ways":"0","relations":"0","areas":"0","total":"80655"}}]}
