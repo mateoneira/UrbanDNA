@@ -1,0 +1,4153 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-16T15:08:05Z",
+    "timestamp_areas_base": "2017-05-16T13:18:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 26659113,
+      "lat": 51.5175867,
+      "lon": -0.1087596,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "33",
+        "addr:postcode": "EC1N 2HT",
+        "addr:street": "Holborn",
+        "fhrs:id": "294696",
+        "name": "Sainsbury's Local",
+        "operator": "Sainsburys",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295975600,
+      "lat": 51.5126226,
+      "lon": -0.087495,
+      "tags": {
+        "name": "Sainsbury's Local",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296610106,
+      "lat": 51.5133665,
+      "lon": -0.0925606,
+      "tags": {
+        "name": "Robert Dyas",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296610596,
+      "lat": 51.5119197,
+      "lon": -0.0846722,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "168",
+        "addr:postcode": "EC3M 6DE",
+        "addr:street": "Fenchurch Street",
+        "level": "0",
+        "name": "Marks and Spencer",
+        "shop": "department_store",
+        "website": "http://www.marksandspencer.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306136163,
+      "lat": 51.5149426,
+      "lon": -0.0853103,
+      "tags": {
+        "addr:housenumber": "120",
+        "addr:postcode": "EC2N 1AR",
+        "addr:street": "Old Broad Street",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 350404899,
+      "lat": 51.5132503,
+      "lon": -0.1039269,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "100",
+        "addr:postcode": "EC4V 6JJ",
+        "addr:street": "New Bridge Street",
+        "amenity": "pharmacy",
+        "branch": "London New Bridge Street",
+        "brand": "Boots",
+        "contact:phone": "+44 20 7329 6702",
+        "contact:website": "http://www.boots.com/stores/731-london-new-bridge-street-ec4v-6jj",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "294120",
+        "fhrs:inspectiondate": "2015-06-10",
+        "fhrs:local_authority_id": "PI/000009458",
+        "fhrs:rating": "5",
+        "medical_supply": "yes",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "ref": "731",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 377508719,
+      "lat": 51.5170101,
+      "lon": -0.080646,
+      "tags": {
+        "name": "Specsavers",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385707542,
+      "lat": 51.5144243,
+      "lon": -0.1008266,
+      "tags": {
+        "name": "Vidal Sasoon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390073172,
+      "lat": 51.5211627,
+      "lon": -0.097114,
+      "tags": {
+        "name": "Barbican Laundrette",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390073174,
+      "lat": 51.520574,
+      "lon": -0.0977172,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "131",
+        "addr:postcode": "EC1A 4JQ",
+        "addr:street": "Aldersgate Street",
+        "branch": "Barbican Express",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439447912,
+      "lat": 51.5150684,
+      "lon": -0.082593,
+      "tags": {
+        "name": "BK News",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441966150,
+      "lat": 51.5151432,
+      "lon": -0.0987366,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "2",
+        "addr:postcode": "EC4M 7DX",
+        "addr:street": "Paternoster Square",
+        "amenity": "pharmacy",
+        "branch": "London Paternoster Square",
+        "brand": "Boots",
+        "contact:phone": "+44 20 7236 6181",
+        "contact:website": "http://www.boots.com/stores/793-london-paternoster-square-ec4m-7dx",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "294300",
+        "fhrs:local_authority_id": "PI/000012853",
+        "medical_supply": "yes",
+        "name": "Boots",
+        "opening_hours": "Mo-Fr 07:30-19:00",
+        "operator": "Boots UK Limited",
+        "ref": "793",
+        "shop": "chemist",
+        "source": "survey",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488483,
+      "lat": 51.5122096,
+      "lon": -0.0825119,
+      "tags": {
+        "craft": "shoemaker;key_cutter",
+        "name": "City Slickers",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488491,
+      "lat": 51.5118127,
+      "lon": -0.0820271,
+      "tags": {
+        "amenity": "betting_shop",
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488493,
+      "lat": 51.5116436,
+      "lon": -0.0822566,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "138-140",
+        "addr:postcode": "EC3M 6BL",
+        "addr:street": "Fenchurch Street",
+        "amenity": "pharmacy",
+        "branch": "London Fenchurch Street",
+        "contact:website": "http://www.boots.com/stores/1608-london-fenchurch-street-ec3m-6bl",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "293868",
+        "fhrs:local_authority_id": "PI/000005415",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "ref": "1608",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488494,
+      "lat": 51.5117298,
+      "lon": -0.0818238,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "135",
+        "addr:postcode": "EC3M 5DJ",
+        "addr:street": "Fenchurch Street",
+        "name": "Space.NK.apothecary",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa-Su off",
+        "phone": "‎+44 20 7929 5675",
+        "shop": "cosmetics",
+        "website": "http://www.spacenk.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488495,
+      "lat": 51.5117656,
+      "lon": -0.0816157,
+      "tags": {
+        "name": "Austin Reed",
+        "note": "Approximate location",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471488496,
+      "lat": 51.5118322,
+      "lon": -0.081432,
+      "tags": {
+        "name": "Mappin & Webb",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 472754033,
+      "lat": 51.5147843,
+      "lon": -0.0780473,
+      "tags": {
+        "amenity": "betting_shop",
+        "name": "William Hill",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 475396911,
+      "lat": 51.5172007,
+      "lon": -0.0889348,
+      "tags": {
+        "name": "Vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 475396915,
+      "lat": 51.5168732,
+      "lon": -0.0873668,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 475868738,
+      "lat": 51.5172127,
+      "lon": -0.1049731,
+      "tags": {
+        "addr:city": "London",
+        "addr:street": "Farringdon Street",
+        "layer": "-1",
+        "name": "winemakers club",
+        "note": "Under Holborn Viaduct",
+        "shop": "alcohol",
+        "website": "http://thewinemakersclub.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 479121690,
+      "lat": 51.5136766,
+      "lon": -0.1011574,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Ludgate Hill",
+        "name": "London Souvenirs",
+        "postal_code": "EC4M 7AA",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 479151681,
+      "lat": 51.5139856,
+      "lon": -0.1004245,
+      "tags": {
+        "name": "Marks & Spencer Simply Food",
+        "postal_code": "EC4M 8EH",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 488443291,
+      "lat": 51.514242,
+      "lon": -0.0996863,
+      "tags": {
+        "name": "Blacks",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 560717334,
+      "lat": 51.5135459,
+      "lon": -0.0915278,
+      "tags": {
+        "name": "Tesco Metro",
+        "operator": "Tesco",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 567843761,
+      "lat": 51.5158586,
+      "lon": -0.0798521,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "59-60",
+        "addr:postcode": "EC3A 7BE",
+        "addr:street": "Houndsditch",
+        "amenity": "pharmacy",
+        "branch": "London Houndsditch",
+        "brand": "Boots",
+        "contact:phone": "+44 20 7929 1779",
+        "contact:website": "http://www.boots.com/stores/734-london-houndsditch-ec3a-7be",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "293991",
+        "fhrs:local_authority_id": "PI/000007150",
+        "medical_supply": "yes",
+        "name": "Boots",
+        "opening_hours": "Mo-Fr 07:30-18:30",
+        "operator": "Boots UK Limited",
+        "ref": "734",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571287279,
+      "lat": 51.5166495,
+      "lon": -0.0833103,
+      "tags": {
+        "name": "Hackett London",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 577559481,
+      "lat": 51.5185946,
+      "lon": -0.0792994,
+      "tags": {
+        "name": "T. M. Lewin",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 609956569,
+      "lat": 51.5139656,
+      "lon": -0.1040765,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:postcode": "EC4M 7LW",
+        "addr:street": "Ludgate Circus",
+        "fhrs:id": "711648",
+        "name": "The Cooperative Food",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622062081,
+      "lat": 51.511254,
+      "lon": -0.089658,
+      "tags": {
+        "addr:housenumber": "80",
+        "addr:postcode": "EC4N 6HL",
+        "addr:street": "Cannon Street",
+        "addr:unit": "Retail Unit",
+        "amenity": "pharmacy",
+        "branch": "London Cannon Street",
+        "contact:website": "http://www.boots.com/stores/1533-london-cannon-street-ec4n-6ae",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "293712",
+        "fhrs:local_authority_id": "PI/000002082",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "phone": "+44 20 7623 4676",
+        "ref": "1533",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622583637,
+      "lat": 51.5163433,
+      "lon": -0.082476,
+      "tags": {
+        "name": "Haircare",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666475918,
+      "lat": 51.5142992,
+      "lon": -0.0944278,
+      "tags": {
+        "name": "Jaeger",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666475919,
+      "lat": 51.5143272,
+      "lon": -0.0946145,
+      "tags": {
+        "name": "Ted Baker",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 668834653,
+      "lat": 51.5114748,
+      "lon": -0.0818917,
+      "tags": {
+        "name": "Next",
+        "opening_hours": "Mo-Fr 08:00-19:00;Sa-Su off",
+        "phone": "‎+44 844 844 5484",
+        "shop": "clothes",
+        "website": "www.next.co.uk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674956578,
+      "lat": 51.5113348,
+      "lon": -0.0775963,
+      "tags": {
+        "addr:street": "Crutched Friars",
+        "name": "Ladbrokes",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 687648330,
+      "lat": 51.510842,
+      "lon": -0.075196,
+      "tags": {
+        "name": "Food&Wine",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162470,
+      "lat": 51.5120421,
+      "lon": -0.0852577,
+      "tags": {
+        "name": "New Look",
+        "opening_hours": "Mo-Fr 07:30-20:00",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162487,
+      "lat": 51.5124676,
+      "lon": -0.0845697,
+      "tags": {
+        "name": "Savoy Tailor's Guild",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162503,
+      "lat": 51.5125242,
+      "lon": -0.0848775,
+      "tags": {
+        "name": "Gap",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162537,
+      "lat": 51.5126834,
+      "lon": -0.0834307,
+      "tags": {
+        "name": "Reiss",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162540,
+      "lat": 51.5125856,
+      "lon": -0.0830699,
+      "tags": {
+        "addr:housenumber": "32",
+        "name": "Beau Gems",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162553,
+      "lat": 51.5126998,
+      "lon": -0.0832375,
+      "tags": {
+        "addr:housenumber": "14",
+        "name": "Cards Galore",
+        "shop": "cards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162564,
+      "lat": 51.5129756,
+      "lon": -0.0832909,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162566,
+      "lat": 51.5130683,
+      "lon": -0.0832589,
+      "tags": {
+        "name": "HMV - now closed",
+        "shop": "music"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162569,
+      "lat": 51.5131209,
+      "lon": -0.083483,
+      "tags": {
+        "name": "T-Mobile",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162580,
+      "lat": 51.5132189,
+      "lon": -0.0834724,
+      "tags": {
+        "name": "Oasis",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 707377168,
+      "lat": 51.5137604,
+      "lon": -0.0756409,
+      "tags": {
+        "name": "Ladbrokes",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748073444,
+      "lat": 51.5137435,
+      "lon": -0.1014909,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "23",
+        "addr:postcode": "EC4M 7AE",
+        "addr:street": "Ludgate Hill",
+        "fhrs:id": "294072",
+        "name": "William Hill",
+        "shop": "bookmaker",
+        "source:addr": "Food Hygiene Rating Scheme open data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748079263,
+      "lat": 51.5138715,
+      "lon": -0.101207,
+      "tags": {
+        "name": "Sta Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748087934,
+      "lat": 51.5138595,
+      "lon": -0.1021638,
+      "tags": {
+        "name": "Portlands",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748091223,
+      "lat": 51.5138854,
+      "lon": -0.1023801,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Greggs",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748111107,
+      "lat": 51.513965,
+      "lon": -0.103215,
+      "tags": {
+        "addr:housenumber": "59",
+        "addr:street": "Ludgate Hill",
+        "name": "TM Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748115552,
+      "lat": 51.5139636,
+      "lon": -0.1036904,
+      "tags": {
+        "name": "Scotts",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 766467563,
+      "lat": 51.5132123,
+      "lon": -0.1013159,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "42-44",
+        "addr:postcode": "EC4V 5EA",
+        "addr:street": "Carter Lane",
+        "fhrs:id": "294475",
+        "name": "St. Paul's Tobacco",
+        "shop": "convenience",
+        "source:addr": "Food Hygiene Rating Scheme open data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775219539,
+      "lat": 51.513268,
+      "lon": -0.075628,
+      "tags": {
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796929017,
+      "lat": 51.5127624,
+      "lon": -0.0839805,
+      "tags": {
+        "name": "Amathus",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796935761,
+      "lat": 51.512928,
+      "lon": -0.0842071,
+      "tags": {
+        "name": "Nicholson & Griffin",
+        "shop": "hairdresser",
+        "unisex": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833668418,
+      "lat": 51.5125291,
+      "lon": -0.1040204,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "31",
+        "addr:postcode": "EC4V 6BJ",
+        "addr:street": "New Bridge Street",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "775591",
+        "fhrs:local_authority_id": "PI/000113141",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su 08:00-19:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 855065293,
+      "lat": 51.5154813,
+      "lon": -0.0764892,
+      "tags": {
+        "name": "Jad's",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 865142077,
+      "lat": 51.5105618,
+      "lon": -0.0849363,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Eastcheap",
+        "name": "Tesco Monument Metro",
+        "opening_hours": "Mo-Fr 06:00-24:00; Sa 08:00-20:00; Su 11:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 865143729,
+      "lat": 51.510751,
+      "lon": -0.084576,
+      "tags": {
+        "addr:housename": "19",
+        "addr:street": "Eastcheap",
+        "name": "Optical Express",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 902513135,
+      "lat": 51.5194229,
+      "lon": -0.0845149,
+      "tags": {
+        "amenity": "marketplace",
+        "description": "Broadgate market is held every other week, see the web site for further details.",
+        "fish": "yes",
+        "meat": "yes",
+        "name": "Broadgate Farmers' Market",
+        "opening_hours": "Th 08:00-14:00",
+        "organic": "yes",
+        "shop": "market",
+        "vegetables": "yes",
+        "website": "http://www.lfm.org.uk/markets/broadgate/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 918460604,
+      "lat": 51.517728,
+      "lon": -0.0889252,
+      "tags": {
+        "name": "Carphone Warehouse",
+        "operator": "Carphone Warehouse",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 972225487,
+      "lat": 51.5132017,
+      "lon": -0.0875291,
+      "tags": {
+        "addr:street": "Cornhill",
+        "name": "Ladurée",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1142052875,
+      "lat": 51.5189424,
+      "lon": -0.0881746,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Moorgate Hall",
+        "addr:housenumber": "143-171",
+        "addr:postcode": "EC2M 6XQ",
+        "addr:street": "Moorgate",
+        "addr:unit": "Unit 4",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "294454",
+        "fhrs:local_authority_id": "PI/000014351",
+        "name": "Hotel Chocolat",
+        "shop": "confectionery",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1169109492,
+      "lat": 51.5184889,
+      "lon": -0.0888883,
+      "tags": {
+        "name": "Holland and Barrett",
+        "shop": "health_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1535778603,
+      "lat": 51.5134804,
+      "lon": -0.0842919,
+      "tags": {
+        "addr:housenumber": "61",
+        "addr:postcode": "EC3V 3NH",
+        "addr:street": "Cornhill",
+        "fhrs:id": "294913",
+        "fixme": "FHRS have 62-63 Cornhill",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa-Su 08:00-18:00",
+        "shop": "convenience",
+        "website": "http://www.sainsburys.co.uk/sol/storelocator/storelocator_detail_view.jsp?storeId=4889&bmForm=store_details"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1547180571,
+      "lat": 51.5115785,
+      "lon": -0.0813752,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "40-45",
+        "addr:postcode": "EC3M 4BE",
+        "addr:street": "Fenchurch Street",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa-Su 09:00-17:00",
+        "operator": "Sainsbury's",
+        "phone": "+4420 7220 7952",
+        "shop": "convenience",
+        "website": "http://www.sainsburys.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1569215828,
+      "lat": 51.5118592,
+      "lon": -0.0853239,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "33",
+        "addr:postcode": "EC3V 0BT",
+        "addr:street": "Gracechurch Street",
+        "entrance": "main",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "295037",
+        "fhrs:local_authority_id": "PI/000020253",
+        "name": "TK Maxx",
+        "shop": "clothes",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1586864010,
+      "lat": 51.5144219,
+      "lon": -0.0769556,
+      "tags": {
+        "name": "Tesco Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1601797401,
+      "lat": 51.5184377,
+      "lon": -0.1000998,
+      "tags": {
+        "name": "Newsagents",
+        "note": "Name signed on shop is simply \"Newsagents\"",
+        "shop": "newsagent",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669495358,
+      "lat": 51.5167705,
+      "lon": -0.0862938,
+      "tags": {
+        "name": "Hawes and Curtis",
+        "shop": "clothes",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678155296,
+      "lat": 51.5125993,
+      "lon": -0.093799,
+      "tags": {
+        "name": "Flight Centre",
+        "shop": "travel_agency",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678155360,
+      "lat": 51.5125631,
+      "lon": -0.0938178,
+      "tags": {
+        "shop": "dry_cleaning",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678245223,
+      "lat": 51.5130765,
+      "lon": -0.0844276,
+      "tags": {
+        "name": "Ede and Ravenscroft",
+        "shop": "clothes",
+        "source": "photograph",
+        "wikipedia": "en:Ede & Ravenscroft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1682512977,
+      "lat": 51.5135407,
+      "lon": -0.0763148,
+      "tags": {
+        "name": "Snappy Snaps",
+        "shop": "photo",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1685280996,
+      "lat": 51.5184017,
+      "lon": -0.0912927,
+      "tags": {
+        "name": "Frank Harris",
+        "note": "At podium level",
+        "shop": "estate_agent",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1689475286,
+      "lat": 51.5111196,
+      "lon": -0.0791407,
+      "tags": {
+        "craft": "key_cutter;shoe_repair",
+        "description": "Key cutting, shoe repairs, dry cleaning",
+        "name": "Fenchurch Shoe Care",
+        "shop": "dry_cleaning",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717011302,
+      "lat": 51.5172875,
+      "lon": -0.1049956,
+      "tags": {
+        "layer": "-1",
+        "name": "Ex Cellar",
+        "shop": "alcohol",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717011315,
+      "lat": 51.5184465,
+      "lon": -0.1050319,
+      "tags": {
+        "name": "Executive City Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717643422,
+      "lat": 51.5136819,
+      "lon": -0.0909619,
+      "tags": {
+        "access": "opening_hours",
+        "name": "Trailfinders",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "shop": "travel_agency",
+        "source": "survey",
+        "survey:date": "2015-03-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717643443,
+      "lat": 51.5136484,
+      "lon": -0.0907636,
+      "tags": {
+        "operator": "Coast",
+        "shop": "clothes",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717643447,
+      "lat": 51.5136654,
+      "lon": -0.090859,
+      "tags": {
+        "operator": "Warehouse",
+        "shop": "clothes",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1719875219,
+      "lat": 51.5126345,
+      "lon": -0.0937838,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "gift",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1723388903,
+      "lat": 51.5198811,
+      "lon": -0.0968795,
+      "tags": {
+        "level": "0",
+        "name": "Cissors Palace",
+        "shop": "hairdresser",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1753230414,
+      "lat": 51.5176959,
+      "lon": -0.0821418,
+      "tags": {
+        "level": "0",
+        "name": "Isle of Flowers",
+        "note": "Railway station concourse upper (ground) level",
+        "shop": "florist",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1763582361,
+      "lat": 51.5105894,
+      "lon": -0.0927624,
+      "tags": {
+        "addr:housenumber": "72",
+        "addr:street": "Upper Thames Street",
+        "name": "Cycle Surgery",
+        "phone": "0207 246 6880",
+        "postcode": "EC4R 3TA",
+        "shop": "bicycle",
+        "website": "http://www.cyclesurgery.com/store-upper-thames-street/content/fcp-content"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1763582369,
+      "lat": 51.5105699,
+      "lon": -0.0926527,
+      "tags": {
+        "addr:housenumber": "72",
+        "addr:postcode": "EC4R 3TA",
+        "addr:street": "Upper Thames Street",
+        "name": "Runners Need",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1763600535,
+      "lat": 51.5184235,
+      "lon": -0.0855112,
+      "tags": {
+        "addr:housenumber": "26-27",
+        "addr:postcode": "EC2M 7LA",
+        "addr:street": "Eldon Street",
+        "name": "Maplin",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1779881385,
+      "lat": 51.5133036,
+      "lon": -0.0843512,
+      "tags": {
+        "name": "David Clulow",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1804590444,
+      "lat": 51.5117522,
+      "lon": -0.0752154,
+      "tags": {
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1816959332,
+      "lat": 51.5161742,
+      "lon": -0.1015665,
+      "tags": {
+        "name": "TONI&GUY",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1816959399,
+      "lat": 51.5161533,
+      "lon": -0.1014637,
+      "tags": {
+        "clothes": "suits",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832665977,
+      "lat": 51.51788,
+      "lon": -0.1104763,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Holborn",
+        "name": "Blacks",
+        "opening_hours": "Mo-Fr 08:00-19:30; Sa 09:00-18:00; Su 11:00-17:00",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832665980,
+      "lat": 51.5181409,
+      "lon": -0.1126398,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "320",
+        "addr:postcode": "WC1V 7PU",
+        "addr:street": "High Holborn",
+        "contact:phone": "+44 203 632 4183",
+        "contact:website": "http://jonesbootmaker.com/",
+        "name": "Jones Bootmaker",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 09:00-16:00",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832666028,
+      "lat": 51.5179883,
+      "lon": -0.1114589,
+      "tags": {
+        "shop": "beauty",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832688357,
+      "lat": 51.5179814,
+      "lon": -0.1135638,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:street": "Chancery Lane",
+        "name": "Acote",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832688363,
+      "lat": 51.5172003,
+      "lon": -0.1125776,
+      "tags": {
+        "contact:phone": "+44 20 7242 3844",
+        "name": "The London Silver Vaults",
+        "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-13:00",
+        "shop": "antiques",
+        "website": "http://silvervaultslondon.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1835329125,
+      "lat": 51.5150576,
+      "lon": -0.0970331,
+      "tags": {
+        "addr:housenumber": "150",
+        "addr:postcode": "EC2V 6ET",
+        "addr:street": "Cheapside",
+        "contact:website": "http://www.maplin.co.uk/store-locator/st-pauls",
+        "name": "Maplin",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 11:00-17:00",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2006375680,
+      "lat": 51.5179134,
+      "lon": -0.0844427,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "EC2M 7AW",
+        "addr:street": "Blomfield Street",
+        "name": "Moss Bros",
+        "shop": "clothes",
+        "source": "Local knowledge",
+        "website": "www.moss.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2118622431,
+      "lat": 51.5178397,
+      "lon": -0.0965129,
+      "tags": {
+        "name": "Museum of London shop",
+        "note": "Also sells various gifts etc",
+        "shop": "books",
+        "website": "http://www.museumoflondon.org.uk/London-Wall/Visiting-us/Museum-of-London-shop.htm",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2313255279,
+      "lat": 51.509742,
+      "lon": -0.080001,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2489364566,
+      "lat": 51.5121671,
+      "lon": -0.0942146,
+      "tags": {
+        "addr:postcode": "EC4N 4UA",
+        "name": "Sainsbury's Local",
+        "operator": "Sainsbury's Supermarkets Ltd.",
+        "phone": "+442072008450",
+        "shop": "convenience",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2496836213,
+      "lat": 51.5197109,
+      "lon": -0.0849885,
+      "tags": {
+        "name": "SAN-JAY",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2529581874,
+      "lat": 51.511432,
+      "lon": -0.08888,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "119",
+        "addr:postcode": "EC4N 5AT",
+        "addr:street": "Cannon Street",
+        "name": "Holland & Barrett",
+        "opening_hours": "Mo-Fr_07:00-20:00; Su_10:00-18:00; Sa_09:00-18:00",
+        "phone": "+44 20 7929 6252",
+        "shop": "health_food",
+        "website": "http://www.hollandandbarrett.com",
+        "wikidata": "Q5880870",
+        "wikipedia": "en:Holland & Barrett"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2545212934,
+      "lat": 51.5169029,
+      "lon": -0.083469,
+      "tags": {
+        "name": "Oasis",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2545451251,
+      "lat": 51.5184739,
+      "lon": -0.0838962,
+      "tags": {
+        "name": "Links",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2554411176,
+      "lat": 51.512196,
+      "lon": -0.0851126,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "20",
+        "addr:postcode": "EC3V 0BG",
+        "addr:street": "Gracechurch Street",
+        "name": "Strutt & Parker",
+        "note": "Real estate agents,  Property consultants, Strutt & Parker London City Office, Commercial Property Agency",
+        "phone": "+44 (0)20 7600 3456",
+        "shop": "estate_agent",
+        "source": "Strutt & Parker",
+        "website": "http://www.struttandparker.com/offices/london-city/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2560785853,
+      "lat": 51.5180716,
+      "lon": -0.0830951,
+      "tags": {
+        "shop": "Hotel Chocolate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642580702,
+      "lat": 51.5167979,
+      "lon": -0.0832301,
+      "tags": {
+        "name": "O2",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642856998,
+      "lat": 51.5134366,
+      "lon": -0.0870246,
+      "tags": {
+        "clothes": "underwear",
+        "name": "Agent Provocateur",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857008,
+      "lat": 51.5138059,
+      "lon": -0.0871787,
+      "tags": {
+        "name": "Church's",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857013,
+      "lat": 51.5138542,
+      "lon": -0.0869785,
+      "tags": {
+        "addr:housenumber": "25",
+        "name": "Crockett & Jones",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857018,
+      "lat": 51.513462,
+      "lon": -0.0866015,
+      "tags": {
+        "addr:housenumber": "9",
+        "name": "Gucci",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857023,
+      "lat": 51.5138003,
+      "lon": -0.0866683,
+      "tags": {
+        "addr:housenumber": "18",
+        "name": "Harrys",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857027,
+      "lat": 51.5135614,
+      "lon": -0.0865875,
+      "tags": {
+        "name": "Hermes",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857045,
+      "lat": 51.5137058,
+      "lon": -0.0876506,
+      "tags": {
+        "addr:housenumber": "33",
+        "name": "J.Redford & Co",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857046,
+      "lat": 51.5138731,
+      "lon": -0.0868918,
+      "tags": {
+        "addr:housenumber": "24",
+        "name": "Jo Malone",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857048,
+      "lat": 51.5137334,
+      "lon": -0.0866402,
+      "tags": {
+        "name": "Jones Lang LaSalle",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857051,
+      "lat": 51.5136344,
+      "lon": -0.0866048,
+      "tags": {
+        "name": "Kiehl's",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857053,
+      "lat": 51.5137735,
+      "lon": -0.0873231,
+      "tags": {
+        "name": "L'Occitane",
+        "shop": "perfume"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857055,
+      "lat": 51.5134176,
+      "lon": -0.0873511,
+      "tags": {
+        "luxury": "unknown",
+        "name": "Loro Piana",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857058,
+      "lat": 51.5138829,
+      "lon": -0.0868085,
+      "tags": {
+        "addr:housenumber": "23",
+        "name": "Lulu Guiness",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857061,
+      "lat": 51.513822,
+      "lon": -0.0871164,
+      "tags": {
+        "addr:housenumber": "27",
+        "alcohol": "wine",
+        "name": "Molton Brown",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857064,
+      "lat": 51.5134839,
+      "lon": -0.0865589,
+      "tags": {
+        "luxury": "pens",
+        "name": "Monteblanc",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857072,
+      "lat": 51.5108433,
+      "lon": -0.0870349,
+      "tags": {
+        "addr:housenumber": "124-126",
+        "addr:postcode": "EC4N 6AS",
+        "addr:street": "Cannon Street",
+        "name": "Paddy Power",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857074,
+      "lat": 51.5134244,
+      "lon": -0.0872298,
+      "tags": {
+        "name": "Penhaligon's",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857075,
+      "lat": 51.5137425,
+      "lon": -0.0874832,
+      "tags": {
+        "addr:housenumber": "30",
+        "name": "Pretty Ballerinas",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857077,
+      "lat": 51.5137258,
+      "lon": -0.087569,
+      "tags": {
+        "addr:housenumber": "31",
+        "name": "Sage Brown",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857080,
+      "lat": 51.5134557,
+      "lon": -0.0866743,
+      "tags": {
+        "clothes": "bags",
+        "name": "Smythson",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857085,
+      "lat": 51.5138877,
+      "lon": -0.0867503,
+      "tags": {
+        "addr:housenumber": "22",
+        "name": "Watches of Switzerland",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857087,
+      "lat": 51.5137618,
+      "lon": -0.0874028,
+      "tags": {
+        "name": "Wellers",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857090,
+      "lat": 51.5134473,
+      "lon": -0.086893,
+      "tags": {
+        "name": "links",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857092,
+      "lat": 51.513693,
+      "lon": -0.0877228,
+      "tags": {
+        "name": "Napket",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857189,
+      "lat": 51.5134034,
+      "lon": -0.0876494,
+      "tags": {
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857190,
+      "lat": 51.513407,
+      "lon": -0.087545,
+      "tags": {
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857192,
+      "lat": 51.5134106,
+      "lon": -0.087469,
+      "tags": {
+        "addr:city": "City of London",
+        "addr:housename": "The Royal Exchange",
+        "addr:postcode": "EC3V 3LQ",
+        "addr:street": "Bank",
+        "name": "Watchfinder & Co",
+        "operator": "Watchfinder & Co",
+        "shop": "watches",
+        "website": "http://www.watchfinder.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857235,
+      "lat": 51.5138768,
+      "lon": -0.0866975,
+      "tags": {
+        "addr:housenumber": "20",
+        "name": "paul.a.young",
+        "shop": "chocolate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642895029,
+      "lat": 51.5168546,
+      "lon": -0.0877548,
+      "tags": {
+        "name": "Ryman",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642895059,
+      "lat": 51.516955,
+      "lon": -0.0877409,
+      "tags": {
+        "name": "skin",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2793904911,
+      "lat": 51.5134348,
+      "lon": -0.085504,
+      "tags": {
+        "name": "Bupa",
+        "shop": "health"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2793904912,
+      "lat": 51.5132724,
+      "lon": -0.0857053,
+      "tags": {
+        "name": "Choppin & Lodge",
+        "shop": "tailor",
+        "website": "http://www.choppinandlodge.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2876062102,
+      "lat": 51.5171316,
+      "lon": -0.0825452,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:postcode": "EC2M 7PN",
+        "addr:street": "The Arcade",
+        "amenity": "bureau_de_change",
+        "name": "Thomas Exchange Global",
+        "phone": "020 7183 8370",
+        "shop": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2925607547,
+      "lat": 51.5100098,
+      "lon": -0.0866773,
+      "tags": {
+        "name": "Little Waitrose",
+        "shop": "convenience",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2932674935,
+      "lat": 51.5150039,
+      "lon": -0.0806856,
+      "tags": {
+        "name": "TK Maxx",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2952718659,
+      "lat": 51.5131385,
+      "lon": -0.0795382,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "50",
+        "addr:postcode": "EC3A 2BJ",
+        "addr:street": "Leadenhall Street",
+        "name": "Run Fast",
+        "shop": "sports",
+        "website": "http://www.run-fast-retail.net/our-store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2965872998,
+      "lat": 51.5166386,
+      "lon": -0.0835831,
+      "tags": {
+        "craft": "locksmith",
+        "name": "Timpson",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967342478,
+      "lat": 51.5123782,
+      "lon": -0.0825451,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "8",
+        "addr:postcode": "EC3M 7AA",
+        "addr:street": "Lime Street",
+        "name": "Roderick Charles",
+        "opening_hours": "Mo-Fr 09:00-17:30;Sa-Su off",
+        "phone": "+4420 7929 1867",
+        "shop": "clothes",
+        "website": "http://www.roderickcharles.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967342479,
+      "lat": 51.5118334,
+      "lon": -0.0835837,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "24",
+        "addr:postcode": "EC3M 7HR",
+        "addr:street": "Lime Street",
+        "name": "Links of London",
+        "name:zh": "Links of London 珠宝店",
+        "opening_hours": "Mo-Fr 09:30-18:00",
+        "phone": "+442076233101",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967342481,
+      "lat": 51.5117277,
+      "lon": -0.083603,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "158-159",
+        "addr:postcode": "EC3M 6AB",
+        "addr:street": "Fenchurch Street",
+        "name": "TMLewin",
+        "opening_hours": "Mo-Fr 07:30-19:30;Sa 11:00-17:00;Su off",
+        "phone": "+44207 929 1637",
+        "shop": "clothes",
+        "website": "http://www.tmlewin.co.uk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967342483,
+      "lat": 51.5116994,
+      "lon": -0.0832516,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "155",
+        "addr:postcode": "EC3M 6AL",
+        "addr:street": "Fenchurch Street",
+        "name": "Carphone Warehouse",
+        "opening_hours": "Mo off;Tu-Fr 09:00-18:00;Sa-Su off",
+        "phone": "+448435 381916",
+        "shop": "mobile_phone",
+        "website": "http://www.carphonewarehouse.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967342484,
+      "lat": 51.5116793,
+      "lon": -0.0829968,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "153",
+        "addr:postcode": "EC3M 6BB",
+        "addr:street": "Fenchurch Street",
+        "name": "Moss Bros",
+        "opening_hours": "Mo-We 08:00-18:00; Th 08:00-18:30; Fr 08:00-18:00",
+        "phone": "+4420 7626 5011",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2990710234,
+      "lat": 51.5210037,
+      "lon": -0.0790371,
+      "tags": {
+        "name": "Sweet Spot",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012160555,
+      "lat": 51.5168188,
+      "lon": -0.0798728,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3014255927,
+      "lat": 51.5134744,
+      "lon": -0.0933744,
+      "tags": {
+        "addr:housenumber": "50",
+        "addr:street": "Bow Lane",
+        "name": "Interspersed city",
+        "opening_hours": "Mo-Fr 08:00-19:30;Sa 10:00-16:00",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3018116496,
+      "lat": 51.5152219,
+      "lon": -0.0828074,
+      "tags": {
+        "name": "Paperchase",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3027177910,
+      "lat": 51.5168819,
+      "lon": -0.080056,
+      "tags": {
+        "name": "Barber Express",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3061215876,
+      "lat": 51.5120342,
+      "lon": -0.0832762,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3071846406,
+      "lat": 51.5172104,
+      "lon": -0.0799083,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "New Street",
+        "name": "New Street Wine Shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3143551226,
+      "lat": 51.5151673,
+      "lon": -0.0824833,
+      "tags": {
+        "addr:housenumber": "48",
+        "addr:postcode": "EC2N 4AJ",
+        "addr:street": "Bishopsgate",
+        "amenity": "bureau_de_change",
+        "name": "Thomas Exchange",
+        "phone": "020 7256 7457",
+        "shop": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3144090204,
+      "lat": 51.5157351,
+      "lon": -0.0781205,
+      "tags": {
+        "name": "My Valet",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3145196705,
+      "lat": 51.515121,
+      "lon": -0.0825382,
+      "tags": {
+        "name": "Dappermore The Barbers",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3147137126,
+      "lat": 51.5120557,
+      "lon": -0.0823447,
+      "tags": {
+        "name": "Blades",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3147324128,
+      "lat": 51.5120969,
+      "lon": -0.0826887,
+      "tags": {
+        "name": "T M Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3152615905,
+      "lat": 51.5155501,
+      "lon": -0.0763941,
+      "tags": {
+        "name": "City Discount Stationery",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3152619077,
+      "lat": 51.5162658,
+      "lon": -0.0819594,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3159182900,
+      "lat": 51.5185606,
+      "lon": -0.0793144,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3159183115,
+      "lat": 51.5184337,
+      "lon": -0.079352,
+      "tags": {
+        "amenity": "photo",
+        "name": "Snappy Snaps",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3197325384,
+      "lat": 51.5171991,
+      "lon": -0.0814686,
+      "tags": {
+        "name": "Carr",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3197325385,
+      "lat": 51.5171776,
+      "lon": -0.0813721,
+      "tags": {
+        "name": "Grenson",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3197327374,
+      "lat": 51.5172114,
+      "lon": -0.0821615,
+      "tags": {
+        "craft": "shoemaker",
+        "name": "J Rogers & Sons",
+        "shop": "shoe_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3204565206,
+      "lat": 51.5170727,
+      "lon": -0.0818397,
+      "tags": {
+        "name": "M&S Simply Food",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3217438911,
+      "lat": 51.514287,
+      "lon": -0.109628,
+      "tags": {
+        "name": "Fetter Barbers",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3217453561,
+      "lat": 51.5177589,
+      "lon": -0.1097562,
+      "tags": {
+        "name": "T.M. Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3232149861,
+      "lat": 51.5096788,
+      "lon": -0.0861988,
+      "tags": {
+        "name": "American Golf",
+        "shop": "sports",
+        "sport": "golf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239523393,
+      "lat": 51.5142303,
+      "lon": -0.0859732,
+      "tags": {
+        "name": "Hawes & Curtis",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239531480,
+      "lat": 51.5134855,
+      "lon": -0.0911198,
+      "tags": {
+        "name": "Oasis",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239536716,
+      "lat": 51.5127029,
+      "lon": -0.0946156,
+      "tags": {
+        "amenity": "printers",
+        "name": "The Color Company",
+        "shop": "printers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239539398,
+      "lat": 51.5134667,
+      "lon": -0.1003405,
+      "tags": {
+        "name": "Le Pain Quotidien",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239698461,
+      "lat": 51.512685,
+      "lon": -0.0928793,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239698988,
+      "lat": 51.5151176,
+      "lon": -0.0825237,
+      "tags": {
+        "level": "1",
+        "name": "New York Laser Clinic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3272823593,
+      "lat": 51.5114237,
+      "lon": -0.082916,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Plantation Place",
+        "addr:housenumber": "30",
+        "addr:postcode": "EC3M 3AP",
+        "addr:street": "Fenchurch Street",
+        "addr:unit": "1",
+        "name": "Molton Brown",
+        "opening_hours": "Mo-Tu 08:00-18:30;We 08:00-18:00;Th off;Fr 08:00-18:30;Sa-Su off",
+        "phone": "+44 (0) 207 283 1488",
+        "shop": "beauty",
+        "website": "http://www.moltonbrown.co.uk/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3272823594,
+      "lat": 51.5114254,
+      "lon": -0.0827015,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Plantation Place",
+        "addr:housenumber": "30",
+        "addr:postcode": "EC3M 3BD",
+        "addr:street": "Fenchurch Street",
+        "addr:unit": "2",
+        "name": "Ernest Jones",
+        "opening_hours": "Mo-Fr 08:00-18:30;Sa-Su off",
+        "phone": "+442079294491",
+        "shop": "jewelry",
+        "website": "http://www.ernestjones.co.uk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3272823595,
+      "lat": 51.5114237,
+      "lon": -0.0825244,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Plantation Place",
+        "addr:housenumber": "30",
+        "addr:postcode": "EC3M 3BD",
+        "addr:street": "Fenchurch Street",
+        "addr:unit": "3",
+        "name": "Jones Bootmaker",
+        "shop": "bookmaker",
+        "website": "http://jonesbootmaker.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306596294,
+      "lat": 51.5106118,
+      "lon": -0.0854066,
+      "tags": {
+        "amenity": "deli",
+        "name": "Deli Mama",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3318638761,
+      "lat": 51.5172601,
+      "lon": -0.0823588,
+      "tags": {
+        "name": "Everwell",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320738321,
+      "lat": 51.5162771,
+      "lon": -0.0843122,
+      "tags": {
+        "name": "T. M. Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320744023,
+      "lat": 51.5168387,
+      "lon": -0.0869561,
+      "tags": {
+        "name": "Sartoria",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320744025,
+      "lat": 51.517868,
+      "lon": -0.0882319,
+      "tags": {
+        "name": "Flittners",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320744027,
+      "lat": 51.5157192,
+      "lon": -0.0900969,
+      "tags": {
+        "name": "Hairazor",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320747294,
+      "lat": 51.5157142,
+      "lon": -0.0900218,
+      "tags": {
+        "name": "News & Chews",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3322101478,
+      "lat": 51.5174789,
+      "lon": -0.0802365,
+      "tags": {
+        "name": "Carphone Warehouse",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3322101486,
+      "lat": 51.5099034,
+      "lon": -0.0863558,
+      "tags": {
+        "name": "Hair Razor Unisex Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3322101578,
+      "lat": 51.5106161,
+      "lon": -0.0852229,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Eastcheap",
+        "name": "Flight Centre",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3328182092,
+      "lat": 51.5122371,
+      "lon": -0.0829159,
+      "tags": {
+        "name": "Èsclot",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3328183693,
+      "lat": 51.5122589,
+      "lon": -0.0828027,
+      "tags": {
+        "name": "Charles Tyrwhitt",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3329612221,
+      "lat": 51.5123181,
+      "lon": -0.0826336,
+      "tags": {
+        "name": "Joseph Cheaney & Sons",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3329890270,
+      "lat": 51.5171745,
+      "lon": -0.082018,
+      "tags": {
+        "name": "Jonathan Geeves",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3329890271,
+      "lat": 51.5171975,
+      "lon": -0.0821012,
+      "tags": {
+        "name": "Haircare",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333896730,
+      "lat": 51.5120154,
+      "lon": -0.0833906,
+      "tags": {
+        "name": "Oliver Bonas",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333896790,
+      "lat": 51.5116238,
+      "lon": -0.0844856,
+      "tags": {
+        "name": "Paperchase",
+        "shop": "stationery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333896791,
+      "lat": 51.5115704,
+      "lon": -0.0840538,
+      "tags": {
+        "name": "Vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334175013,
+      "lat": 51.5164134,
+      "lon": -0.0831549,
+      "tags": {
+        "name": "Blades",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334177968,
+      "lat": 51.5163744,
+      "lon": -0.0827675,
+      "tags": {
+        "name": "William Hill",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334179087,
+      "lat": 51.5168245,
+      "lon": -0.0870505,
+      "tags": {
+        "name": "Transcribe",
+        "shop": "printer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334179233,
+      "lat": 51.5156779,
+      "lon": -0.0906534,
+      "tags": {
+        "name": "Hodd Barnes & Dickins",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334180110,
+      "lat": 51.5168394,
+      "lon": -0.0871757,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3335138106,
+      "lat": 51.5177824,
+      "lon": -0.0804504,
+      "tags": {
+        "name": "Hobbs",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3339384937,
+      "lat": 51.5119069,
+      "lon": -0.0835462,
+      "tags": {
+        "addr:housenumber": "25-26",
+        "addr:postcode": "EC3M 7HR",
+        "addr:street": "Lime Street",
+        "name": "Michael's Shoe Care",
+        "shop": "locksmith",
+        "website": "http://www.michaelsshoecare.com/branches.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3339836556,
+      "lat": 51.5163033,
+      "lon": -0.0822028,
+      "tags": {
+        "addr:housenumber": "22-24",
+        "addr:postcode": "EC2M 1RQ",
+        "addr:street": "Wormwood Street",
+        "amenity": "bureau_de_change",
+        "name": "Thomas Exchange Global",
+        "phone": "020 3725 5740",
+        "shop": "bureau_de_change",
+        "website": "https://www.thomasexchangeglobal.co.uk/contact-us.php"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3340674785,
+      "lat": 51.5139749,
+      "lon": -0.0943736,
+      "tags": {
+        "name": "Vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3340677381,
+      "lat": 51.5139539,
+      "lon": -0.0942522,
+      "tags": {
+        "name": "EE",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3340683299,
+      "lat": 51.5136926,
+      "lon": -0.0877451,
+      "tags": {
+        "name": "The East India Company",
+        "shop": "luxury"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3340683301,
+      "lat": 51.5142724,
+      "lon": -0.0959812,
+      "tags": {
+        "amenity": "fashion",
+        "name": "Accessorize",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3340684502,
+      "lat": 51.5134078,
+      "lon": -0.0904551,
+      "tags": {
+        "name": "Austin Reed",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3341683469,
+      "lat": 51.5171596,
+      "lon": -0.081284,
+      "tags": {
+        "amenity": "bureau_de_change",
+        "name": "City Forex",
+        "shop": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3356875069,
+      "lat": 51.515233,
+      "lon": -0.0970003,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Unit 5",
+        "addr:postcode": "EC2V 6BJ",
+        "addr:street": "Cheapside",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3356884658,
+      "lat": 51.5147552,
+      "lon": -0.097374,
+      "tags": {
+        "name": "St Paul's Co-op",
+        "operator": "Co-op",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3361674394,
+      "lat": 51.5181344,
+      "lon": -0.0780059,
+      "tags": {
+        "name": "Guards of London",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3362467163,
+      "lat": 51.5124816,
+      "lon": -0.0845282,
+      "tags": {
+        "name": "EE",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3375577904,
+      "lat": 51.5105386,
+      "lon": -0.0864853,
+      "tags": {
+        "name": "Runners Need",
+        "note": "within Snow and Rock",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3397558294,
+      "lat": 51.513312,
+      "lon": -0.0844418,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3455347503,
+      "lat": 51.5173272,
+      "lon": -0.0973819,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "200",
+        "addr:postcode": "EC1A 4HD",
+        "addr:street": "Aldersgate",
+        "name": "Giant St Paul's",
+        "service": "repair",
+        "shop": "bicycle",
+        "source": "local_knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3480523788,
+      "lat": 51.5118606,
+      "lon": -0.0780174,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "London",
+        "addr:housenumber": "6,",
+        "addr:postcode": "EC3N 3AX",
+        "addr:street": "Lloyd's Avenue",
+        "name": "Unbolted",
+        "shop": "pawnbroker",
+        "website": "https://unbolted.com/uk/",
+        "wikipedia": "en:Unbolted"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3580324093,
+      "lat": 51.5134509,
+      "lon": -0.0862909,
+      "tags": {
+        "name": "Louis Vuitton",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3582625419,
+      "lat": 51.5113193,
+      "lon": -0.0897581,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "78A",
+        "addr:postcode": "EC4N 6HL",
+        "addr:street": "Cannon Street",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "430538",
+        "fhrs:local_authority_id": "PI/000021385",
+        "name": "M&S Simply Food",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3582629695,
+      "lat": 51.5111924,
+      "lon": -0.088921,
+      "tags": {
+        "name": "Sainsbury's Local",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3589850607,
+      "lat": 51.5171731,
+      "lon": -0.0830399,
+      "tags": {
+        "name": "Sweet Express",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3589867271,
+      "lat": 51.5171283,
+      "lon": -0.0824126,
+      "tags": {
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3605041070,
+      "lat": 51.5171614,
+      "lon": -0.082334,
+      "tags": {
+        "name": "Edward Holland",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3605041074,
+      "lat": 51.5171556,
+      "lon": -0.0820829,
+      "tags": {
+        "name": "D'Argent",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3605041076,
+      "lat": 51.5171302,
+      "lon": -0.0822085,
+      "tags": {
+        "name": "The Beauty Box",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3605043288,
+      "lat": 51.5171633,
+      "lon": -0.0824134,
+      "tags": {
+        "name": "Classiclean",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3605043349,
+      "lat": 51.5171283,
+      "lon": -0.0822739,
+      "tags": {
+        "name": "Leonidas",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3613604700,
+      "lat": 51.5147804,
+      "lon": -0.099189,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "10",
+        "addr:postcode": "EC4M 7DX",
+        "addr:street": "Paternoster Square",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Sainsbury's",
+        "phone": "+44 20 7200 8400",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3622502560,
+      "lat": 51.5146132,
+      "lon": -0.0962336,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "143",
+        "addr:postcode": "EC2V 6BJ",
+        "addr:street": "Cheapside",
+        "name": "Eat",
+        "shop": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3631245690,
+      "lat": 51.5178871,
+      "lon": -0.0809419,
+      "tags": {
+        "addr:housenumber": "1A",
+        "addr:postcode": "EC2M 3YD",
+        "addr:street": "Bishopsgate Arcade",
+        "name": "Michael's Shoe Care",
+        "shop": "locksmith",
+        "website": "http://www.michaelsshoecare.com/branches.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3631354853,
+      "lat": 51.5178588,
+      "lon": -0.0808104,
+      "tags": {
+        "name": "Sweet Selection",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3632721825,
+      "lat": 51.5176812,
+      "lon": -0.0783184,
+      "tags": {
+        "name": "Therapy",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3636959723,
+      "lat": 51.519346,
+      "lon": -0.079595,
+      "tags": {
+        "name": "Optix",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3636959726,
+      "lat": 51.518173,
+      "lon": -0.0802503,
+      "tags": {
+        "name": "Timberland",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3636960113,
+      "lat": 51.5184499,
+      "lon": -0.0788991,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Artillery Lane",
+        "name": "Gallery 13",
+        "shop": "art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3636960121,
+      "lat": 51.5184253,
+      "lon": -0.0791548,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Artillery Lane",
+        "name": "Edward Holland",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092744,
+      "lat": 51.5225758,
+      "lon": -0.0975238,
+      "tags": {
+        "addr:street": "Goswell Road",
+        "name": "Barbican Greengrocers",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092745,
+      "lat": 51.5227723,
+      "lon": -0.0976702,
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:street": "Goswell Road",
+        "name": "Barbican News",
+        "phone": "020 7253 0580",
+        "security": "ADT",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092747,
+      "lat": 51.5225228,
+      "lon": -0.0974913,
+      "tags": {
+        "addr:street": "Goswell Road",
+        "name": "City Clean",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092748,
+      "lat": 51.5220158,
+      "lon": -0.0971973,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Goswell Road",
+        "name": "City Hardware",
+        "security": "ADT",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092749,
+      "lat": 51.5226403,
+      "lon": -0.0975703,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Goswell Road",
+        "name": "Clifford Hairdesser",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092751,
+      "lat": 51.5223813,
+      "lon": -0.0973986,
+      "tags": {
+        "addr:street": "Goswell Road",
+        "name": "CrossEyes#",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092753,
+      "lat": 51.5226862,
+      "lon": -0.0976043,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Goswell Road",
+        "name": "Ultima Hair Design",
+        "phone": "020 7253 0464",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656092754,
+      "lat": 51.5227279,
+      "lon": -0.0976313,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "Goswell Road",
+        "name": "Wine Shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3660611628,
+      "lat": 51.5197662,
+      "lon": -0.0966801,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Lauderdale Tower",
+        "addr:postcode": "EC2Y 8BY",
+        "name": "Geranium",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3665546925,
+      "lat": 51.516295,
+      "lon": -0.0777139,
+      "tags": {
+        "name": "Jonnys Place Hairshop",
+        "shop": "hairdresser",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702963811,
+      "lat": 51.5170672,
+      "lon": -0.0834063,
+      "tags": {
+        "name": "Phase Eight",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702963812,
+      "lat": 51.5166918,
+      "lon": -0.0835657,
+      "tags": {
+        "name": "Rituals",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702964038,
+      "lat": 51.5169875,
+      "lon": -0.0834546,
+      "tags": {
+        "name": "Jones",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3708230630,
+      "lat": 51.5145912,
+      "lon": -0.0805473,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Notes",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3713528468,
+      "lat": 51.511152,
+      "lon": -0.0841773,
+      "tags": {
+        "name": "Pure",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735862991,
+      "lat": 51.5181843,
+      "lon": -0.0790769,
+      "tags": {
+        "name": "Kiw E1",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735863287,
+      "lat": 51.5180467,
+      "lon": -0.079447,
+      "tags": {
+        "name": "City Dry Cleaning Co",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735864419,
+      "lat": 51.5179708,
+      "lon": -0.0796203,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "200",
+        "addr:postcode": "EC2M 4NR",
+        "addr:street": "Bishopsgate",
+        "amenity": "pharmacy",
+        "branch": "London Bishopsgate",
+        "brand": "Boots",
+        "contact:phone": "+44 20 7283 9544",
+        "contact:website": "http://www.boots.com/stores/1103-london-bishopsgate-ec2m-4nr",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "295074",
+        "fhrs:local_authority_id": "PI/000020482",
+        "medical_supply": "yes",
+        "name": "Boots",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-20:00; Su 12:00-18:00",
+        "operator": "Boots UK Limited",
+        "ref": "1103",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735864420,
+      "lat": 51.5175983,
+      "lon": -0.0801204,
+      "tags": {
+        "name": "Talking Heads Hair Studio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735864536,
+      "lat": 51.5179683,
+      "lon": -0.0789923,
+      "tags": {
+        "name": "East End Cosmetics",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735867650,
+      "lat": 51.5180081,
+      "lon": -0.0791939,
+      "tags": {
+        "name": "Oliver Sweeney",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735867876,
+      "lat": 51.5180511,
+      "lon": -0.0795354,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "206-210",
+        "addr:postcode": "EC2M 4NR",
+        "addr:street": "Bishopsgate",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "456957",
+        "fhrs:local_authority_id": "PI/000020274",
+        "name": "Kiosk",
+        "shop": "newsagent",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735867877,
+      "lat": 51.5179341,
+      "lon": -0.079674,
+      "tags": {
+        "name": "William Hill",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735867879,
+      "lat": 51.5175738,
+      "lon": -0.0801524,
+      "tags": {
+        "name": "Krystals Express",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748264404,
+      "lat": 51.5181518,
+      "lon": -0.0844542,
+      "tags": {
+        "name": "Charles Tyrwhitt",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748264406,
+      "lat": 51.5187644,
+      "lon": -0.0876717,
+      "tags": {
+        "name": "T. M. Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748265229,
+      "lat": 51.5189162,
+      "lon": -0.0872342,
+      "tags": {
+        "name": "Sartoria",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748265230,
+      "lat": 51.5188203,
+      "lon": -0.0876396,
+      "tags": {
+        "name": "Italian Suit Co",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748265231,
+      "lat": 51.5186943,
+      "lon": -0.0876986,
+      "tags": {
+        "name": "Luggage Zone",
+        "shop": "bag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748265664,
+      "lat": 51.5180959,
+      "lon": -0.0843181,
+      "tags": {
+        "name": "T. M. Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3748265666,
+      "lat": 51.5188887,
+      "lon": -0.087606,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3751791428,
+      "lat": 51.5140531,
+      "lon": -0.0747774,
+      "tags": {
+        "name": "City Slickers",
+        "phone": "0274884958",
+        "shop": "dry_cleaning",
+        "website": "www.cityslickerslondon.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3751798527,
+      "lat": 51.5140213,
+      "lon": -0.0748823,
+      "tags": {
+        "name": "Barbe-Rousse",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3768818002,
+      "lat": 51.515444,
+      "lon": -0.084192,
+      "tags": {
+        "name": "Paul",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3788896806,
+      "lat": 51.5120941,
+      "lon": -0.0903697,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "23",
+        "addr:postcode": "EC4N 8AF",
+        "addr:street": "Walbrook",
+        "name": "Little Waitrose",
+        "opening_hours": "Mo-Fr 06:30 - 21:00; Sa 12:00 - 17:00; Su off",
+        "operator": "Waitrose Ltd",
+        "phone": "+44 20 7929 4818",
+        "shop": "convenience",
+        "website": "http://www.waitrose.com/content/waitrose/en/bf_home/bf/573.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3794329185,
+      "lat": 51.5176577,
+      "lon": -0.0810378,
+      "tags": {
+        "level": "-1",
+        "name": "Toko Jewellery",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3794341943,
+      "lat": 51.5175976,
+      "lon": -0.0810747,
+      "tags": {
+        "level": "-1",
+        "name": "Sweet Chariot",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3794341944,
+      "lat": 51.5169401,
+      "lon": -0.0802938,
+      "tags": {
+        "name": "The English Wine & Spirits Company",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3794345289,
+      "lat": 51.5169372,
+      "lon": -0.0802824,
+      "tags": {
+        "name": "Devonshire Row Hair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904058536,
+      "lat": 51.520572,
+      "lon": -0.0927306,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Cromwell Tower",
+        "addr:postcode": "EC2Y 8DD",
+        "addr:street": "Silk Street",
+        "name": "Barbican Chimes Music Shop",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3970060997,
+      "lat": 51.5118538,
+      "lon": -0.0838313,
+      "tags": {
+        "name": "Cycle Republic",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997516207,
+      "lat": 51.5148749,
+      "lon": -0.0788224,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:street": "Bevis Marks",
+        "name": "Burlington Bertie",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4002425284,
+      "lat": 51.5201605,
+      "lon": -0.0977254,
+      "tags": {
+        "name": "Snak Express",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102419601,
+      "lat": 51.5190098,
+      "lon": -0.0833532,
+      "tags": {
+        "name": "Yauatcha",
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4136278301,
+      "lat": 51.5136679,
+      "lon": -0.0863663,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:postcode": "EC3V 3NL",
+        "name": "L.K. Bennett",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "phone": "+44 (0)20 7283 4744",
+        "shop": "clothes",
+        "website": "http://www.lkbennett.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223474120,
+      "lat": 51.5146333,
+      "lon": -0.0867028,
+      "tags": {
+        "name": "Euphorium",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317140696,
+      "lat": 51.513813,
+      "lon": -0.091854,
+      "tags": {
+        "addr:housenumber": "86",
+        "name": "Roderick Charles",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317146692,
+      "lat": 51.513803,
+      "lon": -0.091859,
+      "tags": {
+        "addr:housenumber": "90",
+        "name": "Church's",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317146693,
+      "lat": 51.513777,
+      "lon": -0.091656,
+      "tags": {
+        "addr:housenumber": "84",
+        "name": "Barker",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317179189,
+      "lat": 51.513775,
+      "lon": -0.091722,
+      "tags": {
+        "addr:housenumber": "85",
+        "name": "TM Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4348232603,
+      "lat": 51.5182972,
+      "lon": -0.0850575,
+      "tags": {
+        "name": "Hugo Boss",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4350664889,
+      "lat": 51.5187368,
+      "lon": -0.0858205,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379801320,
+      "lat": 51.5139247,
+      "lon": -0.101321,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391979715,
+      "lat": 51.5171329,
+      "lon": -0.0828056,
+      "tags": {
+        "craft": "jeweller",
+        "name": "City Watch Services",
+        "shop": "watches"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391979716,
+      "lat": 51.5171338,
+      "lon": -0.0829388,
+      "tags": {
+        "name": "Fone Doctors",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402594985,
+      "lat": 51.5119562,
+      "lon": -0.0827756,
+      "tags": {
+        "name": "Shirts & Ties Venice",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402602484,
+      "lat": 51.5118902,
+      "lon": -0.082041,
+      "tags": {
+        "name": "Solo Homo",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402602533,
+      "lat": 51.5119454,
+      "lon": -0.0826828,
+      "tags": {
+        "name": "Jeffery West",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4404528131,
+      "lat": 51.5124609,
+      "lon": -0.0827034,
+      "tags": {
+        "name": "The Factory Store",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4404528132,
+      "lat": 51.5118187,
+      "lon": -0.0820374,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428609657,
+      "lat": 51.5133036,
+      "lon": -0.0897457,
+      "tags": {
+        "level": "-1",
+        "name": "Fresh Collection",
+        "note": "In subway",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4430908352,
+      "lat": 51.5134754,
+      "lon": -0.080445,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4430908421,
+      "lat": 51.5134754,
+      "lon": -0.080445,
+      "tags": {
+        "name": "Coral",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453344988,
+      "lat": 51.5145695,
+      "lon": -0.0847068,
+      "tags": {
+        "name": "Forever Us Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4490144909,
+      "lat": 51.5137663,
+      "lon": -0.0915169,
+      "tags": {
+        "name": "Savoy Taylors Guild",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501836276,
+      "lat": 51.5171246,
+      "lon": -0.0889281,
+      "tags": {
+        "name": "Wintons",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501839131,
+      "lat": 51.517174,
+      "lon": -0.08892,
+      "tags": {
+        "name": "Copperfield",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501841789,
+      "lat": 51.5170943,
+      "lon": -0.0889302,
+      "tags": {
+        "name": "Leonard Jay",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501844425,
+      "lat": 51.5170108,
+      "lon": -0.0889586,
+      "tags": {
+        "name": "Suited & Booted",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513027306,
+      "lat": 51.5180655,
+      "lon": -0.084309,
+      "tags": {
+        "name": "Molton Brown",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513031544,
+      "lat": 51.5178438,
+      "lon": -0.0845611,
+      "tags": {
+        "name": "Warehouse",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513034776,
+      "lat": 51.5177618,
+      "lon": -0.084714,
+      "tags": {
+        "name": "T.M. Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4532363024,
+      "lat": 51.5141902,
+      "lon": -0.1029477,
+      "tags": {
+        "name": "Charles Tyrwhitt",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534328536,
+      "lat": 51.5134954,
+      "lon": -0.0847709,
+      "tags": {
+        "name": "French Connection",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4548254491,
+      "lat": 51.5138296,
+      "lon": -0.0754691,
+      "tags": {
+        "name": "Aldgate Travel Goods",
+        "shop": "bag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4548309989,
+      "lat": 51.5133443,
+      "lon": -0.0756348,
+      "tags": {
+        "name": "Food & Wine",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566427235,
+      "lat": 51.5128406,
+      "lon": -0.0835849,
+      "tags": {
+        "name": "The Pen Shop",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566430653,
+      "lat": 51.512599,
+      "lon": -0.083408,
+      "tags": {
+        "name": "Barbour",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566433452,
+      "lat": 51.5124295,
+      "lon": -0.0835117,
+      "tags": {
+        "name": "Hobbs",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566475410,
+      "lat": 51.5124873,
+      "lon": -0.0837185,
+      "tags": {
+        "name": "Snappy Snaps",
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566874103,
+      "lat": 51.512467,
+      "lon": -0.0838121,
+      "tags": {
+        "name": "Knots & Socks",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4566889578,
+      "lat": 51.5125105,
+      "lon": -0.0840483,
+      "tags": {
+        "name": "The Glass House",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4576855306,
+      "lat": 51.5104782,
+      "lon": -0.0838607,
+      "tags": {
+        "name": "Maplin",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4582595092,
+      "lat": 51.5132554,
+      "lon": -0.0865402,
+      "tags": {
+        "name": "TM Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584963340,
+      "lat": 51.5129337,
+      "lon": -0.0857676,
+      "tags": {
+        "name": "John Haynes & Co.",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4599266077,
+      "lat": 51.5119618,
+      "lon": -0.0892005,
+      "tags": {
+        "name": "John W Hooke",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4599301604,
+      "lat": 51.5114585,
+      "lon": -0.0890081,
+      "tags": {
+        "name": "L'Occitane",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4601684016,
+      "lat": 51.5131532,
+      "lon": -0.0933264,
+      "tags": {
+        "name": "Khops",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4603155359,
+      "lat": 51.5133044,
+      "lon": -0.0930355,
+      "tags": {
+        "name": "Graham Browne",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617766390,
+      "lat": 51.5100646,
+      "lon": -0.0868337,
+      "tags": {
+        "name": "Waitrose",
+        "name:en": "Waitrose",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621845441,
+      "lat": 51.5109579,
+      "lon": -0.087344,
+      "tags": {
+        "name": "Cards Galore",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4628672425,
+      "lat": 51.5117347,
+      "lon": -0.0809707,
+      "tags": {
+        "name": "Flight Centre",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4628672426,
+      "lat": 51.5117768,
+      "lon": -0.0808422,
+      "tags": {
+        "name": "Chatoo & Son",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4681223855,
+      "lat": 51.5144484,
+      "lon": -0.1047735,
+      "tags": {
+        "name": "The Groomer",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683826096,
+      "lat": 51.5161071,
+      "lon": -0.1083388,
+      "tags": {
+        "name": "Oliver Bonas",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683826099,
+      "lat": 51.5158831,
+      "lon": -0.1084181,
+      "tags": {
+        "name": "TM Lewin",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683826101,
+      "lat": 51.5160044,
+      "lon": -0.1080152,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684958739,
+      "lat": 51.5152969,
+      "lon": -0.0827121,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "55",
+        "addr:postcode": "EC2N 3AS",
+        "addr:street": "Bishopsgate",
+        "amenity": "pharmacy",
+        "branch": "London Bishopsgate",
+        "contact:website": "http://www.boots.com/stores/2122-london-bishopsgate-ec2n-3as",
+        "dispensing": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "926270",
+        "fhrs:local_authority_id": "PI/000030218",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "ref": "2122",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4685242185,
+      "lat": 51.5142616,
+      "lon": -0.1096363,
+      "tags": {
+        "name": "Holland & Barrett",
+        "shop": "farm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691514033,
+      "lat": 51.5138431,
+      "lon": -0.1101874,
+      "tags": {
+        "name": "Jupp Fine Jewellery",
+        "payment:american_express": "yes",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691514038,
+      "lat": 51.5137842,
+      "lon": -0.1104864,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "23",
+        "addr:postcode": "EC4Y 1AA",
+        "addr:street": "Fleet Street",
+        "contact:website": "http://www.stanley-ley.co.uk/",
+        "name": "Stanley Ley",
+        "shop": "tailor",
+        "source": "gps+mapnoter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713360280,
+      "lat": 51.5173988,
+      "lon": -0.0829766,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Liverpool Street Station",
+        "addr:postcode": "EC2M 7NX",
+        "name": "Lush",
+        "phone": "020 7247 6983",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4718553521,
+      "lat": 51.5115528,
+      "lon": -0.0792519,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Fenchurch Street Railway Station",
+        "addr:postcode": "EC3M 4AJ",
+        "addr:street": "Fenchurch Place",
+        "addr:unit": "Retail Unit 1, Lower Concourse",
+        "entrance": "yes",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "293880",
+        "fhrs:local_authority_id": "PI/000005582",
+        "level": "0",
+        "name": "Superdrug",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4718553522,
+      "lat": 51.5115946,
+      "lon": -0.0791547,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Fenchurch Street Station",
+        "addr:postcode": "EC3M 4AJ",
+        "addr:street": "Cooper's Row",
+        "addr:unit": "Retail Unit 10a",
+        "fhrs:authority": "City of London Corporation",
+        "fhrs:id": "744858",
+        "fhrs:local_authority_id": "PI/000018830",
+        "level": "1",
+        "name": "Marks and Spencer to Go",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4718553525,
+      "lat": 51.5105662,
+      "lon": -0.0801504,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "55",
+        "addr:postcode": "EC3R 7NE",
+        "addr:street": "Mark Lane",
+        "branch": "Mark Lane",
+        "contact:phone": "+44 20 3040 0160",
+        "contact:website": "https://www.evanscycles.com/store/mark-lane",
+        "level": "-1",
+        "name": "Evans Cycles",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00",
+        "shop": "bicycle",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746785642,
+      "lat": 51.513789,
+      "lon": -0.0917806,
+      "tags": {
+        "addr:housenumber": "86",
+        "name": "roderick Charles",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4781014848,
+      "lat": 51.5157398,
+      "lon": -0.0789346,
+      "tags": {
+        "name": "Bolatti",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4789950321,
+      "lat": 51.5170736,
+      "lon": -0.0943803,
+      "tags": {
+        "addr:street": "wood street 88",
+        "name": "HP inc.  UK",
+        "shop": "computer"
+      }
+    }
+  ]
+}

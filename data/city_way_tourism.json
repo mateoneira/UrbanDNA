@@ -1,0 +1,3295 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-16T15:14:05Z",
+    "timestamp_areas_base": "2017-05-16T13:18:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 29390379,
+      "center": {
+        "lat": 51.5122618,
+        "lon": -0.1046417
+      },
+      "nodes": [
+        323264351,
+        4658088746,
+        4658089032,
+        4658088751,
+        4658089035,
+        4658089029,
+        323264352,
+        323264354,
+        1459662982,
+        1459662977,
+        1459662938,
+        1459662890,
+        323264355,
+        323264351
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Blackfriars House",
+        "addr:housenumber": "19",
+        "addr:postcode": "EC4V 6DB",
+        "addr:street": "New Bridge Street",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "8",
+        "building:material": "stone",
+        "name": "Crowne Plaza : The City",
+        "source:addr": "FHRS Open Data",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30806422,
+      "center": {
+        "lat": 51.5173757,
+        "lon": -0.081576
+      },
+      "nodes": [
+        341348132,
+        1271776175,
+        1271776170,
+        1271776174,
+        1271776171,
+        1511892077,
+        3794539908,
+        3813640263,
+        3813640266,
+        3813640270,
+        3813640271,
+        3813640272,
+        1586461659,
+        3813640275,
+        3813640280,
+        1586476611,
+        3813640284,
+        1511892100,
+        1753230487,
+        1511892104,
+        1271776169,
+        3589870418,
+        341348118,
+        3813640255,
+        3550836104,
+        341348121,
+        341348126,
+        341348132
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "40",
+        "addr:postcode": "EC2M 7QN",
+        "addr:street": "Liverpool Street",
+        "building": "yes",
+        "name": "Andaz Liverpool Street",
+        "name:ko": "안다즈 리버풀 스트리트",
+        "tourism": "hotel",
+        "website": "www.london.liverpoolstreet.andaz.hyatt.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32455185,
+      "center": {
+        "lat": 51.5107326,
+        "lon": -0.0764683
+      },
+      "nodes": [
+        1536019916,
+        3314730029,
+        2143782719,
+        1536019926,
+        1536019910,
+        1536019923,
+        3314730040,
+        3314730036,
+        3314730041,
+        1536019916
+      ],
+      "tags": {
+        "addr:housenumber": "8-14",
+        "addr:street": "Cooper's Row",
+        "building": "yes",
+        "name": "Grange City Hotel",
+        "operator": "Grange Hotels",
+        "phone": "+44 20 7863 3700",
+        "postal_code": "EC3N 2BQ",
+        "tourism": "hotel",
+        "website": "http://www.grangehotels.com/Hotels-London/Grange-City-Hotel/Grange-City-Hotel.aspx"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43706245,
+      "center": {
+        "lat": 51.5149096,
+        "lon": -0.1081642
+      },
+      "nodes": [
+        747591277,
+        553073410,
+        747591279,
+        758770221,
+        747591277
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Dr Johnson's House",
+        "addr:housenumber": "17",
+        "addr:postcode": "EC4A 3DE",
+        "addr:street": "Gough Square",
+        "building": "yes",
+        "building:levels": "3",
+        "contact:phone": "+44 20 73533745",
+        "contact:website": "http://www.drjohnsonshouse.org/",
+        "historic": "building",
+        "name": "Dr Johnson's House",
+        "opening_hours": "Oct-Apr: Mo-Sa 11:00-17:00; May-Sep: Mo-Sa 11:00-17:30",
+        "roof:levels": "1",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikipedia": "en:Dr Johnson's House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 82677869,
+      "center": {
+        "lat": 51.5155995,
+        "lon": -0.077336
+      },
+      "nodes": [
+        962270972,
+        962270974,
+        299521073,
+        962270979,
+        2918365199,
+        962273307,
+        377494063,
+        962270982,
+        2918365401,
+        962270972
+      ],
+      "tags": {
+        "brand": "Travelodge",
+        "building": "yes",
+        "name": "Travelodge London Liverpool Street",
+        "note": "approximate outline",
+        "source": "survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118722497,
+      "center": {
+        "lat": 51.5132428,
+        "lon": -0.1010222
+      },
+      "nodes": [
+        1334645197,
+        1334645234,
+        1334645281,
+        1334645233,
+        4379801347,
+        1334645280,
+        1334645195,
+        1334645269,
+        1334645197
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "light_brown",
+        "building:levels": "3",
+        "building:material": "brick",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Grange, St Paul's - Suites",
+        "operator": "Grange Hotels",
+        "roof:levels": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141393955,
+      "center": {
+        "lat": 51.5109487,
+        "lon": -0.0783423
+      },
+      "nodes": [
+        1547657097,
+        1547657040,
+        1547657080,
+        1547657122,
+        1547657065,
+        1547657037,
+        1547657101,
+        1547657097
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "7",
+        "addr:postcode": "EC3N 4AF",
+        "addr:street": "Pepys Street",
+        "building": "yes",
+        "contact:facebook": "http://www.facebook.com/DoubletreeByHiltonLondonTowerOfLondon",
+        "contact:google_plus": "https://plus.google.com/+DoubleTreebyHiltonTowerofLondon",
+        "email": "lontlreservations@hilton.com",
+        "name": "DoubleTree by Hilton Hotel London - Tower of London",
+        "operator": "Hilton",
+        "phone": "+44 20 7709 1000",
+        "smoking": "no",
+        "stars": "4",
+        "tourism": "hotel",
+        "twitter": "https://twitter.com/doubletreetol",
+        "website": "http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-london-tower-of-london-LONTLDI/index.html?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6LONTLDI",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143426675,
+      "center": {
+        "lat": 51.5127677,
+        "lon": -0.0758632
+      },
+      "nodes": [
+        1569475765,
+        1569475904,
+        1569475878,
+        1569475858,
+        1569475567,
+        1569475599,
+        1569475765
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hotel Indigo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156172966,
+      "center": {
+        "lat": 51.5155184,
+        "lon": -0.0914123
+      },
+      "nodes": [
+        1312264659,
+        1312264560,
+        1684549824,
+        1312264626,
+        794003482,
+        1718566768,
+        1312264530,
+        1312264588,
+        1312264655,
+        1312264553,
+        1312264612,
+        1312264523,
+        1293215612,
+        794003484,
+        1684549833,
+        1684549832,
+        1684549831,
+        1312264659
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Guildhall Art Gallery",
+        "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-16:00",
+        "operator": "City of London Corporation",
+        "tourism": "museum",
+        "wikipedia": "en:Guildhall Art Gallery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159646583,
+      "center": {
+        "lat": 51.5136965,
+        "lon": -0.0900747
+      },
+      "nodes": [
+        1717643450,
+        1717643445,
+        1717643437,
+        1717643435,
+        1717643432,
+        1717643430,
+        1717643426,
+        1717643429,
+        1717643428,
+        1717643431,
+        1717643433,
+        1717643444,
+        1569300037,
+        1569300059,
+        1569300053,
+        1569300078,
+        1569300050,
+        1717643451,
+        1717643452,
+        1717643453,
+        1717643458,
+        1717643456,
+        1717643457,
+        1717643462,
+        1717643455,
+        1717643464,
+        1717643468,
+        1717643471,
+        1717643474,
+        1717643449,
+        1717643450
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Ned",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160140566,
+      "center": {
+        "lat": 51.516,
+        "lon": -0.088183
+      },
+      "nodes": [
+        1722104885,
+        1722118777,
+        1722118775,
+        1722118764,
+        2987898764,
+        1722118762,
+        2987912736,
+        2987912735,
+        2987912734,
+        1722118773,
+        1722118774,
+        1722104883,
+        1722104884,
+        1722104885
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Apex London Wall Hotel",
+        "name:zh": "伦敦先瑞伦敦墙酒店",
+        "source": "Bing",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161288702,
+      "center": {
+        "lat": 51.5109748,
+        "lon": -0.0892392
+      },
+      "nodes": [
+        702800770,
+        1732787481,
+        1732787573,
+        1732787429,
+        4623139010,
+        1678227066,
+        1678226994,
+        1732787710,
+        702800770
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Suffolk Lane by BridgeStreet",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161420186,
+      "center": {
+        "lat": 51.5137253,
+        "lon": -0.1109253
+      },
+      "nodes": [
+        1733914729,
+        1417256202,
+        1733914717,
+        1733914671,
+        4689775134,
+        1733914686,
+        1733914691,
+        1733914729
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Prince Henry's Room",
+        "operator": "City of London Corporation",
+        "source": "Bing;survey",
+        "tourism": "museum",
+        "website": "http://www.cityoflondon.gov.uk/Corporation/LGNL_Services/Leisure_and_culture/Local_history_and_heritage/Buildings_within_the_City/prince_henrys.htm",
+        "wikipedia": "en:Prince Henry's Room"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161420212,
+      "center": {
+        "lat": 51.5135946,
+        "lon": -0.1103049
+      },
+      "nodes": [
+        1733914695,
+        1733914700,
+        1733914678,
+        1733914684,
+        1733914669,
+        1733914636,
+        1733914614,
+        1733914612,
+        1733914581,
+        1733914585,
+        1733914568,
+        1733914452,
+        1733914480,
+        1733914564,
+        1733914569,
+        1733914599,
+        1733914593,
+        1733914663,
+        1733914666,
+        1733914695
+      ],
+      "tags": {
+        "addr:postcode": "EC4Y 1AA",
+        "addr:street": "Fleet Street",
+        "building": "yes",
+        "name": "Z City Hotel",
+        "source": "Bing",
+        "tourism": "hotel",
+        "website": "http://www.thezhotels.com/contact/city"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166769128,
+      "center": {
+        "lat": 51.513335,
+        "lon": -0.0879669
+      },
+      "nodes": [
+        1782069920,
+        1782069930,
+        1782069931,
+        1782069929,
+        1782069928,
+        1782069926,
+        1782069919,
+        1782069921,
+        1782069922,
+        1782069925,
+        1782069924,
+        1782069923,
+        1782069920
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "air_shaft",
+        "name": "James Henry Greathead",
+        "source": "Bing",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168325260,
+      "center": {
+        "lat": 51.5126698,
+        "lon": -0.0752245
+      },
+      "nodes": [
+        1633018586,
+        1796137601,
+        1796137575,
+        1796137591,
+        1796137593,
+        1796137595,
+        1796137600,
+        1796137598,
+        1796137602,
+        1633018586
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "12",
+        "name": "Motel One",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 172664019,
+      "center": {
+        "lat": 51.5126807,
+        "lon": -0.0997202
+      },
+      "nodes": [
+        1835456461,
+        1835456457,
+        1835456458,
+        1835456455,
+        1835456456,
+        1835456452,
+        1835456451,
+        1835456453,
+        1835456454,
+        1835456459,
+        1835456460,
+        1835456462,
+        4376615756,
+        1835456461
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "10",
+        "addr:place": "St Paul's",
+        "addr:postcode": "EC4V 5AJ",
+        "addr:street": "Godliman Street",
+        "building": "yes",
+        "email": "stpauls@grangehotels.com",
+        "fax": "+442070741100",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Grange, St Paul's",
+        "operator": "Grange Hotels",
+        "phone": "+442070741000",
+        "tourism": "hotel",
+        "website": "http://www.grangehotels.com/hotels-london/grange-st-pauls-hotel/grange-st-pauls-hotel.aspx"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225107436,
+      "center": {
+        "lat": 51.5110227,
+        "lon": -0.0735352
+      },
+      "nodes": [
+        2339296924,
+        2339296929,
+        2339296930,
+        2339296927,
+        2339296926,
+        2339296928,
+        2339296931,
+        2339296934,
+        2339296935,
+        2339296936,
+        2339296937,
+        2339296939,
+        2339296944,
+        2339296943,
+        2339296940,
+        2339296938,
+        2339296942,
+        2339296941,
+        2339296945,
+        2339296948,
+        2339296946,
+        2339296947,
+        2339296933,
+        2339296932,
+        2339296925,
+        2339296924
+      ],
+      "tags": {
+        "addr:housename": "Lloyds Court Business Centre",
+        "addr:housenumber": "1",
+        "addr:street": "Goodmans Yard",
+        "building": "hotel",
+        "name": "Travelodge",
+        "postal_code": "E1 8AT",
+        "tourism": "hotel",
+        "website": "http://www.travelodge.co.uk/search_and_book/hotel_overview.php?hotel_id=391"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256568922,
+      "center": {
+        "lat": 51.513467,
+        "lon": -0.0884174
+      },
+      "nodes": [
+        2622174147,
+        2622174148,
+        2622174150,
+        2622174153,
+        2622174154,
+        2622174156,
+        2622174155,
+        2622174152,
+        2622174151,
+        2622174149,
+        2622174146,
+        2622174144,
+        2622174142,
+        2622174140,
+        2622174141,
+        2622174143,
+        2622174145,
+        2622174147
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "yes",
+        "name": "Duke of Wellington",
+        "source": "Bing",
+        "start_date": "1844",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256570706,
+      "center": {
+        "lat": 51.5135079,
+        "lon": -0.0880568
+      },
+      "nodes": [
+        2622192955,
+        2622192952,
+        2622192953,
+        2622192958,
+        2622192955
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "yes",
+        "name": "London Troops War Memorial",
+        "source": "Bing",
+        "tourism": "artwork",
+        "wikidata": "Q18575165",
+        "wikipedia": "en:London Troops War Memorial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274709746,
+      "center": {
+        "lat": 51.5139532,
+        "lon": -0.0853631
+      },
+      "nodes": [
+        2793905012,
+        2793905027,
+        2793905017,
+        2793905013,
+        2793905011,
+        2793905009,
+        2793904993,
+        2793904991,
+        2793904985,
+        2793904976,
+        2793904971,
+        2793904968,
+        2793904978,
+        2793904975,
+        2793904977,
+        2283341706,
+        2283341710,
+        2793904994,
+        2793904999,
+        2793905001,
+        2793905003,
+        2793905005,
+        2793905006,
+        2793905008,
+        2793905007,
+        2283341712,
+        2283341714,
+        2283341716,
+        2793905012
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Threadneedles Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435775218,
+      "center": {
+        "lat": 51.5105757,
+        "lon": -0.0773292
+      },
+      "nodes": [
+        1561411258,
+        4336708534,
+        4336708540,
+        4336708532,
+        4336708541,
+        4336708531,
+        4336708536,
+        4336708530,
+        4336708533,
+        4336708538,
+        4336708539,
+        1561411384,
+        1561411331,
+        1561411227,
+        1561411351,
+        1561411239,
+        1561411259,
+        1561411437,
+        1561411365,
+        1561411362,
+        1561411464,
+        1561411257,
+        1561411258
+      ],
+      "tags": {
+        "brand": "Novotel",
+        "building": "yes",
+        "name": "Novotel London Tower Bridge",
+        "operator": "Accor",
+        "rooms": "203",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29390379,
+      "nodes": [
+        323264351,
+        4658088746,
+        4658089032,
+        4658088751,
+        4658089035,
+        4658089029,
+        323264352,
+        323264354,
+        1459662982,
+        1459662977,
+        1459662938,
+        1459662890,
+        323264355,
+        323264351
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Blackfriars House",
+        "addr:housenumber": "19",
+        "addr:postcode": "EC4V 6DB",
+        "addr:street": "New Bridge Street",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "8",
+        "building:material": "stone",
+        "name": "Crowne Plaza : The City",
+        "source:addr": "FHRS Open Data",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30806422,
+      "nodes": [
+        341348132,
+        1271776175,
+        1271776170,
+        1271776174,
+        1271776171,
+        1511892077,
+        3794539908,
+        3813640263,
+        3813640266,
+        3813640270,
+        3813640271,
+        3813640272,
+        1586461659,
+        3813640275,
+        3813640280,
+        1586476611,
+        3813640284,
+        1511892100,
+        1753230487,
+        1511892104,
+        1271776169,
+        3589870418,
+        341348118,
+        3813640255,
+        3550836104,
+        341348121,
+        341348126,
+        341348132
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "40",
+        "addr:postcode": "EC2M 7QN",
+        "addr:street": "Liverpool Street",
+        "building": "yes",
+        "name": "Andaz Liverpool Street",
+        "name:ko": "안다즈 리버풀 스트리트",
+        "tourism": "hotel",
+        "website": "www.london.liverpoolstreet.andaz.hyatt.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32455185,
+      "nodes": [
+        1536019916,
+        3314730029,
+        2143782719,
+        1536019926,
+        1536019910,
+        1536019923,
+        3314730040,
+        3314730036,
+        3314730041,
+        1536019916
+      ],
+      "tags": {
+        "addr:housenumber": "8-14",
+        "addr:street": "Cooper's Row",
+        "building": "yes",
+        "name": "Grange City Hotel",
+        "operator": "Grange Hotels",
+        "phone": "+44 20 7863 3700",
+        "postal_code": "EC3N 2BQ",
+        "tourism": "hotel",
+        "website": "http://www.grangehotels.com/Hotels-London/Grange-City-Hotel/Grange-City-Hotel.aspx"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43706245,
+      "nodes": [
+        747591277,
+        553073410,
+        747591279,
+        758770221,
+        747591277
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Dr Johnson's House",
+        "addr:housenumber": "17",
+        "addr:postcode": "EC4A 3DE",
+        "addr:street": "Gough Square",
+        "building": "yes",
+        "building:levels": "3",
+        "contact:phone": "+44 20 73533745",
+        "contact:website": "http://www.drjohnsonshouse.org/",
+        "historic": "building",
+        "name": "Dr Johnson's House",
+        "opening_hours": "Oct-Apr: Mo-Sa 11:00-17:00; May-Sep: Mo-Sa 11:00-17:30",
+        "roof:levels": "1",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikipedia": "en:Dr Johnson's House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 82677869,
+      "nodes": [
+        962270972,
+        962270974,
+        299521073,
+        962270979,
+        2918365199,
+        962273307,
+        377494063,
+        962270982,
+        2918365401,
+        962270972
+      ],
+      "tags": {
+        "brand": "Travelodge",
+        "building": "yes",
+        "name": "Travelodge London Liverpool Street",
+        "note": "approximate outline",
+        "source": "survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118722497,
+      "nodes": [
+        1334645197,
+        1334645234,
+        1334645281,
+        1334645233,
+        4379801347,
+        1334645280,
+        1334645195,
+        1334645269,
+        1334645197
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "light_brown",
+        "building:levels": "3",
+        "building:material": "brick",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Grange, St Paul's - Suites",
+        "operator": "Grange Hotels",
+        "roof:levels": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141393955,
+      "nodes": [
+        1547657097,
+        1547657040,
+        1547657080,
+        1547657122,
+        1547657065,
+        1547657037,
+        1547657101,
+        1547657097
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "7",
+        "addr:postcode": "EC3N 4AF",
+        "addr:street": "Pepys Street",
+        "building": "yes",
+        "contact:facebook": "http://www.facebook.com/DoubletreeByHiltonLondonTowerOfLondon",
+        "contact:google_plus": "https://plus.google.com/+DoubleTreebyHiltonTowerofLondon",
+        "email": "lontlreservations@hilton.com",
+        "name": "DoubleTree by Hilton Hotel London - Tower of London",
+        "operator": "Hilton",
+        "phone": "+44 20 7709 1000",
+        "smoking": "no",
+        "stars": "4",
+        "tourism": "hotel",
+        "twitter": "https://twitter.com/doubletreetol",
+        "website": "http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-london-tower-of-london-LONTLDI/index.html?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6LONTLDI",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143426675,
+      "nodes": [
+        1569475765,
+        1569475904,
+        1569475878,
+        1569475858,
+        1569475567,
+        1569475599,
+        1569475765
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hotel Indigo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156172966,
+      "nodes": [
+        1312264659,
+        1312264560,
+        1684549824,
+        1312264626,
+        794003482,
+        1718566768,
+        1312264530,
+        1312264588,
+        1312264655,
+        1312264553,
+        1312264612,
+        1312264523,
+        1293215612,
+        794003484,
+        1684549833,
+        1684549832,
+        1684549831,
+        1312264659
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Guildhall Art Gallery",
+        "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-16:00",
+        "operator": "City of London Corporation",
+        "tourism": "museum",
+        "wikipedia": "en:Guildhall Art Gallery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159646583,
+      "nodes": [
+        1717643450,
+        1717643445,
+        1717643437,
+        1717643435,
+        1717643432,
+        1717643430,
+        1717643426,
+        1717643429,
+        1717643428,
+        1717643431,
+        1717643433,
+        1717643444,
+        1569300037,
+        1569300059,
+        1569300053,
+        1569300078,
+        1569300050,
+        1717643451,
+        1717643452,
+        1717643453,
+        1717643458,
+        1717643456,
+        1717643457,
+        1717643462,
+        1717643455,
+        1717643464,
+        1717643468,
+        1717643471,
+        1717643474,
+        1717643449,
+        1717643450
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Ned",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160140566,
+      "nodes": [
+        1722104885,
+        1722118777,
+        1722118775,
+        1722118764,
+        2987898764,
+        1722118762,
+        2987912736,
+        2987912735,
+        2987912734,
+        1722118773,
+        1722118774,
+        1722104883,
+        1722104884,
+        1722104885
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Apex London Wall Hotel",
+        "name:zh": "伦敦先瑞伦敦墙酒店",
+        "source": "Bing",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161288702,
+      "nodes": [
+        702800770,
+        1732787481,
+        1732787573,
+        1732787429,
+        4623139010,
+        1678227066,
+        1678226994,
+        1732787710,
+        702800770
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Suffolk Lane by BridgeStreet",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161420186,
+      "nodes": [
+        1733914729,
+        1417256202,
+        1733914717,
+        1733914671,
+        4689775134,
+        1733914686,
+        1733914691,
+        1733914729
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Prince Henry's Room",
+        "operator": "City of London Corporation",
+        "source": "Bing;survey",
+        "tourism": "museum",
+        "website": "http://www.cityoflondon.gov.uk/Corporation/LGNL_Services/Leisure_and_culture/Local_history_and_heritage/Buildings_within_the_City/prince_henrys.htm",
+        "wikipedia": "en:Prince Henry's Room"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161420212,
+      "nodes": [
+        1733914695,
+        1733914700,
+        1733914678,
+        1733914684,
+        1733914669,
+        1733914636,
+        1733914614,
+        1733914612,
+        1733914581,
+        1733914585,
+        1733914568,
+        1733914452,
+        1733914480,
+        1733914564,
+        1733914569,
+        1733914599,
+        1733914593,
+        1733914663,
+        1733914666,
+        1733914695
+      ],
+      "tags": {
+        "addr:postcode": "EC4Y 1AA",
+        "addr:street": "Fleet Street",
+        "building": "yes",
+        "name": "Z City Hotel",
+        "source": "Bing",
+        "tourism": "hotel",
+        "website": "http://www.thezhotels.com/contact/city"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166769128,
+      "nodes": [
+        1782069920,
+        1782069930,
+        1782069931,
+        1782069929,
+        1782069928,
+        1782069926,
+        1782069919,
+        1782069921,
+        1782069922,
+        1782069925,
+        1782069924,
+        1782069923,
+        1782069920
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "air_shaft",
+        "name": "James Henry Greathead",
+        "source": "Bing",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168325260,
+      "nodes": [
+        1633018586,
+        1796137601,
+        1796137575,
+        1796137591,
+        1796137593,
+        1796137595,
+        1796137600,
+        1796137598,
+        1796137602,
+        1633018586
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "12",
+        "name": "Motel One",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 172664019,
+      "nodes": [
+        1835456461,
+        1835456457,
+        1835456458,
+        1835456455,
+        1835456456,
+        1835456452,
+        1835456451,
+        1835456453,
+        1835456454,
+        1835456459,
+        1835456460,
+        1835456462,
+        4376615756,
+        1835456461
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "10",
+        "addr:place": "St Paul's",
+        "addr:postcode": "EC4V 5AJ",
+        "addr:street": "Godliman Street",
+        "building": "yes",
+        "email": "stpauls@grangehotels.com",
+        "fax": "+442070741100",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Grange, St Paul's",
+        "operator": "Grange Hotels",
+        "phone": "+442070741000",
+        "tourism": "hotel",
+        "website": "http://www.grangehotels.com/hotels-london/grange-st-pauls-hotel/grange-st-pauls-hotel.aspx"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225107436,
+      "nodes": [
+        2339296924,
+        2339296929,
+        2339296930,
+        2339296927,
+        2339296926,
+        2339296928,
+        2339296931,
+        2339296934,
+        2339296935,
+        2339296936,
+        2339296937,
+        2339296939,
+        2339296944,
+        2339296943,
+        2339296940,
+        2339296938,
+        2339296942,
+        2339296941,
+        2339296945,
+        2339296948,
+        2339296946,
+        2339296947,
+        2339296933,
+        2339296932,
+        2339296925,
+        2339296924
+      ],
+      "tags": {
+        "addr:housename": "Lloyds Court Business Centre",
+        "addr:housenumber": "1",
+        "addr:street": "Goodmans Yard",
+        "building": "hotel",
+        "name": "Travelodge",
+        "postal_code": "E1 8AT",
+        "tourism": "hotel",
+        "website": "http://www.travelodge.co.uk/search_and_book/hotel_overview.php?hotel_id=391"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256568922,
+      "nodes": [
+        2622174147,
+        2622174148,
+        2622174150,
+        2622174153,
+        2622174154,
+        2622174156,
+        2622174155,
+        2622174152,
+        2622174151,
+        2622174149,
+        2622174146,
+        2622174144,
+        2622174142,
+        2622174140,
+        2622174141,
+        2622174143,
+        2622174145,
+        2622174147
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "yes",
+        "name": "Duke of Wellington",
+        "source": "Bing",
+        "start_date": "1844",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256570706,
+      "nodes": [
+        2622192955,
+        2622192952,
+        2622192953,
+        2622192958,
+        2622192955
+      ],
+      "tags": {
+        "artwork_type": "statue",
+        "building": "yes",
+        "name": "London Troops War Memorial",
+        "source": "Bing",
+        "tourism": "artwork",
+        "wikidata": "Q18575165",
+        "wikipedia": "en:London Troops War Memorial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274709746,
+      "nodes": [
+        2793905012,
+        2793905027,
+        2793905017,
+        2793905013,
+        2793905011,
+        2793905009,
+        2793904993,
+        2793904991,
+        2793904985,
+        2793904976,
+        2793904971,
+        2793904968,
+        2793904978,
+        2793904975,
+        2793904977,
+        2283341706,
+        2283341710,
+        2793904994,
+        2793904999,
+        2793905001,
+        2793905003,
+        2793905005,
+        2793905006,
+        2793905008,
+        2793905007,
+        2283341712,
+        2283341714,
+        2283341716,
+        2793905012
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Threadneedles Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435775218,
+      "nodes": [
+        1561411258,
+        4336708534,
+        4336708540,
+        4336708532,
+        4336708541,
+        4336708531,
+        4336708536,
+        4336708530,
+        4336708533,
+        4336708538,
+        4336708539,
+        1561411384,
+        1561411331,
+        1561411227,
+        1561411351,
+        1561411239,
+        1561411259,
+        1561411437,
+        1561411365,
+        1561411362,
+        1561411464,
+        1561411257,
+        1561411258
+      ],
+      "tags": {
+        "brand": "Novotel",
+        "building": "yes",
+        "name": "Novotel London Tower Bridge",
+        "operator": "Accor",
+        "rooms": "203",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 323264354,
+      "lat": 51.5120823,
+      "lon": -0.1048891
+    },
+    {
+      "type": "node",
+      "id": 1417256202,
+      "lat": 51.5137701,
+      "lon": -0.1109565
+    },
+    {
+      "type": "node",
+      "id": 1459662977,
+      "lat": 51.5121625,
+      "lon": -0.1048952
+    },
+    {
+      "type": "node",
+      "id": 1459662982,
+      "lat": 51.5121605,
+      "lon": -0.1048717
+    },
+    {
+      "type": "node",
+      "id": 1733914452,
+      "lat": 51.5134778,
+      "lon": -0.11018
+    },
+    {
+      "type": "node",
+      "id": 1733914480,
+      "lat": 51.5134825,
+      "lon": -0.1103598
+    },
+    {
+      "type": "node",
+      "id": 1733914564,
+      "lat": 51.513556,
+      "lon": -0.1103883
+    },
+    {
+      "type": "node",
+      "id": 1733914568,
+      "lat": 51.5135592,
+      "lon": -0.1102077
+    },
+    {
+      "type": "node",
+      "id": 1733914569,
+      "lat": 51.513562,
+      "lon": -0.1103324
+    },
+    {
+      "type": "node",
+      "id": 1733914581,
+      "lat": 51.5135697,
+      "lon": -0.1102699
+    },
+    {
+      "type": "node",
+      "id": 1733914585,
+      "lat": 51.5135726,
+      "lon": -0.110234
+    },
+    {
+      "type": "node",
+      "id": 1733914593,
+      "lat": 51.5135886,
+      "lon": -0.1104009
+    },
+    {
+      "type": "node",
+      "id": 1733914599,
+      "lat": 51.513595,
+      "lon": -0.1103447
+    },
+    {
+      "type": "node",
+      "id": 1733914612,
+      "lat": 51.5136056,
+      "lon": -0.1102851
+    },
+    {
+      "type": "node",
+      "id": 1733914614,
+      "lat": 51.5136103,
+      "lon": -0.1102491
+    },
+    {
+      "type": "node",
+      "id": 1733914636,
+      "lat": 51.5136233,
+      "lon": -0.110234
+    },
+    {
+      "type": "node",
+      "id": 1733914663,
+      "lat": 51.5136629,
+      "lon": -0.1104297
+    },
+    {
+      "type": "node",
+      "id": 1733914666,
+      "lat": 51.5136692,
+      "lon": -0.1103816
+    },
+    {
+      "type": "node",
+      "id": 1733914669,
+      "lat": 51.5136736,
+      "lon": -0.1102542
+    },
+    {
+      "type": "node",
+      "id": 1733914671,
+      "lat": 51.513674,
+      "lon": -0.1109575
+    },
+    {
+      "type": "node",
+      "id": 1733914678,
+      "lat": 51.5136757,
+      "lon": -0.1103258
+    },
+    {
+      "type": "node",
+      "id": 1733914684,
+      "lat": 51.5136816,
+      "lon": -0.1102728
+    },
+    {
+      "type": "node",
+      "id": 1733914686,
+      "lat": 51.5136831,
+      "lon": -0.1109065
+    },
+    {
+      "type": "node",
+      "id": 1733914691,
+      "lat": 51.5136916,
+      "lon": -0.110859
+    },
+    {
+      "type": "node",
+      "id": 1733914695,
+      "lat": 51.5137014,
+      "lon": -0.1104005
+    },
+    {
+      "type": "node",
+      "id": 1733914700,
+      "lat": 51.5137113,
+      "lon": -0.110343
+    },
+    {
+      "type": "node",
+      "id": 1733914717,
+      "lat": 51.5137626,
+      "lon": -0.1109915
+    },
+    {
+      "type": "node",
+      "id": 1733914729,
+      "lat": 51.5137766,
+      "lon": -0.1108953
+    },
+    {
+      "type": "node",
+      "id": 4689775134,
+      "lat": 51.51368,
+      "lon": -0.1109239
+    },
+    {
+      "type": "node",
+      "id": 553073410,
+      "lat": 51.5148777,
+      "lon": -0.1081274
+    },
+    {
+      "type": "node",
+      "id": 747591277,
+      "lat": 51.5148751,
+      "lon": -0.108198
+    },
+    {
+      "type": "node",
+      "id": 747591279,
+      "lat": 51.514944,
+      "lon": -0.1081338
+    },
+    {
+      "type": "node",
+      "id": 758770221,
+      "lat": 51.5149417,
+      "lon": -0.108201
+    },
+    {
+      "type": "node",
+      "id": 323264351,
+      "lat": 51.5124636,
+      "lon": -0.1043882
+    },
+    {
+      "type": "node",
+      "id": 323264352,
+      "lat": 51.512043,
+      "lon": -0.104401
+    },
+    {
+      "type": "node",
+      "id": 323264355,
+      "lat": 51.5124805,
+      "lon": -0.1048006
+    },
+    {
+      "type": "node",
+      "id": 1334645195,
+      "lat": 51.5132129,
+      "lon": -0.1009424
+    },
+    {
+      "type": "node",
+      "id": 1334645197,
+      "lat": 51.5133477,
+      "lon": -0.1010709
+    },
+    {
+      "type": "node",
+      "id": 1334645233,
+      "lat": 51.5131688,
+      "lon": -0.1011524
+    },
+    {
+      "type": "node",
+      "id": 1334645234,
+      "lat": 51.5131987,
+      "lon": -0.1011572
+    },
+    {
+      "type": "node",
+      "id": 1334645269,
+      "lat": 51.513297,
+      "lon": -0.1008824
+    },
+    {
+      "type": "node",
+      "id": 1334645280,
+      "lat": 51.5131379,
+      "lon": -0.1009986
+    },
+    {
+      "type": "node",
+      "id": 1334645281,
+      "lat": 51.5131798,
+      "lon": -0.101162
+    },
+    {
+      "type": "node",
+      "id": 1459662890,
+      "lat": 51.5124066,
+      "lon": -0.1048187
+    },
+    {
+      "type": "node",
+      "id": 1459662938,
+      "lat": 51.5124089,
+      "lon": -0.1048409
+    },
+    {
+      "type": "node",
+      "id": 1835456451,
+      "lat": 51.5124545,
+      "lon": -0.100213
+    },
+    {
+      "type": "node",
+      "id": 1835456452,
+      "lat": 51.5125254,
+      "lon": -0.0992088
+    },
+    {
+      "type": "node",
+      "id": 1835456453,
+      "lat": 51.5125983,
+      "lon": -0.1002315
+    },
+    {
+      "type": "node",
+      "id": 1835456454,
+      "lat": 51.5126079,
+      "lon": -0.1001052
+    },
+    {
+      "type": "node",
+      "id": 1835456455,
+      "lat": 51.5126692,
+      "lon": -0.0992827
+    },
+    {
+      "type": "node",
+      "id": 1835456456,
+      "lat": 51.512675,
+      "lon": -0.099215
+    },
+    {
+      "type": "node",
+      "id": 1835456457,
+      "lat": 51.5127152,
+      "lon": -0.0992273
+    },
+    {
+      "type": "node",
+      "id": 1835456458,
+      "lat": 51.5127171,
+      "lon": -0.0992766
+    },
+    {
+      "type": "node",
+      "id": 1835456459,
+      "lat": 51.5127593,
+      "lon": -0.1000867
+    },
+    {
+      "type": "node",
+      "id": 1835456460,
+      "lat": 51.512767,
+      "lon": -0.100213
+    },
+    {
+      "type": "node",
+      "id": 1835456461,
+      "lat": 51.5128667,
+      "lon": -0.099255
+    },
+    {
+      "type": "node",
+      "id": 1835456462,
+      "lat": 51.5129069,
+      "lon": -0.1001945
+    },
+    {
+      "type": "node",
+      "id": 4376615756,
+      "lat": 51.5129013,
+      "lon": -0.1000645
+    },
+    {
+      "type": "node",
+      "id": 4379801347,
+      "lat": 51.5131478,
+      "lon": -0.1010477
+    },
+    {
+      "type": "node",
+      "id": 4658088746,
+      "lat": 51.512461,
+      "lon": -0.1043883
+    },
+    {
+      "type": "node",
+      "id": 4658088751,
+      "lat": 51.5122534,
+      "lon": -0.1043946
+    },
+    {
+      "type": "node",
+      "id": 4658089029,
+      "lat": 51.512049,
+      "lon": -0.1044008
+    },
+    {
+      "type": "node",
+      "id": 4658089032,
+      "lat": 51.5123022,
+      "lon": -0.1043931
+    },
+    {
+      "type": "node",
+      "id": 4658089035,
+      "lat": 51.5122075,
+      "lon": -0.104396
+    },
+    {
+      "type": "node",
+      "id": 702800770,
+      "lat": 51.5108892,
+      "lon": -0.0893769
+    },
+    {
+      "type": "node",
+      "id": 1569300037,
+      "lat": 51.5136339,
+      "lon": -0.0896585
+    },
+    {
+      "type": "node",
+      "id": 1569300050,
+      "lat": 51.5137933,
+      "lon": -0.0896102
+    },
+    {
+      "type": "node",
+      "id": 1569300053,
+      "lat": 51.5137491,
+      "lon": -0.089586
+    },
+    {
+      "type": "node",
+      "id": 1569300059,
+      "lat": 51.5136598,
+      "lon": -0.0896397
+    },
+    {
+      "type": "node",
+      "id": 1569300078,
+      "lat": 51.5137558,
+      "lon": -0.0896249
+    },
+    {
+      "type": "node",
+      "id": 1678226994,
+      "lat": 51.510917,
+      "lon": -0.0893627
+    },
+    {
+      "type": "node",
+      "id": 1678227066,
+      "lat": 51.5111032,
+      "lon": -0.0892269
+    },
+    {
+      "type": "node",
+      "id": 1717643426,
+      "lat": 51.5134565,
+      "lon": -0.0898215
+    },
+    {
+      "type": "node",
+      "id": 1717643428,
+      "lat": 51.5134665,
+      "lon": -0.0897903
+    },
+    {
+      "type": "node",
+      "id": 1717643429,
+      "lat": 51.5134706,
+      "lon": -0.0898149
+    },
+    {
+      "type": "node",
+      "id": 1717643430,
+      "lat": 51.5135173,
+      "lon": -0.0901868
+    },
+    {
+      "type": "node",
+      "id": 1717643431,
+      "lat": 51.513574,
+      "lon": -0.0897422
+    },
+    {
+      "type": "node",
+      "id": 1717643432,
+      "lat": 51.513574,
+      "lon": -0.0905278
+    },
+    {
+      "type": "node",
+      "id": 1717643433,
+      "lat": 51.5135828,
+      "lon": -0.0898007
+    },
+    {
+      "type": "node",
+      "id": 1717643435,
+      "lat": 51.5136005,
+      "lon": -0.0905146
+    },
+    {
+      "type": "node",
+      "id": 1717643437,
+      "lat": 51.5136092,
+      "lon": -0.0905633
+    },
+    {
+      "type": "node",
+      "id": 1717643444,
+      "lat": 51.5136528,
+      "lon": -0.0897724
+    },
+    {
+      "type": "node",
+      "id": 1717643445,
+      "lat": 51.5136565,
+      "lon": -0.0905378
+    },
+    {
+      "type": "node",
+      "id": 1717643449,
+      "lat": 51.513695,
+      "lon": -0.0904668
+    },
+    {
+      "type": "node",
+      "id": 1717643450,
+      "lat": 51.5137031,
+      "lon": -0.0905126
+    },
+    {
+      "type": "node",
+      "id": 1717643451,
+      "lat": 51.5138192,
+      "lon": -0.0897612
+    },
+    {
+      "type": "node",
+      "id": 1717643452,
+      "lat": 51.5138239,
+      "lon": -0.0897644
+    },
+    {
+      "type": "node",
+      "id": 1717643453,
+      "lat": 51.5138376,
+      "lon": -0.0897126
+    },
+    {
+      "type": "node",
+      "id": 1717643455,
+      "lat": 51.5138572,
+      "lon": -0.0899543
+    },
+    {
+      "type": "node",
+      "id": 1717643456,
+      "lat": 51.5138592,
+      "lon": -0.089786
+    },
+    {
+      "type": "node",
+      "id": 1717643457,
+      "lat": 51.5138617,
+      "lon": -0.0897985
+    },
+    {
+      "type": "node",
+      "id": 1717643458,
+      "lat": 51.5138712,
+      "lon": -0.0897315
+    },
+    {
+      "type": "node",
+      "id": 1717643462,
+      "lat": 51.5138895,
+      "lon": -0.0899392
+    },
+    {
+      "type": "node",
+      "id": 1717643464,
+      "lat": 51.5139006,
+      "lon": -0.0902133
+    },
+    {
+      "type": "node",
+      "id": 1717643468,
+      "lat": 51.5139171,
+      "lon": -0.0902074
+    },
+    {
+      "type": "node",
+      "id": 1717643471,
+      "lat": 51.5139227,
+      "lon": -0.0902504
+    },
+    {
+      "type": "node",
+      "id": 1717643474,
+      "lat": 51.5139365,
+      "lon": -0.0903556
+    },
+    {
+      "type": "node",
+      "id": 1732787429,
+      "lat": 51.5109784,
+      "lon": -0.0891821
+    },
+    {
+      "type": "node",
+      "id": 1732787481,
+      "lat": 51.5108463,
+      "lon": -0.0891827
+    },
+    {
+      "type": "node",
+      "id": 1732787573,
+      "lat": 51.510956,
+      "lon": -0.0891016
+    },
+    {
+      "type": "node",
+      "id": 1732787710,
+      "lat": 51.5109572,
+      "lon": -0.0893196
+    },
+    {
+      "type": "node",
+      "id": 1782069919,
+      "lat": 51.5133287,
+      "lon": -0.0879466
+    },
+    {
+      "type": "node",
+      "id": 1782069920,
+      "lat": 51.5133404,
+      "lon": -0.0879878
+    },
+    {
+      "type": "node",
+      "id": 1782069921,
+      "lat": 51.513328,
+      "lon": -0.0879536
+    },
+    {
+      "type": "node",
+      "id": 1782069922,
+      "lat": 51.5133289,
+      "lon": -0.0879812
+    },
+    {
+      "type": "node",
+      "id": 1782069923,
+      "lat": 51.5133383,
+      "lon": -0.0879959
+    },
+    {
+      "type": "node",
+      "id": 1782069924,
+      "lat": 51.5133353,
+      "lon": -0.0879963
+    },
+    {
+      "type": "node",
+      "id": 1782069925,
+      "lat": 51.513331,
+      "lon": -0.0879905
+    },
+    {
+      "type": "node",
+      "id": 1782069926,
+      "lat": 51.5133308,
+      "lon": -0.0879389
+    },
+    {
+      "type": "node",
+      "id": 1782069928,
+      "lat": 51.513335,
+      "lon": -0.0879375
+    },
+    {
+      "type": "node",
+      "id": 1782069929,
+      "lat": 51.5133396,
+      "lon": -0.0879422
+    },
+    {
+      "type": "node",
+      "id": 1782069930,
+      "lat": 51.5133421,
+      "lon": -0.0879771
+    },
+    {
+      "type": "node",
+      "id": 1782069931,
+      "lat": 51.5133412,
+      "lon": -0.087953
+    },
+    {
+      "type": "node",
+      "id": 2283341706,
+      "lat": 51.5137275,
+      "lon": -0.0855404
+    },
+    {
+      "type": "node",
+      "id": 2283341710,
+      "lat": 51.513862,
+      "lon": -0.0854654
+    },
+    {
+      "type": "node",
+      "id": 2283341712,
+      "lat": 51.5139197,
+      "lon": -0.0853742
+    },
+    {
+      "type": "node",
+      "id": 2283341714,
+      "lat": 51.5139298,
+      "lon": -0.0852211
+    },
+    {
+      "type": "node",
+      "id": 2283341716,
+      "lat": 51.5140568,
+      "lon": -0.0852457
+    },
+    {
+      "type": "node",
+      "id": 2622174140,
+      "lat": 51.5134446,
+      "lon": -0.0884202
+    },
+    {
+      "type": "node",
+      "id": 2622174141,
+      "lat": 51.5134458,
+      "lon": -0.0884371
+    },
+    {
+      "type": "node",
+      "id": 2622174142,
+      "lat": 51.5134465,
+      "lon": -0.088401
+    },
+    {
+      "type": "node",
+      "id": 2622174143,
+      "lat": 51.5134509,
+      "lon": -0.0884524
+    },
+    {
+      "type": "node",
+      "id": 2622174144,
+      "lat": 51.5134519,
+      "lon": -0.0883863
+    },
+    {
+      "type": "node",
+      "id": 2622174145,
+      "lat": 51.5134548,
+      "lon": -0.0884586
+    },
+    {
+      "type": "node",
+      "id": 2622174146,
+      "lat": 51.5134578,
+      "lon": -0.0883753
+    },
+    {
+      "type": "node",
+      "id": 2622174147,
+      "lat": 51.5134592,
+      "lon": -0.0884626
+    },
+    {
+      "type": "node",
+      "id": 2622174148,
+      "lat": 51.5134643,
+      "lon": -0.0884642
+    },
+    {
+      "type": "node",
+      "id": 2622174149,
+      "lat": 51.5134658,
+      "lon": -0.0883705
+    },
+    {
+      "type": "node",
+      "id": 2622174150,
+      "lat": 51.5134708,
+      "lon": -0.0884628
+    },
+    {
+      "type": "node",
+      "id": 2622174151,
+      "lat": 51.5134727,
+      "lon": -0.0883705
+    },
+    {
+      "type": "node",
+      "id": 2622174152,
+      "lat": 51.5134808,
+      "lon": -0.088377
+    },
+    {
+      "type": "node",
+      "id": 2622174153,
+      "lat": 51.5134808,
+      "lon": -0.0884493
+    },
+    {
+      "type": "node",
+      "id": 2622174154,
+      "lat": 51.5134857,
+      "lon": -0.0884363
+    },
+    {
+      "type": "node",
+      "id": 2622174155,
+      "lat": 51.5134883,
+      "lon": -0.0883959
+    },
+    {
+      "type": "node",
+      "id": 2622174156,
+      "lat": 51.5134894,
+      "lon": -0.0884171
+    },
+    {
+      "type": "node",
+      "id": 2622192952,
+      "lat": 51.5134955,
+      "lon": -0.0880659
+    },
+    {
+      "type": "node",
+      "id": 2622192953,
+      "lat": 51.5134991,
+      "lon": -0.0880403
+    },
+    {
+      "type": "node",
+      "id": 2622192955,
+      "lat": 51.5135167,
+      "lon": -0.0880734
+    },
+    {
+      "type": "node",
+      "id": 2622192958,
+      "lat": 51.5135203,
+      "lon": -0.0880478
+    },
+    {
+      "type": "node",
+      "id": 2793904968,
+      "lat": 51.5136933,
+      "lon": -0.0856738
+    },
+    {
+      "type": "node",
+      "id": 2793904971,
+      "lat": 51.5136986,
+      "lon": -0.0857117
+    },
+    {
+      "type": "node",
+      "id": 2793904975,
+      "lat": 51.5137044,
+      "lon": -0.0855927
+    },
+    {
+      "type": "node",
+      "id": 2793904976,
+      "lat": 51.5137077,
+      "lon": -0.0857513
+    },
+    {
+      "type": "node",
+      "id": 2793904977,
+      "lat": 51.5137098,
+      "lon": -0.0855472
+    },
+    {
+      "type": "node",
+      "id": 2793904978,
+      "lat": 51.5137198,
+      "lon": -0.0856593
+    },
+    {
+      "type": "node",
+      "id": 2793904985,
+      "lat": 51.513746,
+      "lon": -0.0857381
+    },
+    {
+      "type": "node",
+      "id": 2793904991,
+      "lat": 51.5137709,
+      "lon": -0.0858475
+    },
+    {
+      "type": "node",
+      "id": 2793904993,
+      "lat": 51.5138531,
+      "lon": -0.0857955
+    },
+    {
+      "type": "node",
+      "id": 2793904994,
+      "lat": 51.5138685,
+      "lon": -0.0854957
+    },
+    {
+      "type": "node",
+      "id": 2793904999,
+      "lat": 51.5138939,
+      "lon": -0.0854875
+    },
+    {
+      "type": "node",
+      "id": 2793905001,
+      "lat": 51.5138984,
+      "lon": -0.0854533
+    },
+    {
+      "type": "node",
+      "id": 2793905003,
+      "lat": 51.5139146,
+      "lon": -0.0854285
+    },
+    {
+      "type": "node",
+      "id": 2793905005,
+      "lat": 51.5139365,
+      "lon": -0.0854212
+    },
+    {
+      "type": "node",
+      "id": 2793905006,
+      "lat": 51.5139623,
+      "lon": -0.0854316
+    },
+    {
+      "type": "node",
+      "id": 2793905007,
+      "lat": 51.5139694,
+      "lon": -0.0853816
+    },
+    {
+      "type": "node",
+      "id": 2793905008,
+      "lat": 51.5139707,
+      "lon": -0.0854378
+    },
+    {
+      "type": "node",
+      "id": 2793905009,
+      "lat": 51.5139812,
+      "lon": -0.0857232
+    },
+    {
+      "type": "node",
+      "id": 2793905011,
+      "lat": 51.514073,
+      "lon": -0.0856938
+    },
+    {
+      "type": "node",
+      "id": 2793905013,
+      "lat": 51.5140923,
+      "lon": -0.0856668
+    },
+    {
+      "type": "node",
+      "id": 2793905017,
+      "lat": 51.5141156,
+      "lon": -0.0855445
+    },
+    {
+      "type": "node",
+      "id": 4623139010,
+      "lat": 51.5110655,
+      "lon": -0.0891158
+    },
+    {
+      "type": "node",
+      "id": 1547657037,
+      "lat": 51.5108323,
+      "lon": -0.0788057
+    },
+    {
+      "type": "node",
+      "id": 1547657065,
+      "lat": 51.5107113,
+      "lon": -0.0787909
+    },
+    {
+      "type": "node",
+      "id": 1547657097,
+      "lat": 51.5110485,
+      "lon": -0.0788365
+    },
+    {
+      "type": "node",
+      "id": 1547657101,
+      "lat": 51.5109859,
+      "lon": -0.0788325
+    },
+    {
+      "type": "node",
+      "id": 2793905012,
+      "lat": 51.5140766,
+      "lon": -0.0848787
+    },
+    {
+      "type": "node",
+      "id": 2793905027,
+      "lat": 51.514213,
+      "lon": -0.0849218
+    },
+    {
+      "type": "node",
+      "id": 794003484,
+      "lat": 51.5154151,
+      "lon": -0.0917536
+    },
+    {
+      "type": "node",
+      "id": 1684549833,
+      "lat": 51.5156668,
+      "lon": -0.0917598
+    },
+    {
+      "type": "node",
+      "id": 794003482,
+      "lat": 51.5154071,
+      "lon": -0.0910777
+    },
+    {
+      "type": "node",
+      "id": 1293215612,
+      "lat": 51.5154153,
+      "lon": -0.0916915
+    },
+    {
+      "type": "node",
+      "id": 1312264523,
+      "lat": 51.5153854,
+      "lon": -0.091691
+    },
+    {
+      "type": "node",
+      "id": 1312264530,
+      "lat": 51.51537,
+      "lon": -0.0911475
+    },
+    {
+      "type": "node",
+      "id": 1312264553,
+      "lat": 51.5154034,
+      "lon": -0.0914429
+    },
+    {
+      "type": "node",
+      "id": 1312264560,
+      "lat": 51.5156073,
+      "lon": -0.091094
+    },
+    {
+      "type": "node",
+      "id": 1312264588,
+      "lat": 51.515373,
+      "lon": -0.0913459
+    },
+    {
+      "type": "node",
+      "id": 1312264612,
+      "lat": 51.5153765,
+      "lon": -0.0914479
+    },
+    {
+      "type": "node",
+      "id": 1312264626,
+      "lat": 51.5155655,
+      "lon": -0.0910648
+    },
+    {
+      "type": "node",
+      "id": 1312264655,
+      "lat": 51.5154013,
+      "lon": -0.091344
+    },
+    {
+      "type": "node",
+      "id": 1312264659,
+      "lat": 51.5156311,
+      "lon": -0.0911259
+    },
+    {
+      "type": "node",
+      "id": 1684549824,
+      "lat": 51.5155683,
+      "lon": -0.0910947
+    },
+    {
+      "type": "node",
+      "id": 1684549831,
+      "lat": 51.5156376,
+      "lon": -0.0915095
+    },
+    {
+      "type": "node",
+      "id": 1684549832,
+      "lat": 51.5156636,
+      "lon": -0.0915065
+    },
+    {
+      "type": "node",
+      "id": 1718566768,
+      "lat": 51.5153884,
+      "lon": -0.091113
+    },
+    {
+      "type": "node",
+      "id": 1722104883,
+      "lat": 51.5160867,
+      "lon": -0.0883029
+    },
+    {
+      "type": "node",
+      "id": 1722104884,
+      "lat": 51.5160941,
+      "lon": -0.0884597
+    },
+    {
+      "type": "node",
+      "id": 1722104885,
+      "lat": 51.5161549,
+      "lon": -0.0884449
+    },
+    {
+      "type": "node",
+      "id": 1722118762,
+      "lat": 51.515845,
+      "lon": -0.0880248
+    },
+    {
+      "type": "node",
+      "id": 1722118764,
+      "lat": 51.5158702,
+      "lon": -0.087999
+    },
+    {
+      "type": "node",
+      "id": 1722118773,
+      "lat": 51.5160372,
+      "lon": -0.0881157
+    },
+    {
+      "type": "node",
+      "id": 1722118774,
+      "lat": 51.5160611,
+      "lon": -0.0883067
+    },
+    {
+      "type": "node",
+      "id": 1722118775,
+      "lat": 51.5160873,
+      "lon": -0.0879063
+    },
+    {
+      "type": "node",
+      "id": 1722118777,
+      "lat": 51.5161401,
+      "lon": -0.0882121
+    },
+    {
+      "type": "node",
+      "id": 2987898764,
+      "lat": 51.515872,
+      "lon": -0.0880129
+    },
+    {
+      "type": "node",
+      "id": 2987912734,
+      "lat": 51.5159865,
+      "lon": -0.0881348
+    },
+    {
+      "type": "node",
+      "id": 2987912735,
+      "lat": 51.5159987,
+      "lon": -0.0882524
+    },
+    {
+      "type": "node",
+      "id": 2987912736,
+      "lat": 51.5158763,
+      "lon": -0.0882801
+    },
+    {
+      "type": "node",
+      "id": 341348118,
+      "lat": 51.5174911,
+      "lon": -0.0824275
+    },
+    {
+      "type": "node",
+      "id": 341348121,
+      "lat": 51.5172908,
+      "lon": -0.0815263
+    },
+    {
+      "type": "node",
+      "id": 341348126,
+      "lat": 51.517214,
+      "lon": -0.0815704
+    },
+    {
+      "type": "node",
+      "id": 341348132,
+      "lat": 51.5171881,
+      "lon": -0.0815353
+    },
+    {
+      "type": "node",
+      "id": 1271776169,
+      "lat": 51.5177012,
+      "lon": -0.0823122
+    },
+    {
+      "type": "node",
+      "id": 1271776170,
+      "lat": 51.5170502,
+      "lon": -0.0810086
+    },
+    {
+      "type": "node",
+      "id": 1271776171,
+      "lat": 51.5172837,
+      "lon": -0.0808165
+    },
+    {
+      "type": "node",
+      "id": 1271776174,
+      "lat": 51.5172931,
+      "lon": -0.0808676
+    },
+    {
+      "type": "node",
+      "id": 1271776175,
+      "lat": 51.5171583,
+      "lon": -0.0814894
+    },
+    {
+      "type": "node",
+      "id": 1511892077,
+      "lat": 51.5174382,
+      "lon": -0.0807244
+    },
+    {
+      "type": "node",
+      "id": 1511892100,
+      "lat": 51.5177001,
+      "lon": -0.081996
+    },
+    {
+      "type": "node",
+      "id": 1511892104,
+      "lat": 51.5176413,
+      "lon": -0.082027
+    },
+    {
+      "type": "node",
+      "id": 1586461659,
+      "lat": 51.5175631,
+      "lon": -0.0813314
+    },
+    {
+      "type": "node",
+      "id": 1586476611,
+      "lat": 51.517648,
+      "lon": -0.0817434
+    },
+    {
+      "type": "node",
+      "id": 1753230487,
+      "lat": 51.5176726,
+      "lon": -0.0820107
+    },
+    {
+      "type": "node",
+      "id": 3550836104,
+      "lat": 51.5173049,
+      "lon": -0.0815894
+    },
+    {
+      "type": "node",
+      "id": 3589870418,
+      "lat": 51.5175205,
+      "lon": -0.0824114
+    },
+    {
+      "type": "node",
+      "id": 3794539908,
+      "lat": 51.5174411,
+      "lon": -0.0807399
+    },
+    {
+      "type": "node",
+      "id": 3813640255,
+      "lat": 51.5174304,
+      "lon": -0.0821418
+    },
+    {
+      "type": "node",
+      "id": 3813640263,
+      "lat": 51.5175018,
+      "lon": -0.081033
+    },
+    {
+      "type": "node",
+      "id": 3813640266,
+      "lat": 51.517524,
+      "lon": -0.0811414
+    },
+    {
+      "type": "node",
+      "id": 3813640270,
+      "lat": 51.5175456,
+      "lon": -0.0812463
+    },
+    {
+      "type": "node",
+      "id": 3813640271,
+      "lat": 51.517552,
+      "lon": -0.0812774
+    },
+    {
+      "type": "node",
+      "id": 3813640272,
+      "lat": 51.5175575,
+      "lon": -0.0813046
+    },
+    {
+      "type": "node",
+      "id": 3813640275,
+      "lat": 51.5175835,
+      "lon": -0.0814302
+    },
+    {
+      "type": "node",
+      "id": 3813640280,
+      "lat": 51.5176258,
+      "lon": -0.0816353
+    },
+    {
+      "type": "node",
+      "id": 3813640284,
+      "lat": 51.5176655,
+      "lon": -0.0818281
+    },
+    {
+      "type": "node",
+      "id": 1536019910,
+      "lat": 51.5107142,
+      "lon": -0.0764911
+    },
+    {
+      "type": "node",
+      "id": 1536019916,
+      "lat": 51.5108408,
+      "lon": -0.0768925
+    },
+    {
+      "type": "node",
+      "id": 1536019923,
+      "lat": 51.5107507,
+      "lon": -0.076044
+    },
+    {
+      "type": "node",
+      "id": 1536019926,
+      "lat": 51.5105678,
+      "lon": -0.0764604
+    },
+    {
+      "type": "node",
+      "id": 1547657040,
+      "lat": 51.5111762,
+      "lon": -0.0781123
+    },
+    {
+      "type": "node",
+      "id": 1547657080,
+      "lat": 51.5111862,
+      "lon": -0.0779085
+    },
+    {
+      "type": "node",
+      "id": 1547657122,
+      "lat": 51.5107731,
+      "lon": -0.0778481
+    },
+    {
+      "type": "node",
+      "id": 1561411227,
+      "lat": 51.5104422,
+      "lon": -0.077631
+    },
+    {
+      "type": "node",
+      "id": 1561411239,
+      "lat": 51.5106191,
+      "lon": -0.0776497
+    },
+    {
+      "type": "node",
+      "id": 1561411257,
+      "lat": 51.5104947,
+      "lon": -0.07706
+    },
+    {
+      "type": "node",
+      "id": 1561411258,
+      "lat": 51.5104532,
+      "lon": -0.077051
+    },
+    {
+      "type": "node",
+      "id": 1561411259,
+      "lat": 51.5106942,
+      "lon": -0.0776631
+    },
+    {
+      "type": "node",
+      "id": 1561411331,
+      "lat": 51.5104438,
+      "lon": -0.0776149
+    },
+    {
+      "type": "node",
+      "id": 1561411351,
+      "lat": 51.5106174,
+      "lon": -0.0776658
+    },
+    {
+      "type": "node",
+      "id": 1561411362,
+      "lat": 51.51067,
+      "lon": -0.0770301
+    },
+    {
+      "type": "node",
+      "id": 1561411365,
+      "lat": 51.5106675,
+      "lon": -0.0770476
+    },
+    {
+      "type": "node",
+      "id": 1561411384,
+      "lat": 51.5104089,
+      "lon": -0.0776095
+    },
+    {
+      "type": "node",
+      "id": 1561411437,
+      "lat": 51.5107426,
+      "lon": -0.0770677
+    },
+    {
+      "type": "node",
+      "id": 1561411464,
+      "lat": 51.510503,
+      "lon": -0.0769926
+    },
+    {
+      "type": "node",
+      "id": 1569475567,
+      "lat": 51.5128357,
+      "lon": -0.0759065
+    },
+    {
+      "type": "node",
+      "id": 1569475599,
+      "lat": 51.5128398,
+      "lon": -0.0758584
+    },
+    {
+      "type": "node",
+      "id": 1569475765,
+      "lat": 51.5128507,
+      "lon": -0.0757243
+    },
+    {
+      "type": "node",
+      "id": 1569475858,
+      "lat": 51.5128248,
+      "lon": -0.0760355
+    },
+    {
+      "type": "node",
+      "id": 1569475878,
+      "lat": 51.5126846,
+      "lon": -0.0760073
+    },
+    {
+      "type": "node",
+      "id": 1569475904,
+      "lat": 51.5127138,
+      "lon": -0.0756908
+    },
+    {
+      "type": "node",
+      "id": 1633018586,
+      "lat": 51.51277,
+      "lon": -0.0753885
+    },
+    {
+      "type": "node",
+      "id": 1796137575,
+      "lat": 51.512557,
+      "lon": -0.0754427
+    },
+    {
+      "type": "node",
+      "id": 1796137591,
+      "lat": 51.5125968,
+      "lon": -0.0749966
+    },
+    {
+      "type": "node",
+      "id": 1796137593,
+      "lat": 51.5126637,
+      "lon": -0.075012
+    },
+    {
+      "type": "node",
+      "id": 1796137595,
+      "lat": 51.5126677,
+      "lon": -0.0749669
+    },
+    {
+      "type": "node",
+      "id": 1796137598,
+      "lat": 51.5127032,
+      "lon": -0.0752323
+    },
+    {
+      "type": "node",
+      "id": 1796137600,
+      "lat": 51.5127256,
+      "lon": -0.0749802
+    },
+    {
+      "type": "node",
+      "id": 1796137601,
+      "lat": 51.512728,
+      "lon": -0.0754821
+    },
+    {
+      "type": "node",
+      "id": 1796137602,
+      "lat": 51.5127827,
+      "lon": -0.0752457
+    },
+    {
+      "type": "node",
+      "id": 2143782719,
+      "lat": 51.5105376,
+      "lon": -0.0767743
+    },
+    {
+      "type": "node",
+      "id": 2339296924,
+      "lat": 51.5109559,
+      "lon": -0.0740119
+    },
+    {
+      "type": "node",
+      "id": 2339296925,
+      "lat": 51.5109726,
+      "lon": -0.0730732
+    },
+    {
+      "type": "node",
+      "id": 2339296926,
+      "lat": 51.5109764,
+      "lon": -0.0740754
+    },
+    {
+      "type": "node",
+      "id": 2339296927,
+      "lat": 51.5109788,
+      "lon": -0.0740528
+    },
+    {
+      "type": "node",
+      "id": 2339296928,
+      "lat": 51.510982,
+      "lon": -0.0740968
+    },
+    {
+      "type": "node",
+      "id": 2339296929,
+      "lat": 51.5109869,
+      "lon": -0.0740133
+    },
+    {
+      "type": "node",
+      "id": 2339296930,
+      "lat": 51.5109876,
+      "lon": -0.0740387
+    },
+    {
+      "type": "node",
+      "id": 2339296931,
+      "lat": 51.5109946,
+      "lon": -0.0741076
+    },
+    {
+      "type": "node",
+      "id": 2339296932,
+      "lat": 51.510997,
+      "lon": -0.0730748
+    },
+    {
+      "type": "node",
+      "id": 2339296933,
+      "lat": 51.5109985,
+      "lon": -0.0729606
+    },
+    {
+      "type": "node",
+      "id": 2339296934,
+      "lat": 51.5110052,
+      "lon": -0.074107
+    },
+    {
+      "type": "node",
+      "id": 2339296935,
+      "lat": 51.511015,
+      "lon": -0.0740951
+    },
+    {
+      "type": "node",
+      "id": 2339296936,
+      "lat": 51.511027,
+      "lon": -0.0741064
+    },
+    {
+      "type": "node",
+      "id": 2339296937,
+      "lat": 51.5110421,
+      "lon": -0.0741098
+    },
+    {
+      "type": "node",
+      "id": 2339296938,
+      "lat": 51.5110428,
+      "lon": -0.0740268
+    },
+    {
+      "type": "node",
+      "id": 2339296939,
+      "lat": 51.5110519,
+      "lon": -0.0741042
+    },
+    {
+      "type": "node",
+      "id": 2339296940,
+      "lat": 51.5110533,
+      "lon": -0.0740534
+    },
+    {
+      "type": "node",
+      "id": 2339296941,
+      "lat": 51.5110544,
+      "lon": -0.07395
+    },
+    {
+      "type": "node",
+      "id": 2339296942,
+      "lat": 51.5110551,
+      "lon": -0.0740263
+    },
+    {
+      "type": "node",
+      "id": 2339296943,
+      "lat": 51.5110586,
+      "lon": -0.0740652
+    },
+    {
+      "type": "node",
+      "id": 2339296944,
+      "lat": 51.5110586,
+      "lon": -0.074081
+    },
+    {
+      "type": "node",
+      "id": 2339296945,
+      "lat": 51.5110712,
+      "lon": -0.0739506
+    },
+    {
+      "type": "node",
+      "id": 2339296946,
+      "lat": 51.5110715,
+      "lon": -0.0730788
+    },
+    {
+      "type": "node",
+      "id": 2339296947,
+      "lat": 51.511074,
+      "lon": -0.0729638
+    },
+    {
+      "type": "node",
+      "id": 2339296948,
+      "lat": 51.5110894,
+      "lon": -0.0730796
+    },
+    {
+      "type": "node",
+      "id": 3314730029,
+      "lat": 51.5107007,
+      "lon": -0.0768083
+    },
+    {
+      "type": "node",
+      "id": 3314730036,
+      "lat": 51.5108743,
+      "lon": -0.0765221
+    },
+    {
+      "type": "node",
+      "id": 3314730040,
+      "lat": 51.5109106,
+      "lon": -0.0760802
+    },
+    {
+      "type": "node",
+      "id": 3314730041,
+      "lat": 51.5109275,
+      "lon": -0.0765331
+    },
+    {
+      "type": "node",
+      "id": 4336708530,
+      "lat": 51.5105399,
+      "lon": -0.0773797
+    },
+    {
+      "type": "node",
+      "id": 4336708531,
+      "lat": 51.5105949,
+      "lon": -0.0772724
+    },
+    {
+      "type": "node",
+      "id": 4336708532,
+      "lat": 51.5104831,
+      "lon": -0.0772081
+    },
+    {
+      "type": "node",
+      "id": 4336708533,
+      "lat": 51.5104697,
+      "lon": -0.0773663
+    },
+    {
+      "type": "node",
+      "id": 4336708534,
+      "lat": 51.5104444,
+      "lon": -0.0771617
+    },
+    {
+      "type": "node",
+      "id": 4336708536,
+      "lat": 51.5105866,
+      "lon": -0.0773663
+    },
+    {
+      "type": "node",
+      "id": 4336708538,
+      "lat": 51.5104647,
+      "lon": -0.0774522
+    },
+    {
+      "type": "node",
+      "id": 4336708539,
+      "lat": 51.510422,
+      "lon": -0.0774442
+    },
+    {
+      "type": "node",
+      "id": 4336708540,
+      "lat": 51.5104881,
+      "lon": -0.0771678
+    },
+    {
+      "type": "node",
+      "id": 4336708541,
+      "lat": 51.5105632,
+      "lon": -0.0772268
+    },
+    {
+      "type": "node",
+      "id": 299521073,
+      "lat": 51.5157962,
+      "lon": -0.0775974
+    },
+    {
+      "type": "node",
+      "id": 377494063,
+      "lat": 51.5154281,
+      "lon": -0.0771006
+    },
+    {
+      "type": "node",
+      "id": 962270972,
+      "lat": 51.5157369,
+      "lon": -0.077676
+    },
+    {
+      "type": "node",
+      "id": 962270974,
+      "lat": 51.5157682,
+      "lon": -0.0776365
+    },
+    {
+      "type": "node",
+      "id": 962270979,
+      "lat": 51.5154916,
+      "lon": -0.0769961
+    },
+    {
+      "type": "node",
+      "id": 962270982,
+      "lat": 51.5154027,
+      "lon": -0.0771407
+    },
+    {
+      "type": "node",
+      "id": 962273307,
+      "lat": 51.5154398,
+      "lon": -0.0770808
+    },
+    {
+      "type": "node",
+      "id": 2918365199,
+      "lat": 51.5154847,
+      "lon": -0.0770059
+    },
+    {
+      "type": "node",
+      "id": 2918365401,
+      "lat": 51.5155283,
+      "lon": -0.0773572
+    }
+  ]
+}

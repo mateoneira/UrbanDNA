@@ -1,0 +1,676 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-16T15:09:05Z",
+    "timestamp_areas_base": "2017-05-16T13:18:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 249471729,
+      "lat": 51.5196707,
+      "lon": -0.0804526,
+      "tags": {
+        "name": "Broadgate Venus",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306680347,
+      "lat": 51.5130744,
+      "lon": -0.1003656,
+      "tags": {
+        "addr:housename": "36 Carter Lane, London",
+        "addr:postcode": "EC4V 5AB",
+        "fhrs:id": "293714",
+        "name": "YHA London St Pauls",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441958984,
+      "lat": 51.5132037,
+      "lon": -0.0971893,
+      "tags": {
+        "artist_name": "Georg Ehrlich",
+        "name": "The Young Lovers",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 675734360,
+      "lat": 51.5121008,
+      "lon": -0.0756938,
+      "tags": {
+        "addr:housenumber": "130-135",
+        "addr:street": "Minories",
+        "name": "The Chamberlain",
+        "operator": "Fuller's",
+        "tourism": "hotel",
+        "website": "http://www.fullershotels.com/rte.asp?id=13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692162507,
+      "lat": 51.5127056,
+      "lon": -0.0849374,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "EC3V 0DR",
+        "addr:street": "Gracechurch Street",
+        "name": "Club Quarters",
+        "phone": "0207 666 1620",
+        "tourism": "hotel",
+        "url": "www.clubquarters.com/loc_londonGracechurch.php"
+      }
+    },
+    {
+      "type": "node",
+      "id": 725258685,
+      "lat": 51.5134999,
+      "lon": -0.0889996,
+      "tags": {
+        "artwork_type": "sculpture",
+        "name": "Cosmos",
+        "operator": "elephant_parade",
+        "ref": "106",
+        "source": "http://www.flickr.com/photos/mywanderlust/4582089455",
+        "tourism": "artwork",
+        "url": "http://www.elephantparadelondon.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 725258700,
+      "lat": 51.5134786,
+      "lon": -0.088904,
+      "tags": {
+        "artwork_type": "sculpture",
+        "name": "Elephant Race Against Time",
+        "operator": "elephant_parade",
+        "ref": "74",
+        "source": "http://www.flickr.com/photos/mywanderlust/4582718368",
+        "tourism": "artwork",
+        "url": "http://www.elephantparadelondon.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 748072092,
+      "lat": 51.5143484,
+      "lon": -0.1004216,
+      "tags": {
+        "artist_name": "Thomas Heatherwick",
+        "name": "Angel's Wings",
+        "source": "bing;note#69575;http://commons.wikimedia.org/wiki/File:Angel%27s_Wings_Thomas_Heatherwick.jpg",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 795788290,
+      "lat": 51.5105583,
+      "lon": -0.0793762,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "EC3N 4AX",
+        "addr:street": "Seething Lane",
+        "email": "london.reservations@apexhotels.co.uk",
+        "name": "Apex City of London",
+        "phone": "+44 20 7702 2020",
+        "tourism": "hotel",
+        "website": "http://www.apexhotels.co.uk/hotels/city-of-london/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1109339085,
+      "lat": 51.5140478,
+      "lon": -0.0854869,
+      "tags": {
+        "name": "Threadneedle",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150003519,
+      "lat": 51.5182733,
+      "lon": -0.0838282,
+      "tags": {
+        "name": "Fulcrum",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1163955043,
+      "lat": 51.5146457,
+      "lon": -0.0989129,
+      "tags": {
+        "artist_name": "Elisabeth Frink",
+        "artwork_type": "sculpture",
+        "name": "Shepherd and Sheep",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1163955070,
+      "lat": 51.5141721,
+      "lon": -0.0977065,
+      "tags": {
+        "artwork_type": "sculpture",
+        "name": "Saint Paul",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668135508,
+      "lat": 51.5201444,
+      "lon": -0.0821543,
+      "tags": {
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668135509,
+      "lat": 51.5201567,
+      "lon": -0.0821806,
+      "tags": {
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668135511,
+      "lat": 51.5201661,
+      "lon": -0.0822032,
+      "tags": {
+        "name": "The Broad Family",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1719875319,
+      "lat": 51.5128076,
+      "lon": -0.0930861,
+      "tags": {
+        "name": "The Cordwainer",
+        "note": "Sculpture of figure sitting on a stool",
+        "source": "survey",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731225613,
+      "lat": 51.5200607,
+      "lon": -0.0791921,
+      "tags": {
+        "name": "I Eye",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1779504042,
+      "lat": 51.5182101,
+      "lon": -0.0781576,
+      "tags": {
+        "designation": "holiday lets",
+        "name": "City of London flats",
+        "source": "owner",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1816038202,
+      "lat": 51.5158677,
+      "lon": -0.1092397,
+      "tags": {
+        "historic": "memorial",
+        "name": "John Wilkes",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1816959439,
+      "lat": 51.516279,
+      "lon": -0.098733,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "Rowland Hill",
+        "source": "survey",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832240563,
+      "lat": 51.515533,
+      "lon": -0.1061796,
+      "tags": {
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2137260103,
+      "lat": 51.5128844,
+      "lon": -0.1051893,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "EC4Y 8EN",
+        "addr:street": "Dorset Rise",
+        "fhrs:id": "430568",
+        "name": "Premier Inn",
+        "source:addr": "Food Hygiene Rating Scheme open data",
+        "tourism": "hotel",
+        "website": "http://www.premierinn.com/en/hotel/LONBLA/london-blackfriars-fleet-street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2294047321,
+      "lat": 51.5138157,
+      "lon": -0.1089001,
+      "tags": {
+        "addr:housenumber": "1-2",
+        "addr:postcode": "EC4Y 1LL",
+        "addr:street": "Serjeants Inn Courtyard",
+        "name": "Apex Temple Court Hotel",
+        "operator": "Apex Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2496836267,
+      "lat": 51.5192862,
+      "lon": -0.084674,
+      "tags": {
+        "artwork": "sculpture",
+        "name": "Rush Hour",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2624665870,
+      "lat": 51.517237,
+      "lon": -0.1015841,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "Golden Boy of Pye Corner",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642857205,
+      "lat": 51.5139087,
+      "lon": -0.086572,
+      "tags": {
+        "artwork_type": "statue",
+        "historic": "memorial",
+        "memorial:type": "statue",
+        "name": "George Peabody",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2929114896,
+      "lat": 51.5160299,
+      "lon": -0.0819497,
+      "tags": {
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2952883084,
+      "lat": 51.5095129,
+      "lon": -0.0836298,
+      "tags": {
+        "name": "Premier Inn London Bank (Tower)",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2990716997,
+      "lat": 51.5173001,
+      "lon": -0.0925832,
+      "tags": {
+        "artist_name": "Karin Jonzen",
+        "artwork_type": "sculpture",
+        "name": "The Gardener",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3094555298,
+      "lat": 51.5196059,
+      "lon": -0.0929896,
+      "tags": {
+        "artwork_type": "sculpture",
+        "name": "The Barbican Muse",
+        "tourism": "artwork",
+        "wikidata": "Q18122622",
+        "wikipedia": "en:The Barbican Muse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3095361515,
+      "lat": 51.5134508,
+      "lon": -0.0975441,
+      "tags": {
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3768819268,
+      "lat": 51.5143486,
+      "lon": -0.0861702,
+      "tags": {
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3804685596,
+      "lat": 51.5176602,
+      "lon": -0.0782169,
+      "tags": {
+        "name": "Street Art",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894948101,
+      "lat": 51.5168159,
+      "lon": -0.0777225,
+      "tags": {
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904368936,
+      "lat": 51.5148052,
+      "lon": -0.0796621,
+      "tags": {
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4062923527,
+      "lat": 51.5138704,
+      "lon": -0.1011565,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Ludgate Hill",
+        "name": "Club Quarters",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4340748003,
+      "lat": 51.5093521,
+      "lon": -0.0808189,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "28",
+        "addr:postcode": "EC3R 5AT",
+        "addr:street": "Great Tower Street",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hub by Premier inn (Tower Bridge)",
+        "operator": "Premier Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4354554594,
+      "lat": 51.5176629,
+      "lon": -0.1004708,
+      "tags": {
+        "name": "St Bartholomew's Hospital museum",
+        "opening_hours": "Tu-Fr 10:00-16:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402633263,
+      "lat": 51.5128609,
+      "lon": -0.0818961,
+      "tags": {
+        "artist_name": "Anthony Caro",
+        "artwork_type": "sculpture",
+        "name": "Aurora",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428613300,
+      "lat": 51.514531,
+      "lon": -0.0815635,
+      "tags": {
+        "artwork_type": "sculpture",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4502146356,
+      "lat": 51.5146247,
+      "lon": -0.0892236,
+      "tags": {
+        "name": "Sir John Soane statue",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513341393,
+      "lat": 51.5142989,
+      "lon": -0.0882511,
+      "tags": {
+        "name": "Bank of England",
+        "name:en": "Bank of England",
+        "opening_hours": "Mo-Fr 10:00-17:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4517065148,
+      "lat": 51.5208475,
+      "lon": -0.0798692,
+      "tags": {
+        "name": "Ganapathi and Devi",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518472566,
+      "lat": 51.5188824,
+      "lon": -0.0851258,
+      "tags": {
+        "name": "Bellerophon Taming Pegasus",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518483452,
+      "lat": 51.5185213,
+      "lon": -0.0832603,
+      "tags": {
+        "name": "Leaping Hare on Crescent and Bell",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579454593,
+      "lat": 51.510287,
+      "lon": -0.0840234,
+      "tags": {
+        "name": "Fraser Residence City",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4599254833,
+      "lat": 51.511913,
+      "lon": -0.0889527,
+      "tags": {
+        "name": "Travelodge London Central Bank",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627445242,
+      "lat": 51.5122681,
+      "lon": -0.1011846,
+      "tags": {
+        "artwork_type": "sculpture",
+        "note": "A crucified Christ sculpture",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627491653,
+      "lat": 51.5118887,
+      "lon": -0.1009453,
+      "tags": {
+        "artist_name": "Richard Kindersley",
+        "artwork_type": "sculpture",
+        "description": "\"This Sculpture commissioned by Post Office Telecommunications and created by Richard Kindersley after inspiration from Shakespeare's seven ages of man was unveiled by Lord Miles of Blackfriars on 23rd April 1980\"",
+        "start_date": "1980",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4661317342,
+      "lat": 51.5112691,
+      "lon": -0.1062671,
+      "tags": {
+        "artwork_type": "sculpture",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4663312747,
+      "lat": 51.5119113,
+      "lon": -0.1044724,
+      "tags": {
+        "artwork_type": "sculpture",
+        "note": "Sculpture/statue with horse and two men on building",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684898311,
+      "lat": 51.5148516,
+      "lon": -0.1087533,
+      "tags": {
+        "name": "SACO St Pauls - Red Lion Court",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684899173,
+      "lat": 51.514388,
+      "lon": -0.1091461,
+      "tags": {
+        "name": "Crane Court Apartments",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686831452,
+      "lat": 51.5142402,
+      "lon": -0.0985879,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "John Wesley",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690117428,
+      "lat": 51.5147254,
+      "lon": -0.0805611,
+      "tags": {
+        "artist_name": "Jaume Plensa",
+        "artwork_type": "sculpture",
+        "name": "Laura",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690120487,
+      "lat": 51.5135831,
+      "lon": -0.0837411,
+      "tags": {
+        "artist_name": "Ugo Rondinone",
+        "artwork_type": "sculpture",
+        "name": "Sunrise. East. July / Sunrise. East. October",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4697493173,
+      "lat": 51.5120225,
+      "lon": -0.0828969,
+      "tags": {
+        "artist_name": "Jürgen Partenheimer",
+        "artwork_type": "sculpture",
+        "name": "Axis Mundi",
+        "tourism": "artwork"
+      }
+    }
+  ]
+}

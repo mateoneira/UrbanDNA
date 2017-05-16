@@ -1,0 +1,367 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-16T15:09:05Z",
+    "timestamp_areas_base": "2017-05-16T13:18:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 666918630,
+      "lat": 51.511876,
+      "lon": -0.074605,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Haydon Street",
+        "leisure": "sports_centre",
+        "name": "Virgin Active"
+      }
+    },
+    {
+      "type": "node",
+      "id": 668842793,
+      "lat": 51.512664,
+      "lon": -0.078879,
+      "tags": {
+        "addr:housenumber": "106",
+        "leisure": "sports_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 694471389,
+      "lat": 51.511247,
+      "lon": -0.076255,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 697037338,
+      "lat": 51.5099578,
+      "lon": -0.0756371,
+      "tags": {
+        "leisure": "playground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1141415201,
+      "lat": 51.5197284,
+      "lon": -0.0850676,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Slim Jim's",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150003439,
+      "lat": 51.5199571,
+      "lon": -0.0818579,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Virgin Active",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1268874626,
+      "lat": 51.5117385,
+      "lon": -0.0970366,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First Gym"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1685281116,
+      "lat": 51.5192595,
+      "lon": -0.0918254,
+      "tags": {
+        "access": "private",
+        "leisure": "playground",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1713257252,
+      "lat": 51.5096752,
+      "lon": -0.0914835,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Nuffield Health Fitness & Wellbeing Centre City",
+        "phone": "0845 2413836",
+        "postcode": "EC4R 3XJ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1787108615,
+      "lat": 51.5147315,
+      "lon": -0.0853714,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Bank Health Club",
+        "network": "Virgin Active Classic Collection",
+        "operator": "Virgin Active",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1990694628,
+      "lat": 51.509777,
+      "lon": -0.0929331,
+      "tags": {
+        "addr:postcode": "EC4R 3TB",
+        "addr:street": "Bell Wharf Lane",
+        "club": "sport",
+        "leisure": "club",
+        "name": "Little Ship Club",
+        "sport": "sailing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2389890389,
+      "lat": 51.5148938,
+      "lon": -0.0841972,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Bannatyne's Health Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2545451248,
+      "lat": 51.5185695,
+      "lon": -0.0840269,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2793892926,
+      "lat": 51.5132665,
+      "lon": -0.0848896,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Matt Roberts",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2914392296,
+      "lat": 51.5169716,
+      "lon": -0.0788044,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3018116500,
+      "lat": 51.5150418,
+      "lon": -0.0829711,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3061197975,
+      "lat": 51.5115702,
+      "lon": -0.0863071,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Lombard Court",
+        "leisure": "fitness_centre",
+        "name": "Cyclebeat",
+        "old_amenity": "pub",
+        "old_name": "Red Lion",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3164383488,
+      "lat": 51.5155316,
+      "lon": -0.0799153,
+      "tags": {
+        "addr:housenumber": "63",
+        "addr:postcode": "EC3A 8LE",
+        "addr:street": "Saint Mary Axe",
+        "leisure": "sports_centre",
+        "name": "1Rebel",
+        "sport": "fitness",
+        "website": "http://www.1rebel.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3248473472,
+      "lat": 51.5111879,
+      "lon": -0.0846748,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3596425484,
+      "lat": 51.5117094,
+      "lon": -0.0902658,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Virgin Active",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3794345288,
+      "lat": 51.5175023,
+      "lon": -0.0807859,
+      "tags": {
+        "entrance": "yes",
+        "leisure": "sports_centre",
+        "level": "-1",
+        "name": "Fitness First Liverpool Street Platinum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3906391799,
+      "lat": 51.515173,
+      "lon": -0.0797979,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "No1 Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3936798451,
+      "lat": 51.5183566,
+      "lon": -0.0907248,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:postcode": "EC2Y 5EJ",
+        "addr:street": "Fore Street",
+        "leisure": "sports_centre",
+        "name": "Pure Ride",
+        "phone": "0333 234 0401",
+        "sport": "bicycling",
+        "website": "https://www.pureride.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998968424,
+      "lat": 51.5178552,
+      "lon": -0.0974636,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "200",
+        "addr:postcode": "EC1A 4HD",
+        "addr:street": "Aldersgate Street",
+        "leisure": "sports_centre",
+        "name": "Virgin Active Health Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061331467,
+      "lat": 51.515492,
+      "lon": -0.0787402,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Crossfit Aldgate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4075042399,
+      "lat": 51.5185607,
+      "lon": -0.0836918,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "1Rebel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4136266962,
+      "lat": 51.5145187,
+      "lon": -0.0771143,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Pure Gym",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4369519196,
+      "lat": 51.5171282,
+      "lon": -0.0984511,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Puregym"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4378043280,
+      "lat": 51.5148394,
+      "lon": -0.1004297,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513696612,
+      "lat": 51.5127566,
+      "lon": -0.0860756,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Escape Entertainment",
+        "addr:postcode": "EC3V 9DH",
+        "addr:street": "George Yard",
+        "description": "Escape game experience",
+        "leisure": "escape_game",
+        "name": "Escape Enterainment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4569700105,
+      "lat": 51.5145058,
+      "lon": -0.104243,
+      "tags": {
+        "leisure": "tanning_salon",
+        "name": "Tanning Shop"
+      }
+    }
+  ]
+}
