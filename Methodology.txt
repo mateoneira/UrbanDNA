@@ -21,6 +21,10 @@ The programming language used is Python and libraries like pandas, numpy, scipy,
 
 we are testing three different density based clustering methods to identify neighborhood scale agglomerations of amenities. We start by using the Density Based Spatial Clustering Algorithm with Noise (DBSCAN) and then we tested Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN), which is based on DBSCAN but you don’t need to specify the epsilon distance around each point and also it allows for varying density clusters. At the end, we examined the Agglomerative Clustering method where each point begins in its own cluster and then merge with others ones based on different criteria. The method that meets our needs for this study is HDBSCAN as it creates attractive neighbourhoods that correspond successfully to most of the amenities concentrations in London.
 
+In addition to the three density based clustering methods, we also implemented a clustering method based on effective number of amenities introduced by Hidalgo & Castañer in their …(2015). Specifically, we first calculate the effective number of amenities ($A_i$) of each amenity i (i.e. sum of i’s 2000 nearest neighboring amenities whose contribute to $A_i$ is adjusted by distance decay). Based on $A_i$, we proceed to identify the neighborhood center (local maxima) by comparing $A_i$ with its $n_i$ nearest neighbor’s effective number of amenities. Afterwards, we assign the rest of the amenities to each neighborhood center iteratively (see Hedalgo, will expand / clarify further). [after the actual result] The result (see fig. viz) shows shows meaningful neighborhood identification.
+
+Reference:
+Hidalgo, C. A., & Castañer, E. E. (2015). The amenity space and the evolution of neighborhoods. arXiv Preprint arXiv:1509.02868. Retrieved from https://arxiv.org/abs/1509.02868
 
 - Clustering Boundaries (THIS IS COPIED FROM MY REPORT, PLEASE PARAPHRASE)
 
@@ -38,10 +42,20 @@ Our aim is to group the different clusters together based on their most popular 
 
 - Interpolation
 
+At this point we have two sets of polygons: one derived from our identified neighborhoods using various clustering methods, and the other inherited from artificially drawn census unit (e.g. OA for TDAl, LSOA for demographics). The former is our unit of study (# what’s the term called?), but the latter contains the socio-economic attributes data of our interest. In order to solve the boundary discrepancy, we employed area interpolation.i.e. interpolating attribute data from census unit (source area) to identified neighborhood (target area). We used an area-based volume-preserving method called overlay interpretation (Lam, 2009). In details, for each target area we have calculated its area composition of one or more source areas. After being weighted by such overlaying area, each source area’s attribute value has been summed to return the attribute value of the target area.
+
+Reference:
+Lam, N. S. (2009). Spatial Interpolation. In R. Kitchin & N. Thrift (Eds.), International Encyclopedia of Human Geography (pp. 369–376). Oxford: Elsevier. https://doi.org/10.1016/B978-008044910-4.00530-7
 
 
-- Shannon’s Diversity Index
+- Diversity Index
 
+Drawing heavily from ecology literature where Shannon’s Entropy and Simpson’s indices have been widely used to quantify biodiversity (Gorelick, 2006), we treated each type of amenity as species and calculated alpha (i.e. local) diversity for each neighborhood we identified. (+ interpretation of the two indices)
+
+Reference:
+Gorelick, R. (2006). Combining richness and abundance into a single diversity index using matrix analogues of Shannon’s and Simpson’s indices. Ecography, 29(4), 525–530. https://
+
+doi.org/10.1111/j.0906-7590.2006.04601.x
 
 
 
