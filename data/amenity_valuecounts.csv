@@ -170,17 +170,17 @@ biergarten,17,,
 medical_centre,17,,
 club,17,,
 spa,16,,
-electrical,16,,
+electrical,16,, 
 community_hall,16,,
 stripclub,16,,
-curtain,16,,
-tiles,15,,
-tea,15,,
-disused,15,,
-notice_board,15,,
-no,15,,
-flooring,15,,
-second_hand,15,,
+curtain,16,, home products
+tiles,15,, home products
+tea,15,, 
+disused,15,, NOT
+notice_board,15,, NOT
+no,15,, NOT
+flooring,15,, home products
+second_hand,15,, 
 beverages,15,,
 paddling_pool,14,,
 grocery,14,,
@@ -202,13 +202,13 @@ motel,12,,
 miniature_golf,12,,
 storage,12,,
 zoo,12,,
-cheese,12,,
+cheese,12,,delicatessen
 delicatessen,12,,
-fishing,11,,
+fishing,11,, NOT
 baby_goods,11,,
-chalet,11,,
-amusements,11,,
-e-cigarette,11,,
+chalet,11,, NOT
+amusements,11,, NOT
+e-cigarette,11,, smoking
 horse_riding,11,,
 training,11,,
 watches,10,,
@@ -216,8 +216,8 @@ church_hall,10,,
 fishmonger,10,,
 communication,10,,
 ticket_booth,10,,
-tobacco,10,,
-communications,10,,
+tobacco,10,, smoking
+communications,10,, 
 design,10,,
 sunglasses,10,,
 dance,10,,
