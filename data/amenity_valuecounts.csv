@@ -189,15 +189,15 @@ social_centre,14,,
 hall,14,,
 conference_centre,14,,
 party,13,,
-coffee,13,,
+coffee,13,, 
 casino,13,,
-sauna,13,,
+sauna,13,, NOT
 bicycle_repair_station,13,,
-printing,13,,
+printing,13,, NOT
 perfume,13,,
-bathroom,13,,
+bathroom,13,, home products
 prison,13,,
-hearing_aids,12,,
+hearing_aids,12,, NOT
 motel,12,,
 miniature_golf,12,,
 storage,12,,
@@ -205,16 +205,16 @@ zoo,12,,
 cheese,12,,delicatessen
 delicatessen,12,,
 fishing,11,, NOT
-baby_goods,11,,
+baby_goods,11,, NOT
 chalet,11,, NOT
 amusements,11,, NOT
 e-cigarette,11,, smoking
 horse_riding,11,, NOT
 training,11,, fitness
-watches,10,,
+watches,10,, 
 church_hall,10,, places of worship
-fishmonger,10,, 
-communication,10,,
+fishmonger,10,, market
+communication,10,, NOT
 ticket_booth,10,, NOT
 tobacco,10,, smoking
 communications,10,, NOT
