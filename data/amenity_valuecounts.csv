@@ -91,7 +91,7 @@ copyshop,81,,
 arts_centre,80,,
 bag,76,,
 social_facility,76,,
-fitness_station,75,,
+fitness_station,75,, fitness
 toys,73,,
 hostel,73,,
 viewpoint,71,,
@@ -114,7 +114,7 @@ garden_centre,56,,
 houseware,54,,
 nursing_home,53,,
 bus_station,53,,
-fitness_centre,53,,
+fitness_centre,53,, fitness
 cosmetics,52,,
 mall,51,,
 guest_house,50,,
@@ -209,15 +209,15 @@ baby_goods,11,,
 chalet,11,, NOT
 amusements,11,, NOT
 e-cigarette,11,, smoking
-horse_riding,11,,
-training,11,,
+horse_riding,11,, NOT
+training,11,, fitness
 watches,10,,
-church_hall,10,,
-fishmonger,10,,
+church_hall,10,, places of worship
+fishmonger,10,, 
 communication,10,,
-ticket_booth,10,,
+ticket_booth,10,, NOT
 tobacco,10,, smoking
-communications,10,, 
-design,10,,
+communications,10,, NOT
+design,10,, NOT
 sunglasses,10,,
-dance,10,,
+dance,10,, fitness
