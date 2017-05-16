@@ -1,4 +1,4 @@
-DATABASE:
+﻿DATABASE:
 
 Python libraries: pandas, numpy, requests, os, json, overpy
 
@@ -48,8 +48,12 @@ Our aim is to group the different clusters together based on their most popular 
 
 WEBSITE:
 
-
+The website was built using bootstrap framework, this allowed the implementation of responsive elements that adapt to different devices. The CSS files from bootstrap were modified to change colors and fonts of different elements, additional CSS files were created to style the sidebar which contained all the graphs. 
+For the visualization two separate javascript files were created, one contains all the functions to create an interactive map, the other contains all the functions to graph the pertinent data to the sidebar. When the webpage loads, a call different API's endpoints are made, the data is recieved in JSON format and parsed to a data array that is used for the various visualizations.
 
 
 API:
+
+The API was create using NODE js. Three different endpoints were created. The /amenities/:type/:lat/:lon/:radius requires the specification of type of amenity, latitude, longitude and radius, and gives back all the amenities that satisfiy the parameters, if type is set to "all" the API returns all amenities within specified area. If type = 'summary', the API returns a JSON containing the different amenity types and their corresponding frequency. 
+The /aSpace endpoint does not requiere any specification and returns the results from a spearman rank correlation in the form of list adjacency matrix. 
 
