@@ -1,190 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<!-- set char type -->
-		<meta charset="utf-8">
-		<!-- internet explorer to use latest renderer -->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<!-- this sets the size according to device -->
-		<meta name="viewport" content="width=device-width, initial-scale=1"
-		>
-		<title>URBAN DNA</title>
-		<meta name="Urban DNA" content="Discovering the amenity structure of London">
-		<meta name="author" content = "Mateo Neira">
+﻿<!DOCTYPE HTML>
 
-		<!-- bootstrap CSS-->
-		<link rel="stylesheet" href="./css/bootstrap.css">
+<html>
+<head>
+	<title> Mateo Neira</title>
 
-		<!-- load stylesheet -->
-		<link rel="stylesheet" href="./css/style.css">
+<!-- THIS IS TO LINK TO GOOGLE FONTS -->      
+    <link href="https://fonts.googleapis.com/css?family=Raleway|Abel|Source+Code+Pro" rel="stylesheet">
+<!-- and this is for social media icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-		<!-- mapstyle -->
+	<link rel = "stylesheet" type = "text/css" href = "./css/style.css">
 
-		<!--social media icons -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
-	</head>
+<body>
 
-	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-		<!-- fixed navbar contains title and menu-->
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" aria-expanded="false">
-						<span class="glyphicon glyphicon-menu-hamburger"></span>
-					</button>
-					<a class="navbar-brand page-scroll" href="#page-top">urban<b>DNA</b></a>
-				</div>
-				<!-- group of links for navigation for responsive toggling -->
-				<div class="collapse navbar-collapse navbar-right" id="nav-menu">
-					<ul class="nav navbar-nav">
-						<li>
-							<a class="page-scroll" href="#About">About</a>
-						</li>
-						<li>
-							<a class="page-scroll" href="#Data">Data</a>
-						</li>	
-						<li>
-							<a class="page-scroll" href="#Methodology">Methodology</a>
-						</li>	
-						<li>
-							<a class="page-scroll" href="#Team">Team</a>
-						</li>							
-					</ul>					
-				</div>
-			</div>
-		</nav>
+	<div id="header">
 
-		<!-- main window, cointains map and fixed wrapper for graphs -->
-		<div class="mainWrapper">
-				<div id="map-canvas"></div>
-				<div class=" infoWrapper"> 
-					<div id="info-container">
-						<h2>Info here</h2>
-						 <!-- this is the Interactive Vis -->
-						<div id="viz"></div>
-					</div>
-					<div id="sidebar">
-						<a href="#" id="navHome"><span class="glyphicon glyphicon-menu-up"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome"><span class="glyphicon glyphicon-home"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome" style="font-size: 10px"><span class="fa fa-circle"  aria-hidden="true"></span></a></br>
-						<a href="#" id="navHome"><span class="glyphicon glyphicon-menu-down"  aria-hidden="true"></span></a>
-
-					</div>
-				</div>
-		</div>
-		<!-- About -->
-		<div id="About">		
-			<div class="container">
-				<h2>About</h2>
-			</div>
-		</div>
-		<!-- Data -->
-		<div id="Data">
-			<div class="container">
-				<h2>Data</h2>
-			</div>
-		</div>
-		<!-- Methodology -->
-		<div id="Methodology">			
-			<div class="container">
-				<h2>Methodology</h2>
-			</div>
-		</div>
-		<!-- Team - gridded system to contain information on Team -->
-		<div id="Team">
-			<div class="container">
-				<h2>Team</h2>
-				<div class="row">
-					<div class="col-xs-12 col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="./img/mateo.jpg" alt="Mateo Neira" class="img-rounded">
-							<div class="caption">
-								<h3>Mateo Neira</h3>	
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p id="social-links">
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="./img/Eleftherios.jpg" alt="Eleftherios Sergios" class="img-rounded">
-							<div class="caption">
-								<h3>Eleftherios Sergios</h3>	
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p id="social-links">
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="./img/June.jpg" alt="June He" class="img-rounded">
-							<div class="caption">
-								<h3>June He</h3>	
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p id="social-links">
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="./img/Mercedes.jpg" alt="Mercedes Landa" class="img-rounded">
-							<div class="caption">
-								<h3>Mercedes Landa</h3>	
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p id="social-links">
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-twitter"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-envelope"></i></a>
-									<a href="https://twitter.com/mateoneira" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+		<div class = "logo">
+		<!-- figure out how to make this logo animated? -->
+			<img src="./img/logo.png" alt = "logo" height="100">
 		</div>
 
-		<!-- footer, made with love -->
-		<footer class="text-center">Made With <span class="glyphicon glyphicon-heart"  aria-hidden="true" style="color:red"></span> by 3A1M</footer>
+		<div class="title">
+			<h1>MATEO NEIRA</h1> 
+			<h2>{architecture | urbanism | spatial data science}</h2>
+		</div>
+	</div>
+	<div class="banner">
+	<!-- in the banner lets have the social media icons: http://codepen.io/joshua_ward/pen/NprxPE -->
+		<img src="./img/city.jpg" alt = "city">
+		<div class="wrapper">
+			<h2>BIO:</h2>
+			Architect and spatial data researcher interested in understanding interactions of people and space, particularly the influence of urban morphology on mobility patterns and its effects on social segregation.
+			As an MSc. Candidate at the Centre for Advanced Spatial Analysis at UCL, my dissertation focuses on the application of graph theory to transport systems (road network and public transport network) to explore relationships between network structure, land use and socio-economic variables; using different accessibility measure and random walks to build a spatial segregation index. As a former research assistant at llactaLAB-Sustainable cities research group at the university of Cuenca I worked on two main research projects, one related to active mobility patterns and the other related to the use of public space around river margins. My work mainly focused on using space syntax methods, exploratory data analysis techniques and quantitative methods to better understand the influence of the built environment on individual and collective behaviour.
+			<ul class="social-links">
+				<li>
+					<a href="https://twitter.com/mateoneira" target="_blank">
+					<i class="fa fa-twitter"></i>
+				</li>
 
-		<!-- Jquery -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<!-- loading bootstrap JS -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+				<li>
+					<a href="https://github.com/mateoneira" target="_blank">
+					<i class="fa fa-github-square"></i>
+				</li>
 
-		<!-- load D3js -->
-		<script src="./js/d3.js"></script>
-		<!-- load D3plus after D3js -->
-		<script src="./js/d3plus.js"></script>
-		<!-- load interactive vis script -->
-		<script src="./js/interactive_vis.js"></script>
+				<li>
+					<a href="https://www.linkedin.com/in/mateoneira" target="_blank">
+					<i class="fa fa-linkedin-square"></i>
+				</li>
 
-		<!-- googlemaps JS -->
-		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhptWhUFauu7NLnh6COcJYJgS70Q_GVOc&libraries=visualization"></script>
-		<script type='text/javascript' src='./js/interaction.js'></script>
-		<script type='text/javascript' src='./js/mapStyle.js'></script>
-		<script src="./js/jquery.easing.min.js"></script>
-	    <script src="./js/scrolling-nav.js"></script>
+				<li>
+					<a href="https://www.instagram.com/mateoneiraa" target="_blank">
+					<i class="fa fa-instagram"></i>
+				</li>
+		</div>
 
+		
+	</div>
 
-	</body>
+	<div id = "menu"> 
+	<!-- here we can use a hovering effect for my different proyects Heres an example: http://codepen.io/giana/pen/YZWjQy -->
+		<div class= "menu-elem"></div>
+		<div class = "menu-elem"> <a href="./photoViewer/index.html">project</a> </div>
+		<div class= "menu-elem"></div>
+	</div>
+
+	<div id="content">
+	
+	</div>
+
+	<div id="footer">
+	
+	</div>
+
+</body>
+
 </html>
-
-
 

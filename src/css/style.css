@@ -1,153 +1,159 @@
-/*wrapper that will contain map and graphs*/
-.mainWrapper{
-	/*make map occupy the height of device*/
-	height: 100vh;
-}
-
-/*
-wrapper that will contain story, graph, texts
-this has to be responsive, so as to not take out the whole page
-We use media to scale width of container based on device
-*/
-
-@media (max-width: 768px){
-  .infoWrapper{
-	width: 45%;
-	}
-	#sidebar{
-	width:10%;	
-	}
-}
-
-@media (min-width: 768px) and (max-width: 992px){
-  .infoWrapper{
-	width: 40%;
-	}
-	#sidebar{
-	width:10%;	
-	}
-}
-
-@media (min-width: 992px) and (max-width: 1200px){
-  .infoWrapper{
-	width: 35%;
-	}
-	#sidebar{
-	width:10%;	
-	}
-}
-
-@media (min-width: 992px) and (max-width: 1200px){
-  .infoWrapper{
-	width: 30%;
-	}
-	#sidebar{
-	width:10%;	
-	}
-}
-
-@media (min-width: 1200px){
-  .infoWrapper{
-	width: 30%;
-	}
-	#sidebar{
-	width:7%;	
-	}
-}
-
-.infoWrapper{
-	position: absolute;
-	top: 85px;
-	bottom: 20px;
-	right: 10px;
-	border-radius: 10px;
-	background-color: rgba(33,48,58,0.75); 
-	/*width: 40%;*/
-	padding: 15px 5px 15px 15px;
-	color: #ffffff;
-}
-
-#map-canvas{
-    height: 100%;
-    width: 100%;
-}
-
-
-/*syle for sidebar for storu telling*/
-#sidebar{
-	padding-top: 10%;
-	text-align: center;
-	float: right;
-	height:100%;
-	font-size: 18px;
-}
-
-#sidebar a{
-	color: #D6D6BD;
-}
-
-#sidebar a:active, #sidebar a:hover{
-	color: #ffffff;
-}
-
-/*syle for main story container*/
-#info-container{
-	float: left;
+body{
+	font-family: "Raleway", sans-serif;
+	background: "white";
+	
 	margin: 0;
-	width:90%;
-	height:100%;
-	overflow: auto;
-	/*background-color: rgba(255,0,0,0.5);*/
+	border: 0;
+	padding: 0;
+	
 }
 
-/*style for graphs*/
-#viz{
+
+h1{
+	font-family: "Abel";
+	font-size: 60px;
+	/*line-height: 1;*/
+	font-weight: 100;
+	margin: 0;
+
+}
+
+h2{
+	font-family: "Source Code Pro";
+	font-size: 20px;
+	line-height: 0.15;
+	font-weight: 200;
+	margin:0;
+}
+
+#header{
+	background: #100806;
+	margin-top: 0px;
 	padding: 0;
 	width: 100%;
-	height:50%;
+/*	height: 100px;*/
+	color: white;
+	/*position: fixed;*/
+	margin-bottom: 5px; 
+	overflow: hidden;
+	
 }
 
-/*styling for sections*/
-#About{
-	padding-top: 50px;
-	height: 500px;
-
-}
-#Data{
-	padding-top: 50px;
-	height:500px;
-	background-color: rgba(33,48,58,0.05);
-}
-#Methodology{
-	padding-top: 50px;
-	height: 500px;
-
-}
-#Team{
-	padding-top: 50px;
-	background-color: rgba(33,48,58,0.1);
+#header h2{
+	font-size: 15px;
+	opacity: 0.75;
 }
 
-/*styling for social media links*/
-#social-links{
-	height: 33px;
-	align-content: center;
+
+div.logo{
+	width:40%;
+	margin: 0;
+	padding: 0;
+	float: left;
+	text-align: right;
+}
+
+div.title{
+	width: 25%;
+	float: left;
 	text-align: center;
 }
 
-#social-links a{
-	padding-left: 15px;
-	padding-right: 15px;
-	font-size: 18px;
-	color: grey;
+.banner{
+/*	background: url('../img/city.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;*/
+    background-color: #100806;
+    padding:25px;
+	/*background-blend-mode: darken;*/
+	width: 100%;
+	/*height: 350px;*/
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	overflow: hidden;
 }
 
-#social-links a:active, #social-links a:hover{
-	font-size: 20px;
-	color: black;
+.banner img{
+	position: absolute;
+	left: 0;
+	top: -150;
+	width: 100%;
+	height: auto:
+	z-index: -1;
+	opacity: 0.1;
 }
 
+.wrapper{
+	width: 50%;
+	height: 75%;
+	color: white;
+	font-family: "Source Code Pro";
+	font-size: 12px;
+	line-height: 1;
 
+}
+
+.wrapper h2{
+		position: relative;
+		display: block;
+		width: 100%;
+		color: white;
+		line-height: 2;
+		text-align: left;
+	}
+
+.wrapper .social-links {
+	margin-top: 50px;
+	position: relative;
+	width: 100%;
+	list-style-type: none;
+}
+
+.wrapper .social-links li{
+	display: inline-block;
+	width: 25%;
+	text-align: center;
+	float: left;
+}
+
+.wrapper .social-links li a{
+	font-size: 24px;
+	color: whitesmoke;
+}
+
+#menu{
+	width: 100%;
+	height: 25px;
+
+
+}
+
+#content{
+}
+
+#footer{
+}
+
+.menu-elem{
+	width: 33%;
+	float: left;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.menu-elem a{
+	font-size: 16px;
+	color: #888483;
+	text-decoration: none;
+}
+
+.menu-elem a:hover{
+	color: #100806;
+	font-weight: bold;
+}
 
 
 
