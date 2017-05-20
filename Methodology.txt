@@ -21,6 +21,7 @@ The programming language used is Python and libraries like pandas, numpy, scipy,
 
 we are testing three different density based clustering methods to identify neighborhood scale agglomerations of amenities. We start by using the Density Based Spatial Clustering Algorithm with Noise (DBSCAN) and then we tested Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN), which is based on DBSCAN but you don’t need to specify the epsilon distance around each point and also it allows for varying density clusters. At the end, we examined the Agglomerative Clustering method where each point begins in its own cluster and then merge with others ones based on different criteria. The method that meets our needs for this study is HDBSCAN as it creates attractive neighbourhoods that correspond successfully to most of the amenities concentrations in London.
 
+
 In addition to the three density based clustering methods, we also implemented a clustering method based on effective number of amenities introduced by Hidalgo & Castañer in their …(2015). Specifically, we first calculate the effective number of amenities ($A_i$) of each amenity i (i.e. sum of i’s 2000 nearest neighboring amenities whose contribute to $A_i$ is adjusted by distance decay). Based on $A_i$, we proceed to identify the neighborhood center (local maxima) by comparing $A_i$ with its $n_i$ nearest neighbor’s effective number of amenities. Afterwards, we assign the rest of the amenities to each neighborhood center iteratively (see Hedalgo, will expand / clarify further). [after the actual result] The result (see fig. viz) shows shows meaningful neighborhood identification.
 
 Reference:
@@ -50,7 +51,7 @@ Lam, N. S. (2009). Spatial Interpolation. In R. Kitchin & N. Thrift (Eds.), Inte
 
 - Diversity Index
 
-Drawing heavily from ecology literature where Shannon’s Entropy and Simpson’s indices have been widely used to quantify biodiversity (Gorelick, 2006), we treated each type of amenity as species and calculated alpha (i.e. local) diversity for each neighborhood we identified. (+ interpretation of the two indices)
+Drawing heavily from ecology literature where Shannon’s Entropy and Simpson’s indices have been widely used to quantify biodiversity (Gorelick, 2006), we treated each type of amenity as species and calculated alpha (i.e. local) diversity for each neighborhood we identified. (+ interpretation of the two indices).
 
 Reference:
 Gorelick, R. (2006). Combining richness and abundance into a single diversity index using matrix analogues of Shannon’s and Simpson’s indices. Ecography, 29(4), 525–530. https://
