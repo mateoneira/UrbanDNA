@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "require(ggplot2)\nrequire(rgeos)\nrequire(gstat) \nrequire(rgdal)\nrequire(sp)\nrequire(maptools)\nrequire(readxl)\nrequire(dplyr)\ngetwd()\ndf<-read.csv(\"london_info.csv\")\nView(df)\n\n\n########################## Well. shapefile... merging with attribute code. ##########################################\n### 1. link borough code with shapefile. INCOME.\nwards.shp<-readOGR(\"wardShapefiles/London_Ward.shp\")\nwards.shp@proj4string\n\nView(wards.shp)\n\n?merge\nmerged<-merge(wards.shp, df,by.x='GSS_CODE',by.y='New.code')\nView(merged)\n# merged<-merged[-c(8,9,11:14)]\n\n\nnames(merged)[10]<-paste(\"pop15\") #population in 2015\nnames(merged)[12]<-paste(\"num_jobs\") #number of jobs\nnames(merged)[14]<-paste(\"income\") #medium house income\nnames(merged)[15]<-paste(\"accessibility\") #acceissibility\n# merged<-merged[-c(11,13)]\n# merged<-merged[-9]\nView(merged)\n?writeOGR\nwriteOGR(obj=merged, dsn=\"london_info_shp\", layer=\"london_info\", driver=\"ESRI Shapefile\")\n\n\n",
+    "created" : 1495283297878.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "198592064",
+    "id" : "D7E0FE34",
+    "lastKnownWriteTime" : 1495284181,
+    "last_content_update" : 1495284181772,
+    "path" : "~/Desktop/Data Capture/DNA/Shpify/Shapify.R",
+    "project_path" : "Shapify.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
