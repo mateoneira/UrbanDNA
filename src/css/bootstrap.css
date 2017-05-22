@@ -3117,27 +3117,27 @@ fieldset[disabled] .btn-default.focus {
   background-color: #333;
 }
 .btn-primary {
-  color: #fff;
-  background-color: #337ab7;
-  border-color: #2e6da4;
+  color: rgb(33,48,58);
+  background-color: #fff;
+  border-color: rgb(33,48,58);
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #286090;
-  border-color: #122b40;
+  background-color: rgba(33,48,58,0.9);
+  border-color: rgb(33,48,58);
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: rgba(33,48,58,0.9);
+  border-color: rgb(33,48,58);
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #fff;
   background-color: #286090;
-  border-color: #204d74;
+  border-color: rgb(33,48,58);
 }
 .btn-primary:active:hover,
 .btn-primary.active:hover,
@@ -3150,7 +3150,7 @@ fieldset[disabled] .btn-default.focus {
 .open > .dropdown-toggle.btn-primary.focus {
   color: #fff;
   background-color: #204d74;
-  border-color: #122b40;
+  border-color: rgb(33,48,58);
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -5477,7 +5477,8 @@ button.list-group-item-danger.active:focus {
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 16px;
+  font-weight: bold;
+  font-size: 18px;
   color: inherit;
 }
 .panel-title > a,
