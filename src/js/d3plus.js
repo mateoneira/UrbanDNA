@@ -15146,7 +15146,7 @@ module.exports = function(vars) {
         }
       }
 
-      var iterations = 50,
+      var iterations = 500,
           threshold = 0.01;
 
       force.start(); // Defaults to alpha = 0.1

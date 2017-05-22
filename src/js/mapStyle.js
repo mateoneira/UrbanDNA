@@ -1,4 +1,4 @@
-var darkMap = [
+var greyMap = [
     {
         "featureType": "administrative",
         "elementType": "all",

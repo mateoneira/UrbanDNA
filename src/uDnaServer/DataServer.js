@@ -65,8 +65,6 @@ app.get('/amenities/:type/:amenity/:lat/:lon/:r', function (req, res) {
       else{
         var sql = "select * from final_amenities WHERE type = " + type + " AND amenity = " + amenity + " AND DISTANCE(points, POINT("+lon+","+lat+") ) <=" + r;
       }
-  		
-      
   	}
 
   	// Log query for debugging
@@ -88,32 +86,96 @@ app.get('/amenities/:type/:amenity/:lat/:lon/:r', function (req, res) {
   }
 })
 
-app.get('/aSpace/:rTreshold', function(req, res) {
+app.get('/aSpace/:rTreshold/:MSP', function(req, res) {
   // Alows data to be downloaded from the server with security concerns
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "X-Requested-WithD");
 
-  if(req.params.rTreshold != "") {
+  if(req.params.rTreshold != "" && req.params.MSP != "") {
   	// Parse value to prevent SQL injection
   	var rTreshold = parseFloat(req.params.rTreshold);
+    var MSP = mysql_real_escape_string(req.params.MSP);
 
   	// Build SQL statement
-  	var sql = "select * from Spearman_list WHERE rho >=" + rTreshold;
+    if(MSP === "true") {
+      var sql = "select * from Spearman_list WHERE rho >=" + rTreshold + " AND MSP =" + MSP;
+    }
+    else{
+      var sql = "select * from Spearman_list WHERE rho >=" + rTreshold;
+    }  	
 
-	connection.query(sql, function(err, rows, fields){
-		if(err) console.log("Err: " + err);
-		if(rows != undefined){
-		  res.send(rows);
-		}
-		else{
-		  res.send("");
-		}
-	});
+  	connection.query(sql, function(err, rows, fields){
+  		if(err) console.log("Err: " + err);
+  		if(rows != undefined){
+  		  res.send(rows);
+  		}
+  		else{
+  		  res.send("");
+  		}
+  	});
 
   }
   else{
   	res.send("");
   }
+})
+
+app.get('/areas/:cType', function(req, res) {
+  // Alows data to be downloaded from the server with security concerns
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "X-Requested-WithD");
+
+  if(req.params.cType != "") {
+    // Parse value to prevent SQL injection
+    var ctype = mysql_real_escape_string(req.params.cType);
+    // var ctype = '"' + ctype + '"';
+    console.log(ctype);
+
+    // Build SQL statement
+    if(ctype === "HDBSCAN") {
+      var sql = "Select * from Clusters_Polygons_HDBSCAN, Clusters_Categories WHERE Clusters_Polygons_HDBSCAN.Clusters = Clusters_Categories.Clusters";
+    }
+    else if(ctype === "DBSCAN") {
+      var sql = "select * from Clusters_Polygons_DBSCAN";
+    }
+    else if(ctype === "DBSCAN2") {
+      var sql = "select * from Clusters_Polygons_DBSCAN2";
+    }
+    
+    
+
+    connection.query(sql, function(err, rows, fields){
+      if(err) console.log("Err: " + err);
+      if(rows != undefined){
+        res.send(rows);
+      }
+      else{
+        res.send("");
+      }
+    });
+
+  }
+  else{
+    res.send("");
+  }
+})
+
+app.get('/nodeList', function(req, res) {
+  // Alows data to be downloaded from the server with security concerns
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "X-Requested-WithD");
+
+  var sql = "select * from node_list";
+
+  connection.query(sql, function(err, rows, fields){
+    if(err) console.log("Err: " + err);
+    if(rows != undefined){
+      res.send(rows);
+    }
+    else{
+      res.send("");
+    }
+  });
 })
 
 

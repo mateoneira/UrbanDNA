@@ -1,9 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:300|Montserrat|Josefin+Sans:600');
+
 html, body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	font-family: 'Raleway', sans-serif;
+	font-family:  "Montserrat", Helvetica, Arial, sans-serif;
 }
+
+.mainWrapper{
+	/*make map occupy the height of device*/
+	height: 100vh;
+}
+
+#overView {
+	padding-top: 85px;	
+
+}
+
 #container {
     display: block;
     position: absolute;
@@ -27,6 +40,7 @@ html, body {
 	font-size: 2em;
 }
 #header-text {
+	font-family: "Exo 2", sans-serif;
 	vertical-align: middle;
 	display: inline-block;
 	line-height: 2em;
@@ -125,7 +139,7 @@ html, body {
 
 .submit {
 	font-size: large;
-	font-family: 'Raleway', sans-serif;
+	font-family:  "Montserrat", Helvetica, Arial, sans-serif;
 }
 
 label{
