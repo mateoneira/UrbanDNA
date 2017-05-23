@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495283492565.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF5A0442",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1495283492565,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "538085A0",
+        "caption" : "wards.shp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wards.shp&cache_key=538085A0",
+        "displayedObservations" : 649,
+        "environment" : "",
+        "object" : "wards.shp",
+        "preview" : 0,
+        "totalObservations" : 649,
+        "variables" : 7
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
